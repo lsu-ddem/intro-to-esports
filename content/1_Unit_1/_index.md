@@ -1,3 +1,3 @@
 ---
-title: "Unit 1 - Intro to Ethics"
+title: "Unit 1"
 ---
