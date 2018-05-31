@@ -23,7 +23,7 @@ During the Game unit of Digital Storytelling, students will put computational th
 
 Students will begin with an introductory activity in which they write a brief story from a given game related image. After the introductory activity, students will be introduced to the last project of the semester, known as the Universe Project. As a class, students will decide upon a time period, a list of characters and character traits, and a small backstory for each character. The story will continue from this point on in future classes, and will depend on the traits the class came up with. Students will then independently choose which medium or combination of mediums that the story will be told through. Students will also independently create a project management spreadsheet that is split up into two sprints, deciding which goals need to be met at the end of each sprint in order to successfully complete the project within the given time frame. Though the storyline is partially created by the class as a whole, students will independently create their end product that is ready to be displayed at a final showcase(of the semester). No matter the medium a student chooses, each submission will require a script, flow chart, storyboard(s), credits, and a presentation. Final semester projects will be presented by the students in a formal setting.
 
- ### Project:
+### Project:
 **Assignment:**  Completing individual video games
 
 		
