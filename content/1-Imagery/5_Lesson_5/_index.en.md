@@ -76,6 +76,7 @@ Lesson is expected to last 2 days.
 - **Connecting with STEM Professionals:** view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
 
 - **Assessing Learning:** have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.
+
 #### III. Closing Activity: 
 Students can view the class comic book and identify what worked well and what worked poorly in terms of design, application of skill sets, narrative, etc.
 
