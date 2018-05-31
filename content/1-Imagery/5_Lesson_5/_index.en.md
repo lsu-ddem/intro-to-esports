@@ -12,7 +12,7 @@ During the Imagery unit of Digital Storytelling, students will be introduced to 
 **II.** Students will demonstrate their ability to utilize all of the skills they have developed thus far to create an imagery heavy story about an important subject.
 
 ## Lesson
- ### I. Overview:
+### I. Overview:
 Students will begin with an introductory activity in which they write a brief story from a given picture. After the introductory activity, students will add the comic strip creator app to their laptops (the app can be found in teacher resources). Each student will be assigned a topic which they will illustrate their opinion on. Upon completion of the comic, students will submit their illustrations for peer review in which two peers must sign off on the comic strips. During peer review, students will be instructed to look for diversity, POV, composition, and responsibility in terms of efficacy and ethics in the comic strips.  After peer review, the comics will be combined into a class comic book, which will be archived for later use. 
 
 
@@ -50,7 +50,7 @@ Students will begin with an introductory activity in which they write a brief st
 
 
 
- ### II. Outcomes:
+### II. Outcomes:
 By the end of the lesson, students will have an in depth understanding of imagery composition styles and rules by both viewing extensive examples of the different types and creating their own examples of the different types. Students will have experience combining and displaying imagery in a way and order that tells a specific story, and deciphering the story a specific combination of images is attempting to convey.
 
 
