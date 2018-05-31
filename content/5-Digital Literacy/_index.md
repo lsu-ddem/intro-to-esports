@@ -1,4 +1,4 @@
 ---
-title: "Imagery"
-weight: 1
+title: "Digital Literacy"
+weight: 5
 ---
