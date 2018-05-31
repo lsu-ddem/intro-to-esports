@@ -23,6 +23,55 @@ During the Game unit of Digital Storytelling, students will put computational th
 
 Students will begin with an introductory activity in which they write a brief story from a given game related image. After the introductory activity, students will be introduced to the last project of the semester, known as the Universe Project. As a class, students will decide upon a time period, a list of characters and character traits, and a small backstory for each character. The story will continue from this point on in future classes, and will depend on the traits the class came up with. Students will then independently choose which medium or combination of mediums that the story will be told through. Students will also independently create a project management spreadsheet that is split up into two sprints, deciding which goals need to be met at the end of each sprint in order to successfully complete the project within the given time frame. Though the storyline is partially created by the class as a whole, students will independently create their end product that is ready to be displayed at a final showcase(of the semester). No matter the medium a student chooses, each submission will require a script, flow chart, storyboard(s), credits, and a presentation. Final semester projects will be presented by the students in a formal setting.
 
+ ### Project:
+**Assignment:**  Completing individual video games
+
+		
+
+ **1.**  Students will complete work on their resources if they were not completed during the prior lesson. Afterwards, students will complete and publish their video games.
+    
+-   Make the game.
+    
+-   Publish the story.
+    
+
+**2.**   Before the students publish their work, make sure they proofread!
+  -   Proofreading can be daunting since you need to look at each passage individually in the editor.
+    
+-   Instead, choose View Proofing Copy from the story menu.
+    
+-   This will create a plain text document with all of the text in the story split into sections based on passages.
+    
+
+-   Review and grading can be: printing this document as-is, save to a PDF in chrome, or copy and paste it into a word processor.
+    
+
+**3.**   Checking for broken links can be done in two ways. 
+- First, any passages that do have broken links will be tinted red in the story map. 
+- Secondly, choose Story Statistics from the story menu. If the number of broken links is 0, then your game is free of broken links.
+    
+**4.** After students proofread and complete their games, they will publish them via Twinery and play games created by their classmates.
+ 
+
+**Project Outcomes:** 
+-   Experience producing a final product using multiple mediums
+    
+-   Demonstrate appropriate and insightful constructive criticism
+    
+-   Ability to appropriately receive constructive criticism and give genuine consideration to criticism
+    
+-   Implement computational thinking skills during the development of the video game
+    
+-   Implement narrative reasoning skills during the development of the video game
+    
+-   Demonstrate increased proficiency in Audacity, Twinery, and other technologies used during the creation/editing of assets
+
+**Final Product(s):**
+	
+
+ - Published video game
+
+
 ### II. Outcomes:
 
 By the end of the lesson, students will have extensively honed skills necessary to independently and efficiently produce an elaborate, captivating, and/or interactive story from the beginning of the design process to the final process of publishing. Students will have an in-depth grasp of what all goes into storytelling via different medias, the documentation necessary to create a complete, compelling story (storyboards, flowcharts, etc.), the artistry that the creation of unique resources requires, and the interaction that the different phases of developing a story/game have with each other, eventually coexisting together to produce a complete story or game.
