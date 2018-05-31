@@ -11,8 +11,10 @@ During the Sonic unit of Digital Storytelling, students will be introduced to th
 
 **II.** Students will have an in-depth understanding of the importance of sound in storytelling.
 
-## Lesson:
- ### I. Overview:
+## Lesson
+
+### I. Overview:
+
 Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, the instructor will explain the importance and use of Cornell Notes handouts (this information can be found in teacher resources). Students will then listen to the radiolab podcast entitled *Psyche and Sound* and take notes on the Cornell Notes handout (found in handout resources). Students should formulate and pose their own questions, in addition to attempting to answer questions such as 
 -	What is music?
 -	Why does it move us?
