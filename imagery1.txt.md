@@ -54,7 +54,7 @@ Lesson is expected to last 2 days.
 
 - [Single Picture Assignment](https://drive.google.com/drive/folders/0B9qWAFzy0oO7a19KeVYxWkxoWW8)
 
-### V. Learning Activities:
+###  Learning Activities:
 
 #### I. Introductory Activity
 -  **Icebreaker:** The class will begin with an icebreaker activity that will stir conversations and or questions(ex:Two lies and a truth).
@@ -74,10 +74,10 @@ Lesson is expected to last 2 days.
 
 
 
-### VI. Student Handouts:
+### Student Handouts:
 There are no handouts for this lesson as it is project based.
 
-### VII. Implementation Feedback: 
+### Implementation Feedback: 
 Students will receive feedback from their peers and instructor while they are sharing their story with their classmates. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
 
@@ -85,6 +85,6 @@ Students will receive feedback from their peers and instructor while they are sh
 ### Best Practices:
 Exemplary Previous student work: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY3OTY4MTYsLTEyMTQ0MDQyMjJdfQ
+eyJoaXN0b3J5IjpbLTE4NjY4MjQyMzcsLTEyMTQ0MDQyMjJdfQ
 ==
 -->
