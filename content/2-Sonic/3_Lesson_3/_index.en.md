@@ -1,5 +1,5 @@
 ---
-title:  3
+title: Lesson 3
 weight: 3
 ---
 ## Unit Description: 
