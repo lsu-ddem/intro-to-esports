@@ -51,7 +51,7 @@ After the introductory activity in which students write a brief story from a giv
  - Unique story to accompany given image
 
 
- ### II. Outcomes:
+### II. Outcomes:
 By the end of the lesson, students will have a more in depth understanding of the role imagery plays in storytelling as they have now developed a story relative to characteristics they obtained by analyzing the image.  Students will have a greater understanding of diversity in storytelling and media as they interact with their classmates and understand how they created their interpretations of the different images. 
 
 ###  Duration: 
