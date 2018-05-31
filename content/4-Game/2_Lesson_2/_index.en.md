@@ -24,6 +24,44 @@ During the Game unit of Digital Storytelling, students will put computational th
 
 Students will begin with an introductory activity in which they write a brief story from a given game related image. After the introductory activity, students will begin the development process of their new assignment which is the creation of another game. In this lesson, students will work solely on the development stages of the game, which includes writing a script, developing multiple storyboards, and designing a flowchart for their game. A flowchart is necessary because the games will have multiple pathways that a player/protagonist can take, similar to the games made in the previous lesson. The flowchart provides an organized, clear view of all of the possible pathways the student designs. The students will begin with a main storyboard that ends at a decision or path break. At the path break, a new storyboard will be generated, also known as a branch. Branches will also come to a decision or path break, ending the branch's storyboard. For each branch there must be two possible options following; therefore there must be two limbs (storyboards branching off of a branch) per one branch. In total, a minimum of four branches must be created. Therefore there will be a minimum of eight limb storyboards. This lesson requires more planning via storyboards than any lesson prior, but this is solely because most story based games have a 9000+ cell storyboard, and this is a necessary part of the creative and developmental process.
 
+### Project:
+**Assignment:**  Developing a Unique Video Game
+
+		
+
+ **1.**  Students will begin to work on their storyboard, script, and possible pathways to complete the game.
+    
+**2.**   Scripts will be accompanied by a [flow chart](https://www.draw.io/) depicting the available routes that the protagonist is able to take, or the decisions that the protagonist can make
+    
+**3.**  The script should accompany the flow chart and the storyboards
+    
+**4.** One storyboard per path, minimum of four branch paths and eight limb paths
+    
+**5.**   Each student will start with a main storyboard that ends at a decision or path break. 
+- After the path break or decision, at minimum four storyboards will be generated due to the minimum amount of four branches. 
+- Branches  will come to a decision or path break, thus ending those storyboards. 
+- The last storyboards will complete the limbs, concluding the eight final storyboards.
+    
+
+**6.**   This will be a daunting task but it is a necessary part of the creative process. This is done for all story based games. Most story based games have a 9000+ cell storyboard.
+ 
+**7.** Note that this portion of the project is focused on the game's development via scripts, storyboards, flowcharts, etc.
+ 
+
+**Project Outcomes:** 
+-   Understand the concept of computational thinking and how it can be applied to various situations and problems
+    
+-   Implement computational thinking to develop a logical sequence of events for a unique, dynamic story
+    
+-   Implement narrative reasoning skills to develop multiple pathways for the storyline
+    
+-   Demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+
+**Final Product(s):**
+	
+
+ - A video game in the developmental stage, including a name, concept, script, storyboard, flowcharts, etc.
+
 ### II. Outcomes:
 
 By the end of the lesson, students will have extensive experience documenting their storyline with multiple endings, preparing the documents for a video game, organizing overall plans with tools such as flowcharts, and sharpened creativity and narrative reasoning skills.
