@@ -21,8 +21,8 @@ Students will begin with an introductory activity in which they write a brief st
 -	How does the brain process sound, and why are some people better at processing sound than others?
 
 
+### II. Outcomes:
 
- ### II. Outcomes:
 By the end of the lesson, students will have an in depth understanding of the process of listening and deciphering sounds, and how to use this new knowledge during the creation of new sound.
 ### Project:
 **Assignment:**  Note-taking Assignment
