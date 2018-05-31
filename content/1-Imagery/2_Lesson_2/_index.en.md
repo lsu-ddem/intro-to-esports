@@ -12,7 +12,7 @@ During the Imagery unit of Digital Storytelling, students will be introduced to 
 **II.** Sharpening creative, expressive, narrative, reasoning, and critical thinking skills by developing a storyline from individual images.
 
 ## Lesson
- ### I. Overview:
+### I. Overview:
 After the introductory activity in which students write a brief story from a given picture, students will begin working on their next projects. The project, "The Images of Heinous Beginnings," involves students working individually to use their narrative reasoning to determine characteristics of an image given by the instructor. The instructor will give a random image to groups of students without its history, origin, or any other information. Students within the groups will individually determine characteristics of the image, such as the time period in which it was taken, location, subject, context, etc. Once the student has determined such characteristics, they will develop a story relevant to the context of the image that incorporates all of the characteristics they have discovered. The story should contain all aspects of an essay except for a conclusion. Students will then present their essays to their group members. Groups will then select one representative to share their story with the class. After all group representatives have spoken, the true origin and characteristics of each image will be revealed. Students will then be given an opportunity to further develop their stories and implement a plot twist now that they are aware of the true characteristics of the image.
 
 ### Project:
