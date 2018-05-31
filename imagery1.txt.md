@@ -16,7 +16,7 @@ During the Imagery unit of Digital Storytelling, students will be introduced to 
  ### I. Overview:
 After a brief discussion pertaining to character roles, types, and developments in storytelling, students will find examples of the terms just discussed in clips of TV episodes. Students will propose TV shows to view clips of, and of the proposed shows a few will be selected. While watching clips from the selected episodes, students will dissect the video to identify examples of character roles, types, and development as it was just discussed. The shift from video medium to imagery will take place and students will begin their assignments. The assignment consists of selecting an image as a group and forming a story around said image. The lesson will conclude with groups comparing and contrasting stories and the methods each group took to develop their story.
 
-### Project:
+### II. Project:
 **Assignment:**  Single Picture Assignment
 
 		
@@ -85,5 +85,6 @@ Students will receive feedback from their peers and instructor while they are sh
 ### Best Practices:
 Exemplary Previous student work: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTQ0MDQyMjJdfQ==
+eyJoaXN0b3J5IjpbLTEwMDY3OTY4MTYsLTEyMTQ0MDQyMjJdfQ
+==
 -->
