@@ -1,5 +1,5 @@
 ---
-title: Lesson 3
+title:  3
 weight: 3
 ---
 ## Unit Description: 
@@ -12,13 +12,16 @@ During the Sonic unit of Digital Storytelling, students will be introduced to th
 **II.** Students will create a multimodal scripted radio show with limited tools and time about a subject matter that is pertinent to the present time.
 
 ## Lesson:
+ ### Overview:
+Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be informed of the subject and guidelines of their next project, in which they will be producing a radio show. Prior to working on the radio shows, students will propose their ideas for the subject of their radio show. After approval, students will write the script and time map for their radio show. Scripts must adhere to guidelines set by the instructor, such as including cues, dialogue, sounds and their descriptions, maximum number of music tracks, limitations on repetitive actions, etc. Students must read and time their scripts prior to recording their radio show, after which they will record the 3-6 minute long show and edit the recording utilizing their newfound sound editing skills with the Audacity software. Each radio show will be broadcasted (played to the class as a whole), after which classmates and the instructor can offer constructive criticism and feedback.
+
+ 
+
  ### I. Overview:
 Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be informed of the subject and guidelines of their next project, in which they will be producing a radio show. Prior to working on the radio shows, students will propose their ideas for the subject of their radio show. After approval, students will write the script and time map for their radio show. Scripts must adhere to guidelines set by the instructor, such as including cues, dialogue, sounds and their descriptions, maximum number of music tracks, limitations on repetitive actions, etc. Students must read and time their scripts prior to recording their radio show, after which they will record the 3-6 minute long show and edit the recording utilizing their newfound sound editing skills with the Audacity software. Each radio show will be broadcasted (played to the class as a whole), after which classmates and the instructor can offer constructive criticism and feedback.
 
 ### Project:
-**Assignment:**  Scripted Radio Showingle Picture Assignment
-
-		
+**Assignment:**  Scripted Radio Show
 
  **1.** Students must develop a preposition for their show and have the idea(s) apAs a group, students wi proved by the instructor.
  
@@ -26,9 +29,8 @@ Students will begin with an introductory activity in which they write a brief st
  
  **3.** Students must time and read their scripts before recording and implementing. 
  
- **4.** Finally, students will edit, record, and publish each show utilizing their Audacity i.
+ **4.** Finally, students will edit, record, and publish each show utilizing their Audacity skills.
  
-
 **Project Outcomes:** 
 -   Develop and demonstrate time management skills required to complete a quality product within a limited amount of time
     
@@ -46,10 +48,6 @@ Students will begin with an introductory activity in which they write a brief st
 	
 
  - Radio show with a duration of 3-6 minutes
- 
- ### II. Outcomes:
-By the end of the lesson, students will have experience developing sonic stories, the process of creating scripts and timemaps, and creating and applying appropriate sounds to a new type of storyline.
-
 
 ### III. Duration: 
 Lesson is expected to last 2-3 days.
@@ -90,8 +88,3 @@ Students can receive feedback on their radio show from their peers and instructo
 ## Other Important Course Development Information
 ### Best Practices:
 Exemplary Previous student work: 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE4NjY1MTcsMTkyOTU5NTA2NywtMT
-IwMDE1OTA3Miw4MDQxMDE2OTcsLTEyODEwOTEwMywxMDcyMjc3
-OTA5XX0=
--->
