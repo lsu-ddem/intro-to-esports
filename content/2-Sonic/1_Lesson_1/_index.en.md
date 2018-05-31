@@ -20,11 +20,6 @@ Students will begin with an introductory activity in which they write a brief st
 -	Why does it move us?
 -	How does the brain process sound, and why are some people better at processing sound than others?
 
-
-
-### II. Outcomes:
-
-By the end of the lesson, students will have an in depth understanding of the process of listening and deciphering sounds, and how to use this new knowledge during the creation of new sound.
 ### Project:
 **Assignment:**  Note-taking Assignment
 
@@ -50,6 +45,11 @@ By the end of the lesson, students will have an in depth understanding of the pr
 	
 
  - Notes on Cornell Notes Handouts
+
+### II. Outcomes:
+
+By the end of the lesson, students will have an in depth understanding of the process of listening and deciphering sounds, and how to use this new knowledge during the creation of new sound.
+
 
 ### III. Duration: 
 Lesson is expected to last 1 day.
