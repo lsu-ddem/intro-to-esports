@@ -12,9 +12,9 @@ During the Sonic unit of Digital Storytelling, students will be introduced to th
 **II.** Students will learn how to implement their new listening skills and apply them cohesively with skills that can help their communities, and make their voices heard.
 
 
-## Lesson:
+## Lesson
 
- ### I. Overview:
+### I. Overview:
  
 Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will begin producing stories that will be listed in the StoryCorps national archive. Students will begin with researching the significance of the StoryCorps platform. Each student must then find three (3) stories which they relate to, and then explain how they relate to each. Students will then select a subject outside of their school but within their community for their interviews. Next, students will develop an interview process utilizing the StoryCorps resources and other resources provided by the instructor. The students should interview members of their community concerning their selected subject and record the interview process. The number of interviewees and other guidelines should be set by the instructor. After students have their recorded interviews, they will edit all of their recordings to develop their StoryCorps submission, and submit their story to the national archive.
 
