@@ -61,7 +61,7 @@ By the end of the lesson, students will have experience creating and implementin
 
 
 ### III. Duration: 
-Lesson is expected to last 3-4 days.
+Lesson is expected to last 1 day.
 
 ### IV. Preparing to Teach this Lesson:
 -	[Video about the meaning and purpose of StoryCorps](https://youtu.be/KGCD1XR0WPk) that students can watch to learn the significance of the StoryCorps platform.
