@@ -15,11 +15,6 @@ During the Sonic unit of Digital Storytelling, students will be introduced to th
  ### Overview:
 Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be informed of the subject and guidelines of their next project, in which they will be producing a radio show. Prior to working on the radio shows, students will propose their ideas for the subject of their radio show. After approval, students will write the script and time map for their radio show. Scripts must adhere to guidelines set by the instructor, such as including cues, dialogue, sounds and their descriptions, maximum number of music tracks, limitations on repetitive actions, etc. Students must read and time their scripts prior to recording their radio show, after which they will record the 3-6 minute long show and edit the recording utilizing their newfound sound editing skills with the Audacity software. Each radio show will be broadcasted (played to the class as a whole), after which classmates and the instructor can offer constructive criticism and feedback.
 
- 
-
- ### I. Overview:
-Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be informed of the subject and guidelines of their next project, in which they will be producing a radio show. Prior to working on the radio shows, students will propose their ideas for the subject of their radio show. After approval, students will write the script and time map for their radio show. Scripts must adhere to guidelines set by the instructor, such as including cues, dialogue, sounds and their descriptions, maximum number of music tracks, limitations on repetitive actions, etc. Students must read and time their scripts prior to recording their radio show, after which they will record the 3-6 minute long show and edit the recording utilizing their newfound sound editing skills with the Audacity software. Each radio show will be broadcasted (played to the class as a whole), after which classmates and the instructor can offer constructive criticism and feedback.
-
 ### Project:
 **Assignment:**  Scripted Radio Show
 
