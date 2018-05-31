@@ -12,7 +12,7 @@ During the Imagery unit of Digital Storytelling, students will be introduced to 
 **II.** Developing skills to implement creativity and expression while under specific guidelines, such as requiring the use/incorporation of different composition types.
 
 ## Lesson:
- ### I. Overview:
+### I. Overview:
 Students will begin with an introductory activity in which they write a brief story from a given picture. After the introductory activity, the instructor will begin to show examples of imagery in compositions of photography, film, paintings, architecture, etcetera. Upon reveal of the basic composition styles, students will create a portfolio of great examples of the image composition types.
 Within the folder the students will define subfolders of the composition types and begin to import great examples of each of the their respective folders. During the next assignment, students practice replicating the compositions that they have learned about through subjects around the classroom, possibly around the campus (if allowed by the school/instructor). Students should use their cameras to capture subjects using the composition types and rules previously reviewed. Once the students have collected their data, they will regroup and categorize their images with a shared folder; after which they will proceed to create an image storybook using google slides, incorporating all images from the group, that is clear and delivers a message. After completion, groups will share, contrast, and compare their stories with other groups. Afterwards, students must label each of their captured images with the composition style or rule and add a caption to their images describing their image with a poetic flare.
 
@@ -55,7 +55,7 @@ Within the folder the students will define subfolders of the composition types a
 
  
 
- ### II. Outcomes:
+### II. Outcomes:
 By the end of the lesson, students will have an in depth understanding of imagery composition styles and rules by both viewing extensive examples of the different types and creating their own examples of the different types. Students will have experience combining and displaying imagery in a way and order that tells a specific story, and deciphering the story a specific combination of images is attempting to convey.
 
 
