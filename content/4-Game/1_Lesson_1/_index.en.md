@@ -10,9 +10,13 @@ During the Game unit of Digital Storytelling, students will be introduced to the
 ## Lesson Outcomes:
 
 **I.** Students will further develop narrative reasoning and creative skills by exploring possible pathways, timers, and options available for storylines.
+
 **II.** Students will understand the concept of computational thinking and how it can be applied to various situations and problems
+
 **III.** Students will understand the concept of narrative reasoning
+
 **IV.** Observe the successful implementation of a dynamic story, how its multiple pathways alter the viewer’s experience, and how dynamic stories adapt to character developments
+
 **V.** Acquire new technological skills by use of Twinery
 
 ## Lesson
