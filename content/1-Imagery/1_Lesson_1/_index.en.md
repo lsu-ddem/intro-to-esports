@@ -1,5 +1,5 @@
-﻿---
-title: Lesson 1
+---
+title: Imagery 1
 weight: 1
 ---
 
@@ -16,7 +16,7 @@ During the Imagery unit of Digital Storytelling, students will be introduced to 
  ### I. Overview:
 After a brief discussion pertaining to character roles, types, and developments in storytelling, students will find examples of the terms just discussed in clips of TV episodes. Students will propose TV shows to view clips of, and of the proposed shows a few will be selected. While watching clips from the selected episodes, students will dissect the video to identify examples of character roles, types, and development as it was just discussed. The shift from video medium to imagery will take place and students will begin their assignments. The assignment consists of selecting an image as a group and forming a story around said image. The lesson will conclude with groups comparing and contrasting stories and the methods each group took to develop their story.
 
-### Project:
+### II. Project:
 **Assignment:**  Single Picture Assignment
 
 		
@@ -54,7 +54,7 @@ Lesson is expected to last 2 days.
 
 - [Single Picture Assignment](https://drive.google.com/drive/folders/0B9qWAFzy0oO7a19KeVYxWkxoWW8)
 
-### V. Learning Activities:
+###  Learning Activities:
 
 #### I. Introductory Activity
 -  **Icebreaker:** The class will begin with an icebreaker activity that will stir conversations and or questions(ex:Two lies and a truth).
@@ -74,10 +74,10 @@ Lesson is expected to last 2 days.
 
 
 
-### VI. Student Handouts:
+### Student Handouts:
 There are no handouts for this lesson as it is project based.
 
-### VII. Implementation Feedback: 
+### Implementation Feedback: 
 Students will receive feedback from their peers and instructor while they are sharing their story with their classmates. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
 
