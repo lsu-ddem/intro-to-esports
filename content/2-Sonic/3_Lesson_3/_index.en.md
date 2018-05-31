@@ -1,26 +1,3 @@
-sound3.txt
-
-A
-
-T
-Type
-Text
-Size
-6 KB (6,222 bytes)
-Storage used
-10 KB (10,683 bytes)
-Location
-2-Sonic
-Owner
-me
-Modified
-12:15 PM by Aylesha Patterson
-Opened
-12:16 PM by me
-Created
-Jan 10, 2018 with Google Drive Web
-Add a description
-Viewers can download
 ---
 title:  3
 weight: 3
