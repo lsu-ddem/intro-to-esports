@@ -1,5 +1,5 @@
 ---
-title: Imagery 2
+title: Lesson 2
 weight: 2
 ---
 ## Unit Description: 
