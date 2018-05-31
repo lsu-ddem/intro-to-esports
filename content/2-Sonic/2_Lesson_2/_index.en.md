@@ -13,7 +13,9 @@ During the Sonic unit of Digital Storytelling, students will be introduced to th
 **II.** Students will be versed in software documentation, self documentation, and troubleshooting by using the audio software Audacity.
 
 ## Lesson
+
  ### I. Overview:
+ 
 Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be given a brief walkthrough of Audacity that explains what it is used for, and how to navigate and use it. Students will then begin experimenting with the software by taking their selected sound file, found from a free source, and manipulating the file's loudness, pitch, quality, timbre, etc. in Audacity. After students have had practice with duplicating, replicating, and combining tracks, they will produce a small soundscape to accompany the image that they took in the last unit (the image with something of significance to them). Soundscapes must meet specific requirements set by the instructor, such as a specified minimum and maximum length, minimum number of original sounds incorporated, maximum number of non-original sounds incorporated, and minimum number of layers.
 
  ### II. Outcomes:
