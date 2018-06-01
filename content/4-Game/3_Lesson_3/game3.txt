@@ -10,6 +10,10 @@ weight: 3
   
 ## Title: Game Development in Action Pt. 1
 
+## Unit Description:
+
+During the Game unit of Digital Storytelling, students will put computational thinking and narrative reasoning to work withduring the creation of a unique, dynamic story.
+
 ## Lesson:
 
 ### Objective(s):
@@ -23,6 +27,10 @@ This lesson places computational thinking and narrative reasoning in action with
 ### Expected Lesson Duration:
 
 1 days
+
+### Preparing to Teach This Lesson:
+
+There are no resources necessary for this lesson.
 
 ### Primary Subject Area and Grade Level:
 
