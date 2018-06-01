@@ -64,8 +64,6 @@ The closing activity can include a showcase of each groups'  30 second films, in
 
 
 
-
-
 ## Implementation Feedback: 
 Students can receive feedback on their completed films from their peers and instructor. Students can then share how they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
