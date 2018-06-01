@@ -1,5 +1,5 @@
 ---
-title: Tools for Creating an Effective 30’s Story
+title: Tools for Creating an Effective Story
 weight: 2
 ---
 
