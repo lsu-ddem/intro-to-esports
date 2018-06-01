@@ -19,7 +19,8 @@ Lesson is expected to last 2 days.
 
 ### Preparing to Teach this Lesson:
 Videos to be Shown as Silent Films:
--	[1: The Lion's Cage](https://www.youtube.com/watch?v=mpjEyBKSfJQ&feature=youtu.be) 
+
+- [1: The Lion's Cage](https://www.youtube.com/watch?v=mpjEyBKSfJQ&feature=youtu.be) 
 
 - [2: Life](https://www.youtube.com/watch?v=mWZ6b_I-Djg&feature=youtu.be)
 
