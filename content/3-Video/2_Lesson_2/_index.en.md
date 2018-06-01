@@ -29,6 +29,12 @@ Students will again need to use the [storyboard template](https://drive.google.c
 #### Introduction/Gain Attention
 -  **Video of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a video presented by the instructor.
 
+#### Project
+- The instructor will preview Affinity-1912 with students, explaining various shots and concepts, as an example.
+
+- Students will recreate one of two silent films, as selected from the two films viewed in class, in storyboard format.
+
+
 ## Outcomes
 -   Develop and demonstrate time management skills required to complete a quality product within a limited amount of time
     
