@@ -9,6 +9,10 @@ weight: 2
 
 ## Title: Beginning Storytelling via Games
 
+## Unit Description:
+
+During the Game unit of Digital Storytelling, students will put computational thinking and narrative reasoning to work in the development of games.
+
 ## Lesson:
 
 ### Objective(s):
@@ -22,6 +26,10 @@ This lesson puts computational thinking and narrative reasoning to work in the d
 ### Expected Lesson Duration:
 
 2 days
+
+### Preparing to Teach This Lesson:
+
+There are no resources necessary for this lesson.
 
 ### Primary Subject Area and Grade Level:
 
