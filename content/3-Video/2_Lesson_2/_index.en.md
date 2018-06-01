@@ -3,7 +3,6 @@ title: Tools for Creating an Effective 30’s Story
 weight: 2
 ---
 
-## Title: Tools for Creating an Effective 30’s Story
 
 ## Unit Description: 
 During the Video unit of Digital Storytelling, students will be introduced to the importance of storytelling through the lens of a motion camera. 
