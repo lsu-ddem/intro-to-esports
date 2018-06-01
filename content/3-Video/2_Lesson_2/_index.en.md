@@ -27,8 +27,8 @@ Students will again need to use the [storyboard template](https://drive.google.c
 
 ### Lesson Procedure:
 
-- #### Introduction/Gain Attention
-	-  **Video of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a video presented by the instructor.
+#### Introduction/Gain Attention
+-  **Video of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a video presented by the instructor.
 
 ## Outcomes
 -   Develop and demonstrate time management skills required to complete a quality product within a limited amount of time
