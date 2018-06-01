@@ -8,6 +8,10 @@ weight: 1
 <Name First Last><Email><work#>
 
 ## Title: What is the “Oregon Trail”?
+
+## Unit Description:
+
+During the Game unit of Digital Storytelling, students will be introduced to the language of computational thinking and narrative reasoning.
   
 ## Lesson:
   
@@ -22,6 +26,16 @@ This lesson introduces students to the language of computational thinking and na
 ### Expected Lesson Duration:
 
 1.5-2 days
+
+### Preparing to Teach This Lesson:
+
+Game students will play:
+
+-   [_The Uncle that Works for Nintendo_](http://jayisgames.com/games/the-uncle/)
+
+Twinery Software:
+
+-   [Twinery](https://twinery.org/)
 
 ### Primary Subject Area and Grade Level:
 
