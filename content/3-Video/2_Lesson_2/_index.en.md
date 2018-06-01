@@ -7,7 +7,7 @@ weight: 2
 ## Unit Description: 
 During the Video unit of Digital Storytelling, students will be introduced to the importance of storytelling through the lens of a motion camera. 
 
-## Lesson
+## Lesson:
 
 ### Objective(s):
 Students will have experience creating a film and incorporating all of the skills and techniques they have learned thus far within a limited time period.
