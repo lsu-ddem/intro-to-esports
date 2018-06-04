@@ -35,6 +35,7 @@ Students will again need to use the [Cornell](https://drive.google.com/open?id=1
 #### Introduction/Gain Attention
 
 - **Video of the Day:** The class will begin with a silent film project. Each film will be shown and each student is required to write at least one positive and one critical feedback on the projects displayed. These will be placed in the students journals.
+
 #### Project
 -   The students will review a [few case studies](http://www.colour-affects.co.uk/)  [2](http://www.colormatters.com/color-and-the-body) in which researchers are describing hue and its relationship to people's emotions.
     
