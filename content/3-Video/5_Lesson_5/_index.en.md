@@ -1,5 +1,3 @@
-video5.txt
-video5.txt
 ---
 title: Reading Lips
 weight: 5
