@@ -20,7 +20,7 @@ Lesson is expected to last 2 days.
 ### Preparing to Teach this Lesson:
 Videos to be Shown as Silent Films:
 
-- [1: The Lion's Cage](https://www.youtube.com/watch?v=mpjEyBKSfJQ&feature=youtu.be) 
+-	[1: The Lion's Cage](https://www.youtube.com/watch?v=mpjEyBKSfJQ&feature=youtu.be) 
 
 - [2: Life](https://www.youtube.com/watch?v=mWZ6b_I-Djg&feature=youtu.be)
 
@@ -37,6 +37,51 @@ Students should be given access to the resources provided in the lesson prep sec
 ### Lesson Procedure:
 #### Introduction/Gain Attention
 -  **Video of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a video presented by the instructor.
+
+#### Project
+-  After the completion of students journal entries the students will watch [The Lions Cage](https://youtu.be/mpjEyBKSfJQ) as well as [Life](https://youtu.be/mWZ6b_I-Djg)
+    
+
+-   (make sure the sound is muted so the students do not even hear the music that accompanies these films)
+    
+
+-   After the students have finished watching the films, the students will try to recreate the film of their choice(between the two films) in a storyboard format.
+    
+-   Transition from a video medium to what is a storyboard partition
+    
+-   “What is a storyboard and why do I need one?” lesson
+    
+-   This lesson can be done as a lecture or a class discussion, but make sure to include:
+    
+
+-   Clarity between the team
+    
+-   Time (saves time and clarifies a timeline)
+    
+-   Script(even if no one says anything--- recall the directives in the audio lesson)
+    
+-   All professional videos have a storyboard 30s-3hrs
+    
+-   The storyboard comes before the video
+    
+-   Concepts and composition(remember in the imagery unit, the students can recall the imagery shared folder with all the composition rules )
+    
+-   Continuity of the project and serves as a checklist
+    
+-   Subject descriptions and mannerisms
+    
+
+-   After the lecture, class discussion, or hybrid of the two the instructor as well as the students should work on an example together
+    
+-   But first [share this](https://drive.google.com/open?id=1krc-FNF7EGUvxVXCDLVW7KvX0cDvZehqQb5pXcirU2w) (Some kids work better with a written version)
+    
+-   [STORYBOARD](https://drive.google.com/open?id=0B-fnzlPK8lcvcTNWUE96Q1BYQ0k) Template for the class
+    
+-   Watch [Affinity-1912](https://www.youtube.com/watch?v=zjmRBUTapPA) and ensure that the students have at least one person in their group with the video on their device as well
+    
+-   Walkthrough the shots and concepts of the video as you document them on your storyboard.
+    
+-   After each student has received the basics of storyboarding, they must now select one of the two short silent films and get two work
 
 ## Outcomes
 
