@@ -1,5 +1,5 @@
 ---
-title: Lesson 3
+title: Feeling a Certain Way
 weight: 3
 ---
 
@@ -7,67 +7,167 @@ weight: 3
 
 During the Video unit of Digital Storytelling, students will be introduced to the importance of storytelling through the lens of a motion camera.
 
-## Lesson Outcomes:
+## Lesson: 
 
-**I.** Students will gain knowledge of the effects and affects of color and sounds on the human psyche, and ifwhether or not these concepts reign true for all cultures.
+### Objective(s):
 
-**II.** Students will implement all of the skills learned thus far to develop a seven second video that describes a given feeling using only sound and color.
+Students will have experience running through the development process of a film/video with extremely limited time periods.
 
-## Lesson
+### Overview:
+Students will form groups and each group will be assigned a different emotion. With this emotion, students will write a script, develop a storyboard, and shoot footage for their 7 second film.
 
-### I. Overview:
-
-Students will begin with an introductory activity in which they write a brief story from a given video. After the introductory activity, students will review case studies (found in lesson resources) pertaining to the relationship hue has with human emotions, while simultaneously taking notes using the Cornell notes guide. After students read and understand how color affects a person's psyche, the instructor should ask the class questions such as those found in the lesson resources(Case Studies of Color). Questions and answers should be recorded on the students' note guides as well. After completion of the case studies, students will watch the TED talk found in lesson resources, and start a new page of notes on the effects sound has on humans. After students complete note entries, they will listen to the challenge "Emotion in 7 Seconds." Students will form groups and each group will be assigned a different emotion by the instructor. With this emotion, students will write a script, develop a storyboard, and shoot footage for their 7 second film. Once again, a group cannot proceed to shooting footage before their storyboard has been peer reviewed by another group. Groups will only have the remainder of the class period to finish their films. Stipulations for the 7 second film include no text, music, or dialogue within the film. Films must also pertain to a group's given emotion, and any other stipulations implemented by the instructor. During the next class period, students will have 30 minutes to edit their films and export them to the digital class archive. Each 7 second film will then be showcased in a manner that can be decided by the instructor. For example, films can be shown and then the class can guess the emotion the group was assigned, groups can explain why they made specific decisions for their film based on their given emotion, etc. Next class period, all 7 second films can be combined together to create a rainbow of colors and emotions.
-
-### II. Outcomes:
-
-By the end of the lesson, students will have experience running through the development process of a film/video with extremely limited time periods. Students will gain confidence in implementing their skills by having to complete parts of the development process as quickly as possible. Students will have experience creating a meaningful, quality film that meets tight stipulations in less than two class periods, making them more than capable of making films in larger capacities and longer time periods with ease.
-
-### III. Duration:
+### Expected Lesson Duration: 
 
 Lesson is expected to last 1-1.5 days.
 
-### IV. Preparing to Teach this Lesson:
+### Preparing to Teach this Lesson:
 
-* [Case Studies of Color](http://www.colour-affects.co.uk/) that students will use to do research and take notes.
-* [TED Talk : 4 Ways Sound Affects Us](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us)
+- [Case Studies of Color](http://www.colour-affects.co.uk/) that students will use to do research and take notes.
 
-### V. Learning Activities:
+- [TED Talk : 4 Ways Sound Affects Us](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us)
 
-#### I. Introductory Activity
-
-* **Video of the Day:** The class will begin with a silent film project. Each film will be shown and each student is required to write at least one positive and one critical feedback on the projects displayed. These will be placed in the students journals.
-
-#### II. Core Lesson Activities
-
-* **Acquiring Key Concepts:** applying all skills gained thus far to create a complete 7 second short film. Implementing pre-production techniques such as writing scripts and developing storyboards, production techniques such as filming and editing, and post-production techniques such as peer review and archiving.
-
-- **Engaging in Experiential Learning:** collaboratively creating a short film with a group, producing scripts, storyboards, footage, implementing fresh video editing skills, and publishing a completed video/film.
-
-- **Building Proficiencies:** implementing all skills relevant to the production of a film to create an adequate finished product. Adhering to guidelines and stipulations, all within restrictive deadlines.
-
-* **Connecting with STEM Professionals:** view a video or listen to a professional discussing their use of sound in film or video to have a specific effect on emotions or psyche.
-
-* **Assessing Learning:** have groups explain what individual members worked on, how their story changed over the process of creating the film, what they found most useful or helpful in the process, etc. Groups can also explain their film to instructors and how they accommodated their films to meet the stipulations.
-
-#### III. Closing Activity:
-
-The closing activity can include a discussion of the effects that the imagery and video used within the students' own groups had on them, and justification for why/how they believe their given emotion was portrayed effectively in their films. Viewing of the films will be the next class period's introductory activity, so this should not be the closing activity.
-
-### VI. Student Handouts:
+### Student Handouts:
 
 Students will again need to use the [Cornell](https://drive.google.com/open?id=1Kyf1MC4igp7Lp1TiMAbRyUKmHjOvdiLVtugP91m6Gf0) notes handout
 
-### VII. Implementation Feedback:
+### Lesson Procedure:
+
+#### Introduction/Gain Attention
+
+- **Video of the Day:** The class will begin with a silent film project. Each film will be shown and each student is required to write at least one positive and one critical feedback on the projects displayed. These will be placed in the students journals.
+#### Project
+-   The students will review a [few case studies](http://www.colour-affects.co.uk/)  [2](http://www.colormatters.com/color-and-the-body) in which researchers are describing hue and its relationship to people's emotions.
+    
+-   After the student read the descriptions of how color affects a person’s psyche ask questions like:
+    
+	-   What color do women tend to wear on their wedding day? Is that true in all cultures?
+    
+	-   Does then the color have the same effect on someone from that culture?
+    
+	-   What effect if any does that have on storytelling?
+    
+	-   In many parts of Asia what color is worn to funerals?
+    
+	-   Does then the color have the same effect on someone from that culture?
+    
+	-   What effect if any does that have on storytelling?
+    
+	-   What does diversity have to do with storytelling?
+    
+
+-   The students must use the Cornell notes guide to take notes as they read the case studies and discuss the questions.
+    
+-   After the completion of the case studies the students must watch the selected [TED video](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us) and start a new notes page about the effects of sound on humans.
+    
+-   After the completion of students' note entries the students will listen to the challenge “Emotion in 7 seconds” and be assigned a different emotion for each group
+    
+	-   Some emotions might be complex and involve an intricate editing process
+    
+
+-   The students have the remainder of the class to develop a script, storyboard and shoot the footage for their seven second story
+    
+-   Prior to shooting your film at least one other group must review your groups storyboard
+    
+-   The subject for the film is ________________ emotion
+    
+-   STIPULATION: No text can be utilized within the film
+    
+-   STIPULATION: No music can be utilized within the film
+    
+-   STIPULATION: No dialogue can be utilized within the film
+    
+
+-   At the conclusion of the first day students will place their footage in their shared folder and begin editing the second day
+    
+-   Transition from capturing the footage to editing utilizing the iPads
+    
+-   Students have 30 minutes to edit their stories and export them to a digital archive for viewing in the following class
+    
+	-   In the following class all of the of the clips should be combined in order to develop a rainbow of colors and emotions, after the stories are reviewed
+
+## Outcomes:
+-   Identify the four ways sound affects individuals
+    
+-   Identify and explain the effects of color on the human psyche
+    
+-   Identify differences in the perception and meaning of color amongst different cultures
+    
+-   Implement knowledge of the effects of sound and color on human emotion to adequately convey the assigned emotion
+    
+-   Demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+    
+-   Ability to adhere to creative stipulations
+    
+-   Exercise and strengthen peer reviewing skills
+    
+-   Utilize and strengthen time management skills required to produce a quality product within a limited amount of time
+
+##   Content of Lesson
+
+- **Acquiring Key Concepts:** applying all skills gained thus far to create a complete 7 second short film. Implementing pre-production techniques such as writing scripts and developing storyboards, production techniques such as filming and editing, and post-production techniques such as peer review and archiving.
+
+  
+  
+
+- **Engaging in Experiential Learning:** collaboratively creating a short film with a group, producing scripts, storyboards, footage, implementing fresh video editing skills, and publishing a completed video/film.
+
+  
+
+- **Building Proficiencies:** implementing all skills relevant to the production of a film to create an adequate finished product. Adhering to guidelines and stipulations, all within restrictive deadlines.
+
+  
+  
+
+- **Connecting with STEM Professionals:** view a video or listen to a professional discussing their use of sound in film or video to have a specific effect on emotions or psyche.
+
+  
+
+- **Assessing Learning:** have groups explain what individual members worked on, how their story changed over the process of creating the film, what they found most useful or helpful in the process, etc. Groups can also explain their film to instructors and how they accommodated their films to meet the stipulations.
+
+  
+
+## Closure and Review
+
+-   Reiterate the importance of storytelling in media
+    
+-   The importance of a compelling, dynamic, and memorable story.
+    
+-   Digital archive
+    
+
+## Higher Level Thinking Skills Noted
+    
+
+-   Why must a compelling, dynamic, and memorable story contain: Curiosity, Details,Metaphors, Characters, and Movement.
+    
+## Relevance/Rationale:
+
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+
+  
+
+## Explorations and Extensions:
+
+Cultures use colors differently within their society, so how can scientist justify the colors links to different emotions?
+
+  
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in videography can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
+
+  
+
+## Modifications/Accommodations and Access for All:
+
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+
+## Implementation Feedback:
 
 Students can receive feedback on their completed films from their peers and instructor. Students can then share how they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
+  
 ## Other Important Course Development Information
 
 ### Best Practices:
 
 Exemplary Previous student work:
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2Mzg5NTIzXX0=
--->
