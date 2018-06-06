@@ -59,21 +59,21 @@ HS-ETS1-4.
 - **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
 
 #### Project
--   After the daily meme the students will be introduced to the next project, video games
+-   After the daily meme the students will be introduced to the next project, video games.
     
 -   All the students will play [”The uncle that works for Nintendo”](http://jayisgames.com/games/the-uncle/)
     
 -   As the students play the game have them pay attention to the possible pathways, timers, and options that are available.
     
 
--   Allow the students to pay notes to the images utilized
+-   Allow the students to pay notes to the images utilized:
     
--   Sounds
+	-   Sounds
     
--   Videos or motion graphics
+	-   Videos or motion graphics
     
 
--   Most importantly have the students pay attention to the quality and style of the story
+	-   Most importantly have the students pay attention to the quality and style of the story
     
 -   Direct the students to [Twinery](https://twinery.org/)
     
@@ -85,18 +85,18 @@ HS-ETS1-4.
     
 -   The best thing to do to avoid these problems is to regularly archive your work with the -archive- link on the right sidebar of the story list. This saves all of their stories to a file on your computer that they can then restore with the -import- link on the same page.
     
--   Use the green + Story button on the right side of the screen to get started with a new story. It will pop open a balloon asking what to call it. Name it whatever – if they need a hand with the naming scheme tell them to name it -the doctor that inspected the orifices of my body only to find out that two had been switched at birth -.
+-   Use the green + Story button on the right side of the screen to get started with a new story. It will pop open a balloon asking what to call it. Give it a name – if they need a hand with the naming scheme tell them to name it -the doctor that inspected the orifices of my body only to find out that two had been switched at birth -.
     
--   After they give their story a name,they will be taken to its story map. The story map is a canvas for the story that will expand in size. Instruct the students to move around it using the scroll bars of the window, or if they are using a touch-based device, just dragging around with their finger.
+-   After they give their story a name, they will be taken to its story map. The story map is a canvas for the story that will expand in size. Instruct the students to move around it using the scroll bars of the window, or if they are using a touch-based device, just dragging around with their finger.
     
 -   A box pops onto the story map as soon as it opens, called “Untitled Passage.” The story will be made up of individual passages. Usually, passages are shown one at a time to a reader. Instruct the students to enter some text in that starting passage. Do that by either double-clicking it with a mouse, or by tapping it with their finger on a touch-based device and choosing the pencil from the icons that appear…
     
--   At the top of the editor that appears is a field with the passage's name. The name can be changed any time. Underneath that is a button to add tags to the passage. For now, they can leave that be. The rest of the editor is for changing the text. Instruct the students to enter a description of what: a terrifying experience it would be if a doctor you that two of your orifices were switched at birth:
+-   At the top of the editor that appears is a field with the passage's name. The name can be changed any time. Underneath that is a button to add tags to the passage. For now, they can leave that be. The rest of the editor is for changing the text. Instruct the students to enter a description of a terrifying experience it would be if you had an encounter with a doctor that  switched two of your orifices at birth:
     
 	-   Ex: As I sat in my scantily clad hospital gown, in this cold and stale examination room i see my mom sitting in the corner with her favorite red purse with a concerned look on her face.
     
 
-	-   Note to the instructor: I do hope that you realize that you can replace my ridiculous story with your own. To make that easier I have changed the font color of those ridiculous parts.
+	-   **Note to the instructor:** I do hope that you realize that you can replace my ridiculous story with your own. To make that easier I have changed the font color of those ridiculous parts.
     
 
 -   After the students have written a paragraph instruct them to close the passage editor either with the Escape key, or by clicking or tapping the X in the upper-right corner. There's no need to save work – Twine will automatically do it as changes are made.
@@ -128,7 +128,7 @@ HS-ETS1-4.
 -   Twine highlights the starting point of the story with a thicker border. The students can change the starting point with the rocket ship icon on the passage's menu.
     
 
--   The rocket represents the launch point of the story
+-   The rocket represents the launch point of the story.
     
 
 -   The students can rearrange the passages in the story map by dragging them with their mouse or finger.
@@ -137,7 +137,7 @@ HS-ETS1-4.
 -   Have the students organize things however they like.
     
 
--   Go ahead and edit these new passages with what you think would happen next. Does the mom just worried for her little sweetums? Does the protagonist's doctor have super bad news for him that the mom already knows about?
+-   Edit these new passages with what you think would happen next. Is the mom just worried for her little sweetums? Does the protagonist's doctor have super bad news for him that the mom already knows about?
     
 -   Once the students have added text to the “Ask mom what is wrong” hit the Play button again. You'll now see clickable links at the end of your story.
     
