@@ -51,21 +51,9 @@ HS-ETS1-4.
   
 ####  Introduction/Gain Attention
     
-	-   The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.- This will be known as the daily meme. These will be placed in the students journals.
-    
-## Outcomes
--   Understand the concept of computational thinking and how it can be applied to various situations and problems
-    
--   Implement computational thinking to develop a logical sequence of events for a unique, dynamic story
-    
--   Implement narrative reasoning skills to develop multiple pathways for the storyline
-    
--   Demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+-  **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
 
-
-## Content of Lesson
-    
-
+#### Project
 -   After the daily meme the students will begin to work on their storyboard, script, and possible pathways to complete the game.
     
 -   Script will be accompanied by a [flow chart](https://www.draw.io/) depicting the available routes that the protagonist is able to take, or the decisions that the protagonist can make
@@ -79,6 +67,28 @@ HS-ETS1-4.
 
 -   This will be a daunting task but it is a necessary part of the creative process. This is done for all story based games. Most story based games have a 9000+ cell storyboard.
     
+## Outcomes
+-   Understand the concept of computational thinking and how it can be applied to various situations and problems
+    
+-   Implement computational thinking to develop a logical sequence of events for a unique, dynamic story
+    
+-   Implement narrative reasoning skills to develop multiple pathways for the storyline
+    
+-   Demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+
+
+## Content of Lesson
+
+- **Acquiring Key Concepts:** further developing narrative reasoning, creating unique storylines and narratives. Practice and experience with documentation for stories and video games. Grasping the purpose and correct use of flowcharts.
+
+- **Engaging in Experiential Learning:** creating unique storylines with multiple endings, plots, etc., and following the unique storylines created by classmates.
+
+- **Building Proficiencies:** strengthening creative narrative skills and narrative reasoning skills, continued practice with writing scripts, developing multiple storyboards, developing flow charts, etc.
+
+- **Connecting with STEM Professionals:** view a video or listen to a professional discussing their process of creating a similar game/story, specifically speaking about storyboards and their role in the design and development process.
+
+- **Assessing Learning:** have students explain why they chose to follow the route they did in regards to their unique storyline versus possible other ideas they had; additionally, students can explain how they arrived at their multiple endings, which ending they favor, how the storyboards and flowchart helped or hindered them, etc.
+    
 
 ##  Closure and Review
 
@@ -87,9 +97,8 @@ HS-ETS1-4.
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
 
--   Higher Level Thinking Skills Noted
+## Higher Level Thinking Skills Noted
     
-
 -   Developing a dynamic story
     
 -   Adapting stories due to character developments
@@ -119,8 +128,20 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
 
-  
+## Implementation Feedback:
 
-## Reflections:
+Students can receive feedback on their storyboards and flowcharts from their peers and instructor. Students can then share how they feel about the project with their instructor; as well as what they gained from it so far, how it could have better benefited them, etc.
 
-To be completed upon the end of lesson.
+## Other Important Course Development Information
+
+### Best Practices:
+
+Exemplary Previous student work:
+
+<!--stackedit_data:
+
+eyJoaXN0b3J5IjpbLTEzOTM3NjM0NjcsLTUxNzY3NDQ4LDE2OT
+
+AyMjIxNTVdfQ==
+
+-->
