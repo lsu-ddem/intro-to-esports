@@ -12,7 +12,7 @@ During the Video unit of Digital Storytelling, students will be introduced to th
 By the end of the lesson, students will have experience creating storyboards and forming storyboards based on video.
 
 ### Overview:
-Students will begin with an introductory activity in which they write a brief story from a given video. The intent of this lesson is to expand the students’ concept of videographic media, encompassing the different factors and stages of video development rather than just the final product. After the introductory activity, students will watch two films (provided in lesson resources) with their audio muted. After viewing the films, students will be transitioned from video medium to storyboards during a lecture or class discussion in which they gain an understanding of the use and importance of storyboards, followed by hands on practice with storyboarding. During the lecture or class discussion, the instructor will discuss the purpose and necessity for storyboards, and all of the aspects that pertain to them. After the lecture/class discussion, the class will watch the film Affinity 1912 (in lesson resources). The instructor will complete an example storyboard for the film with the students. The instructor should walk through the shots and concepts while documenting them on the storyboard. Students will then choose one of the two silent films viewed in the beginning of class to recreate independently in storyboard format. 
+This lesson introduces students to the importance of Storytelling through the lens of a motion camera.
 
 ### Expected Lesson Duration: 
 Lesson is expected to last 2 days.
