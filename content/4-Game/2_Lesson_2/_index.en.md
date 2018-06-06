@@ -56,11 +56,11 @@ HS-ETS1-4.
 #### Project
 -   After the daily meme the students will begin to work on their storyboard, script, and possible pathways to complete the game.
     
--   Script will be accompanied by a [flow chart](https://www.draw.io/) depicting the available routes that the protagonist is able to take, or the decisions that the protagonist can make
+-   Script will be accompanied by a [flow chart](https://www.draw.io/) depicting the available routes that the protagonist is able to take, or the decisions that the protagonist can make.
     
--   The script should accompany the flow chart and the storyboards
+-   The script should accompany the flow chart and the storyboards.
     
--   One storyboard per path, minimum of four branch paths and eight limb paths
+-   One storyboard per path, minimum of four branch paths and eight limb paths.
     
 -   Each student will start with a main storyboard that ends at a decision or path break. After the path break or decision at minimum four storyboards will be generated due to the minimum amount of for branches. Branches, that will come to a decision or path break thus ending those storyboards. The last storyboards will complete the limbs, concluding the eight final storyboards.
     
