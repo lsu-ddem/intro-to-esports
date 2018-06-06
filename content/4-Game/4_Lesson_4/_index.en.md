@@ -66,21 +66,17 @@ HS-ETS1-4.
 -   But wait before the students publish their work make sure they proofread…
     
 
--   Proofreading can be daunting since you need to look at each passage individually in the editor.
+	-   Proofreading can be daunting since you need to look at each passage individually in the editor.
     
--   Instead, choose View Proofing Copy from the story menu.
+	-   Instead, choose View Proofing Copy from the story menu.
     
--   This will create a plain text document with all of the text in the story split into sections based on passages.
-    
-
--   Review and grading can be: printing this document as-is, save to a PDF in chrome, or copy and paste it into a word processor.
+	-   This will create a plain text document with all of the text in the story split into sections based on passages.
     
 
--   Checking for broken links can be done in two ways. First, any passages that do have broken links will be tinted red in the story map. Secondly, choose Story Statistics from the story menu. If the number of broken links is 0, then ya good.
+	-   Review and grading can be: printing this document as-is, save to a PDF in chrome, or copy and paste it into a word processor.
     
--   Now you can breath.
-    
--   Fin.
+
+	-   Checking for broken links can be done in two ways. First, any passages that do have broken links will be tinted red in the story map. Secondly, choose Story Statistics from the story menu. If the number of broken links is 0, then it is correct as-is.
 	
 ## Outcomes
 -   Experience producing a final product using multiple mediums
