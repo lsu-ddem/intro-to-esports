@@ -56,24 +56,9 @@ HS-ETS1-4.
 
 #### Introduction/Gain Attention
     
--   The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
+- **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
 
-- This will be known as the daily meme. These will be placed in the students journals.
-
-## Outcomes   
--   Understand the concept of computational thinking and how it can be applied to various situations and problems
-    
--   Understand the concept of narrative reasoning
-    
--   Acquire new technological skills by use of Twinery
-    
--   Observe the successful implementation of a dynamic story, how its multiple pathways alter the viewer’s experience, and how dynamic stories adapt to character developments
-    
--   Identify a logical sequence of events from a given storyline
-
-##   Content of Lesson
-    
-
+#### Project
 -   After the daily meme the students will be introduced to the next project, video games
     
 -   All the students will play [”The uncle that works for Nintendo”](http://jayisgames.com/games/the-uncle/)
@@ -167,17 +152,39 @@ HS-ETS1-4.
     
 
 -   Click on “Publish to File”. This will save the story into an HTML file that works on its own.
+
+## Outcomes   
+-   Understand the concept of computational thinking and how it can be applied to various situations and problems
+    
+-   Understand the concept of narrative reasoning
+    
+-   Acquire new technological skills by use of Twinery
+    
+-   Observe the successful implementation of a dynamic story, how its multiple pathways alter the viewer’s experience, and how dynamic stories adapt to character developments
+    
+-   Identify a logical sequence of events from a given storyline
+
+##   Content of Lesson
+
+- **Acquiring Key Concepts:** further developing narrative reasoning, creating unique storylines and narratives.
+
+- **Engaging in Experiential Learning:** creating unique storylines with multiple endings, plots, etc., and following the unique storylines created by classmates.
+
+- **Building Proficiencies:** strengthening creative narrative skills and narrative reasoning skills, gaining new software skills by use of Twinery.
+
+- **Connecting with STEM Professionals:** view a video or listen to a professional discussing their process of creating a similar game/story, such as the creator(s) of the example game *The Uncle that Works for Nintendo.*
+
+- **Assessing Learning:** have students explain why they chose to follow the route they did in regards to their unique storyline versus possible other ideas they had; additionally, students can explain how they arrived at their multiple endings, which ending they favor, how Twinery allowed their game/story to thrive, etc.
     
 
 ##  Closure and Review
-    
 
 -   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
 
--   Higher Level Thinking Skills Noted
+## Higher Level Thinking Skills Noted
     
 
 -   Developing a dynamic story
@@ -209,8 +216,22 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
 
+## Implementation Feedback:
+
+Students can receive feedback on their completed games/stories from their peers and instructor. Students can then share how they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
+
   
+  
+## Other Important Course Development Information
 
-## Reflections:
+### Best Practices:
 
-To be completed upon the end of lesson.
+Exemplary Previous student work:
+
+<!--stackedit_data:
+
+eyJoaXN0b3J5IjpbMTY1MDI2OTQ2NSwxNTMwOTQ1MjQ4LC0xMj
+
+M4MjMyOTU3LDgxMjE0NDQwMV19
+
+-->
