@@ -53,7 +53,7 @@ HS-ETS1-4.
 
 #### Introduction/Gain Attention
     
-- **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.- This will be known as the daily meme. These will be placed in the students journals.
+- **Video of the Day:** The class will begin with an image that is hopefully game related to the student and have them write a story about what is just off the boundary of the picture.
 
 #### Project
 -   After the daily meme the students will begin to work on their resources to complete their games.
@@ -66,28 +66,26 @@ HS-ETS1-4.
 
 -   After the student has created their images and sounds for their story the students should create a public folder in google drive in order to share those images through twine– and put references to them in their story.
     
--   Once you know what your image's URL(in Google drive you can just copy the URL) is, having it display in your story is as simple as entering the correct HTML code to show up:
+-   Once you know what your image's URL (in Google drive you can just copy the URL) is, having it display in your story is as simple as entering the correct HTML code to show up:
     
 
--   <[img](http://december.com/html/4/element/img.html)  src="myPictureOfSomethingDank.goo.com"  width="500"  height="300">
+	-   <[img](http://december.com/html/4/element/img.html)  src="myPictureOfSomethingDank.goo.com"  width="500"  height="300">
     
-
 -   The width and height part of the code control the size of the image on the page. If you leave them off, then it will display the image in the dimensions that the image is.
     
 -   Audio and sound effects are easy to embed to:
     
--     <audio src="myDankSounds.goo.com" autoplay>
+	-     <audio src="myDankSounds.goo.com" autoplay>
     
 
 -   The autoplay attribute causes it to play as soon as the passage it is in is displayed.
     
--   And lastly if the students need it video:
+-   And lastly if the students need the video:
     
-
--     <video src="myDankVideo.goo.com"  width="640"  height="480">  
+	-     <video src="myDankVideo.goo.com"  width="640"  height="480">  
     </video>
     
--   I wouldn't tell them about it because the students loose the art of storytelling trying to incorporate useless video clips but some have great ideas of how to incorporate a video so i would share it with just those students
+-   I would not tell them about it because the students loose the art of storytelling trying to incorporate useless video clips, but some have great ideas of how to incorporate a video.  In that case, I would share it with just those students
 
 ## Outcomes
 -   Demonstrate adequate knowledge and skills required to produce original assets such as images and sounds
