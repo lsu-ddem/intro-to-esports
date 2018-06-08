@@ -6,11 +6,13 @@ weight: 4
 ## Unit Description: 
 During the Sonic unit of Digital Storytelling, students will be introduced to the important role that sound plays in storytelling. Sound will be studied in order to determine usage and appropriateness to the story that it accompanies. 
 
-## Objective(s):
+## Lesson 
+
+### Objective(s):
 
 Students will learn the skills of a good listener. How to take those listening skill and convert into skills that can help their communities and have their voices heard.
 
-## Overview:
+### Overview:
 
 This lesson encourages the students to take an active role in their communities and in their families. The lesson also begins to transition the learning and interactions from a purely internally focused (physical class and school) to a learning environment that is all inclusive (communities and realms in which the students reside).
 
