@@ -3,8 +3,6 @@ title: Introduction to Sound, Music, and the Phenomenon that is Sonic Language
 weight: 1
 ---
 
-## Unit Description: 
-During the Sonic unit of Digital Storytelling, students will be introduced to the important role that sound plays in storytelling. Sound will be studied in order to determine usage and appropriateness to the story that it accompanies. 
 
 ## Lesson:
 
