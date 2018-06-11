@@ -12,7 +12,7 @@ weight: 1
   
 ### Objective(s):
 
-After the daily meme, the students will be playing a game called, "The uncle that works for Nintendo”. From this game the students will be taking notes on possible pathways, timers, and options that are available.
+After the daily meme, the students will be playing a game called, "The Uncle That Works for Nintendo”. From this game the students will be taking notes on possible pathways, timers, and options that are available.
 
 ### Overview:
 
