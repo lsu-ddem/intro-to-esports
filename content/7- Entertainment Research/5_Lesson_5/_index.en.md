@@ -7,11 +7,14 @@ weight: 5
 
 <Name First Last><Email><work#>
 
+## Unit Description: 
+This lesson introduces students to a wide variety of design aspects and meaning, such as patterns in costume design, or common camera techniques and their impact.
+
 ## Lesson
 
 ### Objective(s):
 
-This lesson introduces students to a wide variety of design aspects, and their corresponding meaning and impact.
+Students will be versed on a number of camera techniques and their emphasis and impact on media.
 
 ### Overview:
 
