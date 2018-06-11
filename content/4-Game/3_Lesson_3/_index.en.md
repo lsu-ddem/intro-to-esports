@@ -7,9 +7,6 @@ weight: 3
 
 <Name First Last><Email><work#>
 
-## Unit Description:
-
-During the Game unit of Digital Storytelling, students will put computational thinking and narrative reasoning to work withduring the creation of a unique, dynamic story.
 
 ## Lesson:
 
