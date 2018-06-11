@@ -8,13 +8,13 @@ weight: 5
 <Name First Last><Email><work#>
 
 ## Unit Description: 
-This lesson introduces students to a wide variety of design aspects and meaning, such as patterns in costume design, or common camera techniques and their impact.
+Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define the setting, plot, mood, culture, etc. of a particular piece.
 
 ## Lesson
 
 ### Objective(s):
 
-Students will be versed on a number of camera techniques and their emphasis and impact on media.
+This lesson introduces students to a wide variety of design aspects, and their corresponding meaning and impact.
 
 ### Overview:
 
