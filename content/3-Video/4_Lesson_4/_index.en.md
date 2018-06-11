@@ -1,11 +1,7 @@
-video4.txt
-video4.txt
 ---
 title: Having Fun with the Future
 weight: 4
 ---
-## Unit Description: 
-During the Video unit of Digital Storytelling, students will be introduced to the importance of storytelling through the lens of a motion camera. 
 
 ## Lesson
 
