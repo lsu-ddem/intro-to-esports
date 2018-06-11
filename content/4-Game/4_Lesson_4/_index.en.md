@@ -49,7 +49,7 @@ HS-ETS1-4.
 
 #### Introduction/Gain Attention
     
-- **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.- This will be known as the daily meme. These will be placed in the students journals.
+- **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
 
 #### Project
 -   After the daily meme the students will begin to work on their resources to complete their games.
