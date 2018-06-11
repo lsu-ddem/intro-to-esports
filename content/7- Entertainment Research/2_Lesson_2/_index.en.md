@@ -11,7 +11,11 @@ weight: 2
 
 ### Objective(s):
 
-After the daily meme, the students will be producing a their final project for the class.
+This lesson expands upon the concept of film continuity and allows students to implement their knowledge of continuity in film via a group project consisting of:
+
+- assigning different decades to different groups of students
+
+- maintaining historical continuity while the groups implement the same scene/plot
 
 ### Overview:
 
