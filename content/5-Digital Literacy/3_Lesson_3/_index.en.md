@@ -3,8 +3,6 @@ title: Digital Identity and Protection of that Identity
 weight: 3
 ---
 
-## Unit Description: 
-Discovery and PBL at all levels throughout thein tdn use information and communication technologies to find, evaluate, create, and communicate information digitally, requiring both cognitive and technical skills.
 
 ## Lesson:
 
