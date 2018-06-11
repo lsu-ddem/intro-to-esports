@@ -2,8 +2,6 @@
 title: Positive Digital Self View
 weight: 2
 ---
-## Unit Description: 
-Discovery and PBL at all levels throughout the unit, students use information and communication technologies to find, evaluate, create, and communicate information digitally, requiring both cognitive and technical skills.
 
 ## Lesson:
 
