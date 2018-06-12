@@ -45,7 +45,7 @@ If desired, students may be given handouts for feedback during peer review.
     
 	-   Composition
     
-	-   RESPONSIBILITY
+	-   **Responsibility**
 
 
 ## Outcomes:
@@ -81,7 +81,7 @@ If desired, students may be given handouts for feedback during peer review.
    
 -   Empathy
     
--   Creativity vs catharsis “be soft on the people hard on the problem”
+-   Creativity vs Catharsis “be soft on the people hard on the problem”
     
 ## Relevance/Rationale:
 
