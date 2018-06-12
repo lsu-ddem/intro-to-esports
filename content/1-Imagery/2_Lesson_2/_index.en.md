@@ -7,7 +7,7 @@ weight: 2
 
 ### Objective(s):
 
-After the daily meme, the students will be creating and writing a story for an image that has been assigned to them. The students will not have time to research the images prior to writing the story. After the students have completed their stories, stories and their reasoning for developing that story using the the photographs artifacts. The students will share their stories with their groups and compare and contrast their views as well as argue their use of the artifacts in describing the image. As a finale the images origins will be revealed, and the students will have chance to write twist, and or, closure to their stories.
+Students will be creating and writing a story for an image that has been assigned to them. The students will not have time to research the images prior to writing the story. After the students have completed their stories, stories and their reasoning for developing that story using the the photographs artifacts. The students will share their stories with their groups and compare and contrast their views as well as argue their use of the artifacts in describing the image. As a finale the images origins will be revealed, and the students will have chance to write twist, and or, closure to their stories.
 
 ### Overview:
 
