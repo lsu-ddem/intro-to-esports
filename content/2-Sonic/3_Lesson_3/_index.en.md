@@ -7,7 +7,7 @@ weight: 3
 
 ### Objective(s):
 
-After the daily meme, the students will begin to develop sonic stories. Integrating writing with sound to produce something new.
+Students will begin to develop sonic stories. Integrating writing with sound to produce something new.
 
 ### Overview:
 
@@ -85,7 +85,7 @@ Lesson is expected to last 2-3 days.
 ## Higher Level Thinking Skills Noted
     
 
--   Answer the essential questions thoroughly and discuss
+-   Answer the essential questions thoroughly and discuss.
     
 
 ## Relevance/Rationale:
