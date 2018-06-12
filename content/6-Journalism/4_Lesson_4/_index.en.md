@@ -62,7 +62,7 @@ HS-ETS1-4.
 
 #### Project
 
-- After the daily meme the students will be introduced to the relationship between journalism and social media, and how each has shaped one another
+- After the daily meme the students will be introduced to the relationship between journalism and social media, and how each has shaped one another.
     
 -  The class will discuss the effect social media has had on journalism. 
 	- Prior to the instructor discussing the following points, students should be asked to give examples of how they believe social media has changed journalism. 
@@ -119,27 +119,27 @@ HS-ETS1-4.
     
 
 -   The class will discuss the danger of situations being taken out of context and publicized to social media. 
-	- The dangers of publicizing content to social media that has been taken out of context is apparent in [this video](https://www.youtube.com/watch?v=MxxKUikZ7YY)
+	- The dangers of publicizing content to social media that has been taken out of context is apparent in [this video](https://www.youtube.com/watch?v=MxxKUikZ7YY).
 	- Students may offer or be asked to reflect on personal experiences or situations they know of in which posting to social media out of context had repercussions. At the least, students can hypothesize a situation in which posting content to social media out of context can have dire consequences.
     
--   The class will discuss the epidemic of fake news and how social media worsens the epidemic by spreading fake news like wildfire
+-   The class will discuss the epidemic of fake news and how social media worsens the epidemic by spreading fake news like wildfire.
     
 
 	-  Students will perform an exercise in which they are to gather 5 articles (or some other specified number), at least 2 of which have to be fake news. 
-		- Snopes keeps an [archive of fake news](https://www.snopes.com/fact-check/category/fake-news/) articles that will be helpful for this exercise
+		- Snopes keeps an [archive of fake news](https://www.snopes.com/fact-check/category/fake-news/) articles that will be helpful for this exercise.
 	- The students will prepare an individual presentation in which they briefly flip through the articles while showing the class, announcing the article titles, and possibly giving a short description of each. 
 	- Prior to their presentation, the students will inform the instructor of which of their articles are fake news and which are legitimate.
     
 	- Students will then present their collection of articles to the class, and the students must record whether they believe each of the articles to be real or fake news on a numbered sheet of paper. Students may discuss and debate with their classmates to arrive at a conclusion.
     
-	- After each student has presented their collection of articles and each student has recorded whether the corresponding article is real or fake, the answers will be revealed and the students will check their answers to find that some or many articles they believed to be real were, indeed, fake
+	- After each student has presented their collection of articles and each student has recorded whether the corresponding article is real or fake, the answers will be revealed and the students will check their answers to find that some or many articles they believed to be real were, indeed, fake.
     
 	-  Based on the amount of articles students believed were real, which actually turned out to be fake news and vice versa, students will have a newfound understanding of how easily one can be tricked into believing a fake news story. They will also seek an in depth understanding of how vast the fake news epidemic actually is.
     
 	-  To incentivize the exercise, the instructor may wish to have a reward for the “journalist” who detects the most fake news and accurately labels the most real news.
     
 - To wrap up the journalism and social media unit, students will have a small project in which they define social-journalism and citizen-journalism. In addition to defining these terms, students should explain the impact these types of journalism have on local politics, legislation, and understanding. Students will have they freedom to choose the media/form in which they deliver the project, whether it be a report, essay, short video, etc. 
-	- Students should be familiar with the topics of social and citizen journalism and the impacts that they have by the end of the lesson
+	- Students should be familiar with the topics of social and citizen journalism and the impacts that they have by the end of the lesson.
 	- These terms may not have been explicitly defined during the lesson, but their concepts were explained and discussed in depth during the discussion of journalism and social media.
 	- Formal definitions of these terms:
 		- "The concept of *citizen journalism* (also known as "public", "participatory", "democratic", "guerrilla", or "street" journalism) is based upon public citizens "playing an active role in the process of collecting, reporting, analyzing, and disseminating news and information." " - [Wikipedia](https://en.wikipedia.org/wiki/Citizen_journalism)
@@ -175,7 +175,7 @@ HS-ETS1-4.
 	
 ##  Closure and Review
     
-- Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+- Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 - Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -200,7 +200,7 @@ Does the dynamic aspect of storytelling take anything away from the message that
 
 ## Assessment Criteria for Success:
 
-Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
