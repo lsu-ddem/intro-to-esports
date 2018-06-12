@@ -57,14 +57,14 @@ Students will again need to use the [Cornell](https://drive.google.com/open?id=1
     
 -   After the completion of the case studies the students must watch the selected [TED video](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us) and start a new notes page about the effects of sound on humans.
     
--   After the completion of students' note entries the students will listen to the challenge “Emotion in 7 seconds” and be assigned a different emotion for each group
+-   After the completion of students' note entries the students will listen to the challenge “Emotion in 7 seconds” and be assigned a different emotion for each group.
     
-	-   Some emotions might be complex and involve an intricate editing process
+	-   Some emotions might be complex and involve an intricate editing process.
     
 
--   The students have the remainder of the class to develop a script, storyboard and shoot the footage for their seven second story
+-   The students have the remainder of the class to develop a script, storyboard and shoot the footage for their seven second story.
     
--   Prior to shooting your film at least one other group must review your groups storyboard
+-   Prior to shooting your film at least one other group must review your groups storyboard.
     
 -   The subject for the film is ________________ emotion
     
@@ -75,13 +75,13 @@ Students will again need to use the [Cornell](https://drive.google.com/open?id=1
 -   STIPULATION: No dialogue can be utilized within the film
     
 
--   At the conclusion of the first day students will place their footage in their shared folder and begin editing the second day
+-   At the conclusion of the first day students will place their footage in their shared folder and begin editing the second day.
     
--   Transition from capturing the footage to editing utilizing the iPads
+-   Transition from capturing the footage to editing utilizing the iPads.
     
--   Students have 30 minutes to edit their stories and export them to a digital archive for viewing in the following class
+-   Students have 30 minutes to edit their stories and export them to a digital archive for viewing in the following class.
     
-	-   In the following class all of the of the clips should be combined in order to develop a rainbow of colors and emotions, after the stories are reviewed
+	-   In the following class all of the of the clips should be combined in order to develop a rainbow of colors and emotions, after the stories are reviewed.
 
 ## Outcomes:
 -   Identify the four ways sound affects individuals
@@ -136,11 +136,11 @@ Students will again need to use the [Cornell](https://drive.google.com/open?id=1
 ## Higher Level Thinking Skills Noted
     
 
--   Why must a compelling, dynamic, and memorable story contain: Curiosity, Details,Metaphors, Characters, and Movement.
+-   Why must a compelling, dynamic, and memorable story contain: Curiosity, Details, Metaphors, Characters, and Movement.
     
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
@@ -157,7 +157,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 ## Modifications/Accommodations and Access for All:
 
-A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
 ## Implementation Feedback:
 
