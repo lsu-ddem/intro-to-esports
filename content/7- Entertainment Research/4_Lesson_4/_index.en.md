@@ -12,7 +12,7 @@ weight: 4
 
 ### Objective(s):
 
-After the daily meme, the students will be introduced to the concept of the origins of media and the importance and relevance of it.
+Students will be introduced to the concept of the origins of media and the importance and relevance of it.
 
 ### Overview:
 
@@ -93,7 +93,7 @@ Digital Storytelling 9-10
 				
 				- It is likely that students will be very familiar with Disney's Cinderella (and therefore Charles Perrault's Cinderella), but it is unlikely students will know the story of Yeh-Shen.
 				
-				- Students can read an [overview of the story of Yeh-Shen here](http://tvtropes.org/pmwiki/pmwiki.php/Literature/YehShen), or the [complete story here.](http://www.santeesd.net/cms/lib/CA01000468/Centricity/Domain/209/Yeh%20Shen%20Scanned.pdf) (The link to the complete story offers critical thinking and interpretation questions that may be helpful to the lesson)
+				- Students can read an [overview of the story of Yeh-Shen here](http://tvtropes.org/pmwiki/pmwiki.php/Literature/YehShen), or the [complete story here.](http://www.santeesd.net/cms/lib/CA01000468/Centricity/Domain/209/Yeh%20Shen%20Scanned.pdf) (The link to the complete story offers critical thinking and interpretation questions that may be helpful to the lesson).
 
 				- **Exercise:** Have students compare and contrast the two variants of the Cinderella trope they have now seen ([Yeh-Shin](http://www.santeesd.net/cms/lib/CA01000468/Centricity/Domain/209/Yeh%20Shen%20Scanned.pdf%29) and [Perrault's](https://www.pitt.edu/~dash/perrault06.html)) via a venn-diagram or written response. Students should pay attention to cultural differences, differences present because of the difference in time periods, and similarities amongst characters, relationships, events, and the plot in general. 
 
@@ -173,7 +173,7 @@ Digital Storytelling 9-10
 
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -189,7 +189,7 @@ Digital Storytelling 9-10
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
 
 ## Explorations and Extensions:
