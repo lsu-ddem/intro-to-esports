@@ -8,7 +8,7 @@ weight: 3
 
 ### Objective(s):
 
-After the daily meme, the students will be making connections and taking notes on the compositions of imagery and the effects the compositions have on an individual's psyche.it of Digital Storytelling, students will be introduced to the active role that imagery plays in storytelling. Imagery will be studied in order to determine usage and appropriateness to the story that it accompanies. 
+Students will be making connections and taking notes on the compositions of imagery and the effects the compositions have on an individual's psyche. In Digital Storytelling, students will be introduced to the active role that imagery plays in storytelling. Imagery will be studied in order to determine usage and appropriateness to the story that it accompanies. 
 
 ### Overview:
 
@@ -32,27 +32,27 @@ If desired, students may be given out handouts of the [Composition types](https:
 #### Project
 -   After the daily meme the instructor will begin to show examples of imagery compositions of [photography, film,](http://nofilmschool.com/2015/09/9-composition-techniques-make-images-eye-catching-biological-level) paintings, architecture, etc.
     
--   Upon reveal of the basic composition styles the students will begin a new google drive folder that will act as a portfolio of great examples of the image composition types
+-   Upon reveal of the basic composition styles the students will begin a new google drive folder that will act as a portfolio of great examples of the image composition types.
     
--   Within the folder the students will define subfolders of the composition types and begin to import great examples of each of their respective folders
+-   Within the folder the students will define subfolders of the composition types and begin to import great examples of each of their respective folders.
     
-	-   This can be a cumulative assessment that is checked at the end of the unit or split up and checked in sprints
+	-   This can be a cumulative assessment that is checked at the end of the unit or split up and checked in sprints.
     
--   Transition from documenting the work to actually replicating the compositions
+-   Transition from documenting the work to actually replicating the compositions.
     
 -   The next assignment should be to begin to practice the compositions that they have learned about through subjects around the classroom, and possibly around the campus.
     
 -   The students should use their cameras (phone, ipod, tablet, laptop, etc) in order to capture subjects using the composition types and rules previously reviewed.
     
-	-   2 solid examples of each composition style should suffice **time constraints are important and necessary**
+	-   2 solid examples of each composition style should suffice **time constraints are important and necessary**.
 
 -   Once the students have finished collecting their data, the students must come back to their groups and categorize their images with a shared folder, placing emphasis on time management.
     
 -   After their images have been organized and labeled the students will then proceed to create an image storybook, that is clear and delivers a message.
     
--   All photos from the group must be utilized (exquisite corpse or teacher favored format rules can be applied)
+-   All photos from the group must be utilized (exquisite corpse or teacher favored format rules can be applied).
     
--   The story books will be created using Google Slides and each image has to be accompanied with no more than a two sentence partition of the story
+-   The story books will be created using Google Slides and each image has to be accompanied with no more than a two sentence partition of the story.
     
 -   After the students have completed their respective story books the students will share contrast and compare their stories with other groups.
     
@@ -87,7 +87,7 @@ If desired, students may be given out handouts of the [Composition types](https:
 
 ## Closure and Review
 
--   Reiterate the importance of storytelling in media
+-   Reiterate the importance of storytelling in media.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -108,7 +108,7 @@ If desired, students may be given out handouts of the [Composition types](https:
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
 
 ## Explorations and Extensions:
