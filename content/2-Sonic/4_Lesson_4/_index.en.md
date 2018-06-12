@@ -22,7 +22,7 @@ Lesson is expected to last 1 day.
 
 - [Extra Guiding/Starter Questions for Interviews](https://docs.google.com/document/d/1jMcyQth9pD17s6nKkgQJIxs1My7M9GnDOtftTZZ0eKs/edit#heading=h.rw8o65icddij)
 
-StoryCorps Resources:
+- StoryCorps Resources:
 - [StoryCorps : 5 Steps to Recording Your StoryCorps App Interview](https://drive.google.com/file/d/13LYGB400DbW6V-uHyFy4qsp8Kis5jvTdS0Hd3bPfZM4ifAkc4wEGqMGMLNXC6j2d_O6UUnsxJCqE--wv/view) 
 
 - [StoryCorps : Strategies for Groups and Organizations ](https://drive.google.com/file/d/1uIEUafkr8_tnfSXX_kTy963XtpsybmjCLguriQbvO60w6rpS8EGZfbSoZBcqlKQfGLEPhHPKuVITAQO1/view) 
@@ -38,9 +38,9 @@ StoryCorps Resources:
 -  **Sound of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
 
 #### Project
--   The students will be producing stories that will be listed in the storycorps national archive
+-   The students will be producing stories that will be listed in the storycorps national archive.
     
--   [Prior to starting the archival process the students will begin with research and significance of the StoryCorps platform](https://youtu.be/KGCD1XR0WPk).
+-   [Prior to starting the archival process the students will begin with research and significance of the StoryCorps platform.](https://youtu.be/KGCD1XR0WPk)
     
 -   After the students have researched the platform each student must find 3 stories in which they can relate to and define how they related to them. The types of questions that asked to get stories that they used to retrieve a story that is worth while.
     
@@ -63,7 +63,7 @@ StoryCorps Resources:
 ## Outcomes:
 -   Understanding of the StoryCorps mission and purpose
     
--   Demonstrate effective implementation of skills obtained from Digital Storytelling class in real world situations(e.g. utilizing active, good listening skills and StoryCorp interviewing skills during interviews with members of the community)
+-   Demonstrate effective implementation of skills obtained from Digital Storytelling class in real world situations (e.g. utilizing active, good listening skills and StoryCorp interviewing skills during interviews with members of the community)
     
 -   Strengthen and exercise creativity during the development/selection of the interview topic
     
@@ -96,7 +96,7 @@ StoryCorps Resources:
 ## Closure and Review
     
 
--   Expectations of projects and their due date
+-   Expectations of projects and their due date.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -104,7 +104,7 @@ StoryCorps Resources:
 ## Higher Level Thinking Skills Noted
     
 
--   Answer the essential questions thoroughly and discuss
+-   Answer the essential questions thoroughly and discuss.
 
     
 
