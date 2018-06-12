@@ -51,13 +51,13 @@ There are no handouts for this lesson as it is project based.
 
 ## Outcomes:
 
--   Demonstrate ability to arrive at conclusions collaboratively, giving consideration to the ideas and justifications of group members
+-   Demonstrate ability to arrive at conclusions collaboratively, giving consideration to the ideas and justifications of group members.
     
--   Gain deductive reasoning skills by drawing conclusions from a single image
+-   Gain deductive reasoning skills by drawing conclusions from a single image.
     
--   Improve narrative reasoning skills by forming a unique story incorporating specific qualities
+-   Improve narrative reasoning skills by forming a unique story incorporating specific qualities.
     
--   Analyze different technicalities and possibilities in regards to forming a story from the image and selecting the most logical or fitting of options
+-   Analyze different technicalities and possibilities in regards to forming a story from the image and selecting the most logical or fitting of options.
     
 -   Exhibit creativity in creation of a unique story and expression of fixed details, such as assumed time period or scenario.
 
@@ -76,7 +76,7 @@ There are no handouts for this lesson as it is project based.
 ## Closure and Review
     
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
