@@ -12,11 +12,11 @@ weight: 2
 
 ### Objective(s):
 
-After the daily meme, the students will be producing their own storyboard.
+Students will be producing their own storyboard.
 
 ### Overview:
 
-This lesson puts computational thinking and narrative reasoning to work in the development in the
+This lesson puts computational thinking and narrative reasoning to work in the development in the storyboard.
 
 ### Expected Lesson Duration:
 
@@ -104,7 +104,7 @@ HS-ETS1-4.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
@@ -114,7 +114,7 @@ Does the dynamic aspect of storytelling take anything away from the message that
 
 ## Assessment Criteria for Success:
 
-Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
@@ -122,7 +122,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 ## Modifications/Accommodations and Access for All:
 
-A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
 ## Implementation Feedback:
 
@@ -134,10 +134,3 @@ Students can receive feedback on their storyboards and flowcharts from their pee
 
 Exemplary Previous student work:
 
-<!--stackedit_data:
-
-eyJoaXN0b3J5IjpbLTEzOTM3NjM0NjcsLTUxNzY3NDQ4LDE2OT
-
-AyMjIxNTVdfQ==
-
--->
