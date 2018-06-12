@@ -7,7 +7,7 @@ weight: 2
 
 ### Objective(s):
 
-After the daily meme, the students will participate in a lecture and utilize the [Cornell note taking method](https://drive.google.com/drive/folders/0B-fnzlPK8lcvdFJ3OXlUUWdYUUU?ths=true) to define and describe digital literacy as well as describe what a digital literate person might personify.
+The students will participate in a lecture and utilize the [Cornell note taking method](https://drive.google.com/drive/folders/0B-fnzlPK8lcvdFJ3OXlUUWdYUUU?ths=true) to define and describe digital literacy as well as describe what a digital literate person might personify.
 
 ### Overview:
 This lesson will describe what digital literacy through demonstration and encourage the students to develop a positive digital identity.
@@ -42,19 +42,19 @@ There are no handouts for this lesson as it is project based.
 -   Remember to keep things fun:
     
 
-	-   Incorporate funny and idiotic examples of proper usage of social media and improper uses of digital platforms to generate media that is unreasonable for the platform
+	-   Incorporate funny and idiotic examples of proper usage of social media and improper uses of digital platforms to generate media that is unreasonable for the platform.
     
 
 		-   A Digitally Literate Person:
     
 
-			-   Possesses the variety of skills – technical and cognitive – required to find, understand, evaluate, create, and communicate digital information in a wide variety of formats;
+			-   Possesses the variety of skills – technical and cognitive – required to find, understand, evaluate, create, and communicate digital information in a wide variety of formats.
     
-			-   Is able to use diverse technologies appropriately and effectively to retrieve information, interpret results, and judge the quality of that information;
+			-   Is able to use diverse technologies appropriately and effectively to retrieve information, interpret results, and judge the quality of that information.
     
-			-   Understands the relationship between technology, life-long learning, personal privacy, and stewardship of information;
+			-   Understands the relationship between technology, life-long learning, personal privacy, and stewardship of information.
     
-			-   Uses these skills and the appropriate technology to communicate and collaborate with peers, colleagues, family, and on occasion, the general public; and
+			-   Uses these skills and the appropriate technology to communicate and collaborate with peers, colleagues, family, and on occasion, the general public.
     
 			-   Uses these skills to actively participate in civic society and contribute to a vibrant, informed, and engaged community.
     
@@ -79,18 +79,18 @@ There are no handouts for this lesson as it is project based.
 	-   In addition to the lecture about digital literacy the students will develop a practical sense of:
     
 
-		-   All of the content types that they create and responsible ways to publish and share them
+		-   All of the content types that they create and responsible ways to publish and share them.
     
-		-   Reasons why some content might be considered unreasonable for a particular platform and the repercussions that might follow that choice
+		-   Reasons why some content might be considered unreasonable for a particular platform and the repercussions that might follow that choice.
     
 		-   Ways in which a post or share to a certain digital platform might be detrimental or cause issues for the user.
     
 
-		-   During this reflection, think about saying hi on tinder vs saying hi on LinkedIn
+		-   During this reflection, think about saying "Hi" on Tinder vs saying "Hi" on LinkedIn.
     
-		-   The implications are different and the underlying meaning can vary
+		-   The implications are different and the underlying meaning can vary.
     
-	-   Help our students navigate the digital forms of communication knowledgeably
+	-   Help our students navigate the digital forms of communication knowledgeably.
     
 
 	-   Along with these aspects of digital literacy, pose the following questions:
@@ -112,26 +112,26 @@ There are no handouts for this lesson as it is project based.
 	-   Finally, students will generate:
     
 
-		-   Independent answers to the questions in addition to group answers to the questions
+		-   Independent answers to the questions in addition to group answers to the questions.
     
-		-   A plan of action in order ensure that their digital self view stays true to their self view
+		-   A plan of action in order ensure that their digital self view stays true to their self view.
 
 
 ## Outcomes:
 
--   Identify characteristics of a digitally literate individual with a positive digital self view and how to achieve those characteristics
+-   Identify characteristics of a digitally literate individual with a positive digital self view and how to achieve those characteristics.
     
--   Able to navigate digital forms of communication knowledgeably
+-   Able to navigate digital forms of communication knowledgeably.
     
--   Possess technical and cognitive skills required to find, understand, evaluate, create, and communicate digital information in a wide variety of formats
+-   Possess technical and cognitive skills required to find, understand, evaluate, create, and communicate digital information in a wide variety of formats.
     
--   Able to use a number of different technologies to retrieve information, interpret results, and judge quality of obtained information to the best of their ability
+-   Able to use a number of different technologies to retrieve information, interpret results, and judge quality of obtained information to the best of their ability.
     
--   Clear understanding of the relationship between technology, personal privacy, and stewardship of information
+-   Clear understanding of the relationship between technology, personal privacy, and stewardship of information.
     
 -   Ability to use skills to actively participate in civic society and contribute to a vibrant, informed, and engaged community.
     
--   Knowledge of the many different content types and the responsible ways to publish them    
+-   Knowledge of the many different content types and the responsible ways to publish them.
 
 
 ##   Content of Lesson
@@ -149,7 +149,7 @@ There are no handouts for this lesson as it is project based.
 ## Closure and Review
     
 
--   Reiterate the importance of digital literacy in life, describe the amount of information that is available on us and that we need to be active curators in our own stories
+-   Reiterate the importance of digital literacy in life, describe the amount of information that is available on us and that we need to be active curators in our own stories.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -157,14 +157,14 @@ There are no handouts for this lesson as it is project based.
 ## Higher Level Thinking Skills Noted
     
 
--   Social engagement in the form of self advocating
+-   Social engagement in the form of self advocating.
     
--   Developing cross platform skills that will benefit them in the future and lessen the degrees of separation between real world skills and study habits
+-   Developing cross platform skills that will benefit them in the future and lessen the degrees of separation between real world skills and study habits.
     
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
