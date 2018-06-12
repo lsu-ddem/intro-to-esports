@@ -35,13 +35,13 @@ There are no handouts for this lesson. Students will be using Twinery again, whi
 
 ## Outcomes
 
--   Use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills
+-   Use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills.
     
--   Demonstrate development of reasoning skills, cognitive constructive capabilities, and character
+-   Demonstrate development of reasoning skills, cognitive constructive capabilities, and character.
     
--   Demonstrate dissection and justification of narrative literature across multiple mediums (audio, visual, text)
+-   Demonstrate dissection and justification of narrative literature across multiple mediums (audio, visual, text).
     
--   Utilize  learned skills to communicate and collaborate with peers, colleagues, family, and/or the general public
+-   Utilize  learned skills to communicate and collaborate with peers, colleagues, family, and/or the general public.
     
 -   Utilize information and communication technologies to find, evaluate, create, and communicate information, implementing both cognitive and technical skills.
 
