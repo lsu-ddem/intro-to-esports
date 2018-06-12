@@ -30,13 +30,13 @@ If desired, students may be given handouts for feedback during peer review, or t
 -  **Daily Meme:** The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
 
 #### Project
--   After the daily meme the students will upload their image to a shared folder without discussion or reveal of the owner of the particular image
+-   After the daily meme the students will upload their image to a shared folder without discussion or reveal of the owner of the particular image.
     
--   Each student will be assigned a photograph and be given directions to write a captivating essay using that image as a basis making sure to include a catchy headline and tagline
+-   Each student will be assigned a photograph and be given directions to write a captivating essay using that image as a basis making sure to include a catchy headline and tagline.
     
--   Upon completion of the essay the students will place their essays in the folders and name them the same as their respective photo
+-   Upon completion of the essay the students will place their essays in the folders and name them the same as their respective photo.
     
--   After the files have been uploaded, at least two peers that the image does not belong to, must read the article, and discuss with the author their view on the ethics of the writing. Especially making sure to include what they thought about the headline. Remind the students to discuss the weights and balances between content creation and common respect
+-   After the files have been uploaded, at least two peers that the image does not belong to, must read the article, and discuss with the author their view on the ethics of the writing. Especially making sure to include what they thought about the headline. Remind the students to discuss the weights and balances between content creation and common respect.
     
 -   The students will then read the essays that have been written about their prized possessions or people.
     
@@ -45,11 +45,11 @@ If desired, students may be given handouts for feedback during peer review, or t
 -   Make sure guided conversations include:
     
 
-	-   CONTENT CREATION--- AT WHAT COST
+	-   **Content Creation**--- At what cost?
     
 	-   24/7 news cycle
     
-	-   RESPONSIBILITY to: truth, consumers, money…
+	-   **Responsibilty** to: truth, consumers, money…
     
 	-   Peer Review
 
@@ -79,7 +79,7 @@ If desired, students may be given handouts for feedback during peer review, or t
 ## Closure and Review
     
 
--   Reiterate the importance of storytelling in media
+-   Reiterate the importance of storytelling in media.
     
 -   Explain the importance of diversity or individuality in the storytellers and writers due to experiences and how it shapes our stories.
     
