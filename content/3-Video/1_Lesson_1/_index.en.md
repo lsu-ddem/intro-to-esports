@@ -40,7 +40,7 @@ Students should be given access to the resources provided in the lesson prep sec
   
 -   After watching the films, students will try to recreate the film of their choice (one of the two films) in a storyboard format.
     
--   Transition from a video medium to a storyboard partition
+-   Transition from a video medium to a storyboard partition.
     
 -   “What is a storyboard and why do I need one?” lesson in the form of a lecture or a class discussion, including:
 
@@ -61,11 +61,11 @@ Students should be given access to the resources provided in the lesson prep sec
 	-   Subject descriptions and mannerisms
     
 
--   After the lecture, class discussion, or hybrid of the two, the instructor as well as the students should work on an example together
+-   After the lecture, class discussion, or hybrid of the two, the instructor as well as the students should work on an example together.
     
 	-  [Share this](https://drive.google.com/open?id=1krc-FNF7EGUvxVXCDLVW7KvX0cDvZehqQb5pXcirU2w) prior to collective example (Some kids work better with a written version)
     
--   Watch [Affinity-1912](https://www.youtube.com/watch?v=zjmRBUTapPA) and ensure that the students have at least one person in their group with the video on their device as well
+-   Watch [Affinity-1912](https://www.youtube.com/watch?v=zjmRBUTapPA) and ensure that the students have at least one person in their group with the video on their device as well.
     
 -   Walkthrough the shots and concepts of the video as you document them on your storyboard.
     
@@ -98,7 +98,7 @@ Students should be given access to the resources provided in the lesson prep sec
 - **Assessing Learning:** have students walk through the storyboard they completed independently and explain their reasoning for the order and/or scenes they included.
 
 ## Closure and Review
--   Reiterate the importance of storytelling in media
+-   Reiterate the importance of storytelling in media.
     
 -   The importance of scaffolding and recycling in digital media.
     
@@ -106,14 +106,12 @@ Students should be given access to the resources provided in the lesson prep sec
     
 ## Higher Level Thinking Skills Noted
     
--   Reverse engineering a work
-    
-
-  
+-   Reverse engineering a work.
+      
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
@@ -131,7 +129,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 ## Modifications/Accommodations and Access for All:
 
-A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
 ## Implementation Feedback: 
 Students can receive feedback on their completed storyboards from their peers and instructor. Students can then share how they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
