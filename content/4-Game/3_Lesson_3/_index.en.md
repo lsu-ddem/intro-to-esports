@@ -71,14 +71,17 @@ HS-ETS1-4.
 -   The width and height part of the code control the size of the image on the page. If you leave them off, then it will display the image in the dimensions that the image is.
     
 -   Audio and sound effects are easy to embed to:
-	-  <audio src="myDankSounds.goo.com"autoplay> </audio>
+    
+		-     <audio src="myDankSounds.goo.com" autoplay>
+
     
 
 -   The autoplay attribute causes it to play as soon as the passage it is in is displayed.
     
 -   And lastly if the students need the video:
     
-	-  <video src="myDankVideo.goo.com"width="640"  height="480"></video>
+		-     <video src="myDankVideo.goo.com"  width="640"  height="480">  
+    </video>
     
 -   I would not tell them about it because the students loose the art of storytelling trying to incorporate useless video clips, but some have great ideas of how to incorporate a video.  In that case, I would share it with just those students.
 
