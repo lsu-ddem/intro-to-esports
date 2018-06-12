@@ -60,14 +60,14 @@ HS-ETS1-4.
 -   The class will be shown a compilation of continuity errors in popular films to gain an understanding of the importance of maintaining continuity and the effects errors in continuity can have on the scene/film as a whole and on the audience.
     
 	-   The students will also research continuity errors found in their favorite movies that they may not have noticed before. 
-		- There are many sites that keep records of these errors, such as [MovieMistakes for example](https://www.moviemistakes.com/best/continuity)
+		- There are many sites that keep records of these errors, such as [MovieMistakes for example](https://www.moviemistakes.com/best/continuity).
     
 -   As a class, the students will generate:
     
 
-	-   A working definition of continuity in regards to film
+	-   A working definition of continuity in regards to film.
     
-	-   A list of the types of continuity that should be present in film ([types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity))
+	-   A list of the types of continuity that should be present in film ([types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity)).
 		1. Continuity of Information
 		
 		   - Breaks in the continuity of information often occur when shots are spaced out between one another, and directors and actors have forgotten small details that an audience member may quickly notice.
@@ -103,7 +103,7 @@ HS-ETS1-4.
 			
 			- Breaks in the continuity of movement can be resolved and avoided by including the transition from one direction to the next within a scene, as in capturing the movement in direction on camera, or by including neutral / transitional scenes in between, such as a shot of the front of the car.  
 			
-			- For a more in depth explanation of breaks in continuity of movement in a scene with a car, revisit the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity) 
+			- For a more in depth explanation of breaks in continuity of movement in a scene with a car, revisit the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity). 
 			
 		5. Continuity of Convention
 		
@@ -111,13 +111,16 @@ HS-ETS1-4.
 			
 			- For example, if a scene showed a character boarding a plane due to head towards Italy from the US, the scene would show the plane flying across the screen from left to right because of the fact that North America is located on the left of a world map while Italy is on the right. Showing the plane flying from right to left would result in a noticeable break in continuity of convention for the audience that could result in confusion in addition to the loss of immersion.
 			
-	- An understanding of the individual most responsible for film continuity, and what actions this person takes to maintain continuity 
+	- An understanding of the individual most responsible for film continuity, and what actions this person takes to maintain continuity. 
 	
 	- This lesson's exercise expands past simply identifying errors in continuity in works that have already been produced by giving students hands on experience with maintaining continuity in their own work. 
 
 	- The students will practice implementing and maintaining continuity of action, look, information, movement, and convention via a short film which features a prop heavy scenario. Students will not only have to maintain continuity in their shots, dialogue, plot, and actors, but in the use of the many props as well. Instructors may choose to allow students to create their own plot, give the class or groups assigned plots, or use the following example:
+	
 		- Ex: Students will create a short film in which a group of 4+ people hold conversations at the table of a dinner party. This scene requires a large number of props, as the table would be set with dishes, drinks, etc. These props provide a challenge to the students in terms of maintaining continuity as the props need to make logical transitions between scenes. The conversation between multiple people around a table requires frequent shots between characters, providing an even more challenging situation in terms of maintaining continuity on multiple fronts.
+		
 			- For example, if in one scene a woman had a near empty glass of water in her hand, the next shot would break continuity if the glass were completely full or had a greater amount of water in it before, without showing any characters refilling or preparing to refill glasses.
+			
 	- Students will exercise their newfound continuity skills by both producing a work in which these skills are tested and pushed, as well as viewing classmates' works and paying special attention to point out any flaws made in terms of maintaining continuity.
 	
 ## Outcomes
@@ -135,6 +138,7 @@ HS-ETS1-4.
 ## Content of Lesson
 
 - **Acquiring Key Concepts:** incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
+
 - **Engaging in Experiential Learning:** peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
 
 - **Building Proficiencies:** using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
@@ -145,7 +149,7 @@ HS-ETS1-4.
     
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
