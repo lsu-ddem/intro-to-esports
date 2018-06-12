@@ -16,7 +16,7 @@ This lesson introduces students to a wide variety of design aspects, and their c
 
 ### Overview:
 
-Design aspects and meaning (patterns a designs in [costumes](https://www.npr.org/2018/02/16/586513016/black-panther-costume-designer-draws-on-the-sacred-geometry-of-africa) or a zoom out effect to space and the significance of a certain event etc)
+Design aspects and meaning (patterns a designs in [costumes](https://www.npr.org/2018/02/16/586513016/black-panther-costume-designer-draws-on-the-sacred-geometry-of-africa) or a zoom out effect to space and the significance of a certain event etc).
 
 ### Expected Lesson Duration:
 
@@ -61,7 +61,7 @@ Digital Storytelling 9-10
     
 -   **Note:** Our eyes and our ears work in a certain way by default. Using these principles to keep the eyes and our ears familiar with our design’s elements means we’re taking advantage of this tendency. We can also use shapes, colors, textures, fonts, etc. to maintain this consistency via repetition.
 
--   Patterns - Pattern is a combination of elements that are repeated.
+-   Patterns - Pattern is a combination of elements that are repeated
     
 -   Rhythm - Rhythm involves using intervals or spaces between elements to give the user an impression of rhythm or movement
     
@@ -145,7 +145,7 @@ Digital Storytelling 9-10
 
 ##  Closure and Review
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -161,7 +161,7 @@ Digital Storytelling 9-10
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
 
 ## Explorations and Extensions:
