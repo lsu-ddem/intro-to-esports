@@ -10,7 +10,7 @@ weight: 1
 By the end of the lesson, students will have an in depth understanding of the process of listening and deciphering sounds, and how to use this new knowledge during the creation of new sound.
 
 ### Overview:
-This lesson introduces students to the importance of Sound in storytelling. This Introduction serves as the Unit kickoff for sound viewing storytelling from that lens.
+This lesson introduces students to the importance of Sound in storytelling. This introduction serves as the unit kickoff for sound viewing storytelling from that lens.
 
 ### Expected Lesson Duration: 
 Lesson is expected to last 1 day.
