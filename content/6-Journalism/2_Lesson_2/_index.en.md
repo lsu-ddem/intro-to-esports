@@ -44,7 +44,7 @@ There are no handouts for this lesson as it is project based.
 
 #### Project
 
--   After the daily meme the students will be introduced to photojournalism
+-   After the daily meme the students will be introduced to photojournalism.
     
 -   The class will split into small groups to **READ, VIEW, & REFLECT** on the following photojournalistic pieces:
 	- [http://www.jakemay.samexhibit.com/flint-water-crisis-the-mistakes-made-the-lives-affected](http://www.jakemay.samexhibit.com/flint-water-crisis-the-mistakes-made-the-lives-affected)
@@ -52,15 +52,15 @@ There are no handouts for this lesson as it is project based.
 	- [https://www.nationalgeographic.com/photography/proof/2015/07/27/hammond/](https://www.nationalgeographic.com/photography/proof/2015/07/27/hammond/)
 
     
-	-   **Note:** the students need to make sure that the photos alone tell a story and the **CAPTIONS**, and descriptions or written partitions help clarify and refine the story for the audience
+	-   **Note:** The students need to make sure that the photos alone tell a story and the **CAPTIONS**, and descriptions or written partitions help clarify and refine the story for the audience.
     
 	-   When the students view the piece(s):
 
-		-   Make sure that they are using the photojournalism guidelines and blackbox notes in order to identify the use of the method(s)
+		-   Make sure that they are using the photojournalism guidelines and blackbox notes in order to identify the use of the method(s).
     
 		-   Pay close attention to the caption and the use of descriptors in order to convey the subject and the spirit of the photo.
     
-		-   Make sure the students are reading and having discussions with each other. If they are not having discussions that relate to the articles, writing a summary of the articles is another great way to ensure that the students are digesting the information
+		-   Make sure the students are reading and having discussions with each other. If they are not having discussions that relate to the articles, writing a summary of the articles is another great way to ensure that the students are digesting the information.
     
 	-   As a class discuss and describe the articles':
     
@@ -104,7 +104,7 @@ There are no handouts for this lesson as it is project based.
 
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -130,7 +130,7 @@ Does the dynamic aspect of storytelling take anything away from the message that
 
 ## Assessment Criteria for Success:
 
-Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
