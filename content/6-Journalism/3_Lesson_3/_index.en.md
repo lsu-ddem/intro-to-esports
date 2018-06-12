@@ -52,7 +52,7 @@ HS-ETS1-4.
 
 #### Project
 
--   After the daily meme the students will be introduced to the video-journalism project
+-   After the daily meme the students will be introduced to the video-journalism project.
     
 -   As a class the students watch and discuss three short video-journalistic pieces:
     
@@ -80,9 +80,9 @@ HS-ETS1-4.
 
 -   Each student will:
    
-	-   Find and develop a story either within the local community or within the school community that allows the student to become immersed and develop a narrative that is true to the subject (community is pretty open it can be any level of organization that is related by a: common interest, location, age, family/relation, etc. )
+	-   Find and develop a story either within the local community or within the school community that allows the student to become immersed and develop a narrative that is true to the subject (community is pretty open it can be any level of organization that is related by a: common interest, location, age, family/relation, etc. ).
     
-	-   Students will capture data (video, audio, and notes) develop a narrative that is true to the subject
+	-   Students will capture data (video, audio, and notes) develop a narrative that is true to the subject.
     
 		-   True to the subject means:
     
@@ -128,7 +128,7 @@ HS-ETS1-4.
 	
 ## Closure and Review
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
