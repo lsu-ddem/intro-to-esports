@@ -6,7 +6,7 @@ weight: 1
 ## Lesson:
 
 ### Objective(s):
-After the daily meme, the students will be producing a their final project for the class. 
+Students will be producing their final project for the class. 
 
 ### Overview:
 This lesson consists of introducing students to the concept of digital literacy and what it encompasses, including becoming familiar with the concept of personal digital identities, digital jargon, etc.
@@ -48,17 +48,17 @@ There are no handouts for this lesson as it is project based.
 		- Students can pose as an employer researching the social media presence of a potential new hire, and compile any compromising content that would hurt the potential new hire’s chance at employment.
     
 
-	-   Examples of appropriate content that would aid someone’s reputation and digital identity
-    	-  Students may identify/list types and examples of content that would not negatively affect someone’s digital identity/
+	-   Examples of appropriate content that would aid someone’s reputation and digital identity.
+    	-  Students may identify list types and examples of content that would not negatively affect someone’s digital identity.
     
 
-	-   Examples of inappropriate content that would hurt someone’s reputation and presence in social media
+	-   Examples of inappropriate content that would hurt someone’s reputation and presence in social media.
     
-	-   The instructor will ask the class questions to gain an understanding of how much students know in terms of laws and regulations relevant to content posted on social media
+	-   The instructor will ask the class questions to gain an understanding of how much students know in terms of laws and regulations relevant to content posted on social media.
 		- Ex:  “how many people who are featured in a video are required to give consent before posting the video online?” 
 		- Ex: “what action can be taken in the case of a video being posted to social media without a person who is featured in the video’s consent?”
     
-	-   Concept of at-will employment, states which implement at-will employment, and the relationship and affect content posted online may have with an at-will employment
+	-   Concept of at-will employment, states which implement at-will employment, and the relationship and affect content posted online may have with an at-will employment.
     
 	-   Real life examples in which subjectively or objectively inappropriate or compromising content posted on social media damaged someone’s digital identity and had real-life repercussions. 
 
@@ -101,7 +101,7 @@ There are no handouts for this lesson as it is project based.
 ## Closure and Review
     
 
--   Reiterate the importance of privatizing social media accounts or preventing the content posted to public social media accounts from damaging an individual’s reputation
+-   Reiterate the importance of privatizing social media accounts or preventing the content posted to public social media accounts from damaging an individual’s reputation.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -118,7 +118,7 @@ There are no handouts for this lesson as it is project based.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
@@ -142,13 +142,3 @@ Students will receive feedback from their peers and instructor while they are sh
 ### Best Practices:
 
 Exemplary Previous student work:
-
-<!--stackedit_data:
-
-eyJoaXN0b3J5IjpbMzgyMzIwMTYzLC0xNDQ1NjYxNjEyLC0xOT
-
-kzMTAxNzg2LDM3NDk5NDM1MiwtMzU3NjEwMTYxLC0xNTkxMzc4
-
-Mzk1LDE2NzI4NTI3NTksNjYxNTg3MTczXX0=
-
--->
