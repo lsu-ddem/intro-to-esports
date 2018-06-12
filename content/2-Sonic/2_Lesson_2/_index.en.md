@@ -7,7 +7,7 @@ weight: 2
 
 ### Objective(s):
 
-After the sound of the day, the students will begin to manipulate and create using [audacity](http://www.audacityteam.org/). [Software documentation](http://manual.audacityteam.org/#tutorials) as well as self documentation will be encouraged when exploring and troubleshooting.
+The students will begin to manipulate and create using [audacity](http://www.audacityteam.org/). [Software documentation](http://manual.audacityteam.org/#tutorials) as well as self documentation will be encouraged when exploring and troubleshooting.
 
 ### Overview:
 
@@ -31,9 +31,9 @@ Lesson is expected to last 2-3 days.
 
 #### Project
 
--   The students will begin with a quick walkthrough of audacity and its quarks
+-   The students will begin with a quick walkthrough of audacity and its quarks.
     
--   As they begin to explore and learn audacity the students will each begin with a [sound file](https://freesound.org/people/newagesoup/sounds/348251/)
+-   As they begin to explore and learn audacity the students will each begin with a [sound file](https://freesound.org/people/newagesoup/sounds/348251/).
     
 -   With the sound file each student will be manipulating its loudness, pitch, quality, timbre, etc.
     
@@ -78,7 +78,7 @@ Lesson is expected to last 2-3 days.
 
 ## Closure and Review
     
--   Expectations of projects and their due date
+-   Expectations of projects and their due date.
     
 -   Have students describe the importance of diversity or individuality in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -92,7 +92,7 @@ Lesson is expected to last 2-3 days.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
  
 ## Explorations and Extensions:
