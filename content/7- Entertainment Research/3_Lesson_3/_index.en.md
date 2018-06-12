@@ -13,7 +13,7 @@ weight: 3
 
 ### Objective(s):
 
-After the daily meme, the students will be introduced to the concept of media adaptation by viewing examples of adaptations of media and gaining hands-on experience adapting media to another medium. 
+The students will be introduced to the concept of media adaptation by viewing examples of adaptations of media and gaining hands-on experience adapting media to another medium. 
 
 ### Overview:
 
@@ -105,13 +105,13 @@ Digital Storytelling 9-10
 
 		- **Star Trek**
 
-			- Star Trek began as a televised science fiction series in 1966
+			- Star Trek began as a televised science fiction series in 1966.
 
-			- Now dubbed *The Original Series*, Star Trek aired for three seasons on NBC before it was cancelled due to poor ratings
+			- Now dubbed *The Original Series*, Star Trek aired for three seasons on NBC before it was cancelled due to poor ratings.
 
 			- Paramount Studios bought the series and began playing reruns of the show in in 1969. By the late 70's, Star Trek aired on hundreds of domestic and international markets. 
 
-			- The first media adaptation Star Trek experienced was  an adaptation to a series utilizing an animated medium, *Star Trek: The Animated Series*
+			- The first media adaptation Star Trek experienced was  an adaptation to a series utilizing an animated medium, *Star Trek: The Animated Series*.
 
 			- The next adaptation for Star Trek was planned to be another series titled *Star Trek: Phase II*, but the series was not produced because of Paramount Studios voiding their television service.
 
@@ -119,11 +119,11 @@ Digital Storytelling 9-10
 
 			- The adaptation was so successful that it grossed $139 million worldwide, resulting in the critically acclaimed sequel *Star Trek II: The Wrath of Khan* and 4 further sequels.
 
-			- The popularity of the Star Trek films influenced the next adaptation from films back to a televised series, *Star Trek: The Next Generation*
+			- The popularity of the Star Trek films influenced the next adaptation from films back to a televised series, *Star Trek: The Next Generation*.
 
-			- The *Star Trek* story has since been adapted countless times, back and forth between animated television, feature films, comic books, novels, etc., with the most recent adaptation being a prequel to the *Star Trek: The Original Series* titled *Star Trek: Discovery*, which premiered in September 2017 (Star Trek was created in 1964!)
+			- The *Star Trek* story has since been adapted countless times, back and forth between animated television, feature films, comic books, novels, etc., with the most recent adaptation being a prequel to the *Star Trek: The Original Series* titled *Star Trek: Discovery*, which premiered in September 2017 (Star Trek was created in 1964!).
 
-	- More modern examples include War of the Worlds (radio to book to movie), and the Archie comics to the popular new show *Riverdale*
+	- More modern examples include War of the Worlds (radio to book to movie), and the Archie comics to the popular new show *Riverdale*.
 
 	- This lesson's project gives students the creative freedom to adapt any media of their choosing to a new medium, also of their choosing, utilizing their newfound understanding of media adaptation. 
 
@@ -157,13 +157,13 @@ Digital Storytelling 9-10
 
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 - Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.  
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
 
 ## Explorations and Extensions:
