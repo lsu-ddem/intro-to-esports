@@ -17,7 +17,7 @@ weight: 1
 
 ### Overview:
 
-“The purpose of journalism, is not defined by technology, nor by journalists or the techniques they employ.” Rather, “the principles and purpose of journalism are defined by something more basic: the function news plays in the lives of people.” -Bill Kovach and Tom Rosenstiel
+“The purpose of journalism, is not defined by technology, nor by journalists or the techniques they employ.” Rather, “the principles and purpose of journalism are defined by something more basic: the function news plays in the lives of people.” - Bill Kovach and Tom Rosenstiel
 
 ###  Expected Lesson Duration: 
 Lesson is expected to last 2 days.
@@ -62,7 +62,7 @@ There are no handouts for this lesson as it is project based.
     
 	-   social equality
     
--   Yet an unquestioning adherence to policies based on these principles might not always be the best thing
+-   Yet an unquestioning adherence to policies based on these principles might not always be the best thing:
     
 
 	-   Is democracy, for example, the best form of government for all people in all places at all times?
@@ -125,7 +125,7 @@ There are no handouts for this lesson as it is project based.
 		-  empower the reader
     
 
--   The project will be producing a journalistic article about a topic or subject (The instructor can choose to narrow or assign the topics or subjects if they choose)
+-   The project will be producing a journalistic article about a topic or subject (The instructor can choose to narrow or assign the topics or subjects if they choose).
     
 -   Armed with the knowledge from the discussion the students will write a one page article about _______________ (insert school, topic, something that is obtainable the students need to be able to interview someone about it) Ex. student wants to write about gaming interview someone that is affiliated or plays games ask real questions such as, does video gaming affect your sleep? Could you be doing something more useful with your time? Use the good story guideline (from students notes) and the black box guide (attached) to guide the questioning and story development process.
 
@@ -156,7 +156,7 @@ There are no handouts for this lesson as it is project based.
 
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
