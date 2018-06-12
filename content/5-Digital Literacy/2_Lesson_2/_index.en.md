@@ -185,12 +185,5 @@ Students will receive feedback from their peers and instructor while they are sh
 ## Other Important Course Development Information
 ### Best Practices:
 Exemplary Previous student work: 
-<!--stackedit_data:
 
-eyJoaXN0b3J5IjpbNTY1MTgzMDYzLDU3NDk5NjgzMCwtMTE1NT
 
-gwNTM5MCw2Mzk5MDIzMDIsLTQ1NzI5NjgyLC0xMTA2OTcxNDM5
-
-XX0=
-
--->
