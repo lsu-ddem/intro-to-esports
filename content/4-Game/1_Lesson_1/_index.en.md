@@ -12,7 +12,7 @@ weight: 1
   
 ### Objective(s):
 
-After the daily meme, the students will be playing a game called, "The Uncle That Works for Nintendo”. From this game the students will be taking notes on possible pathways, timers, and options that are available.
+The students will be playing a game called, "The Uncle That Works for Nintendo”. From this game the students will be taking notes on possible pathways, timers, and options that are available.
 
 ### Overview:
 
@@ -57,7 +57,7 @@ HS-ETS1-4.
 #### Project
 -   After the daily meme the students will be introduced to the next project, video games.
     
--   All the students will play [”The uncle that works for Nintendo”](http://jayisgames.com/games/the-uncle/)
+-   All the students will play [”The uncle that works for Nintendo”](http://jayisgames.com/games/the-uncle/).
     
 -   As the students play the game have them pay attention to the possible pathways, timers, and options that are available.
     
@@ -69,19 +69,19 @@ HS-ETS1-4.
 	-   Videos or motion graphics
     
 
-	-   Most importantly have the students pay attention to the quality and style of the story
+	-   Most importantly have the students pay attention to the quality and style of the story.
     
--   Direct the students to [Twinery](https://twinery.org/)
+-   Direct the students to [Twinery](https://twinery.org/).
     
 -   If students have the ability to download twine to their computers I would direct them to do so.
     
--   Else then, direct the students to use the online version in the top right corner of the screen
+-   Else then, direct the students to use the online version in the top right corner of the screen.
     
--   Ensure that the students know that stories in Twine are saved to your web browser itself, not to the twinery.org web site
+-   Ensure that the students know that stories in Twine are saved to your web browser itself, not to the twinery.org web site.
     
 -   The best thing to do to avoid these problems is to regularly archive your work with the -archive- link on the right sidebar of the story list. This saves all of their stories to a file on your computer that they can then restore with the -import- link on the same page.
     
--   Use the green + Story button on the right side of the screen to get started with a new story. It will pop open a balloon asking what to call it. Give it a name – if they need a hand with the naming scheme tell them to name it -the doctor that inspected the orifices of my body only to find out that two had been switched at birth -.
+-   Use the green + Story button on the right side of the screen to get started with a new story. It will pop open a balloon asking what to call it. Give it a name – if they need a hand with the naming scheme tell them to name it -the doctor that inspected the orifices of my body only to find out that two had been switched at birth.
     
 -   After they give their story a name, they will be taken to its story map. The story map is a canvas for the story that will expand in size. Instruct the students to move around it using the scroll bars of the window, or if they are using a touch-based device, just dragging around with their finger.
     
@@ -144,7 +144,7 @@ HS-ETS1-4.
 -   Once the students are done with their story, click or tap the title of your story in the toolbar. It has a little upward triangle at its end, like “▲”, to indicate that it's a menu. This is the story menu. It contains options that the students won't use as often as they work on your story.
     
 
--   For example, the students can Rename Story from this menu
+-   For example, the students can Rename Story from this menu.
     
 
 -   Click on “Publish to File”. This will save the story into an HTML file that works on its own.
@@ -175,7 +175,7 @@ HS-ETS1-4.
 
 ##  Closure and Review
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -192,7 +192,7 @@ HS-ETS1-4.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
@@ -223,11 +223,3 @@ Students can receive feedback on their completed games/stories from their peers 
 ### Best Practices:
 
 Exemplary Previous student work:
-
-<!--stackedit_data:
-
-eyJoaXN0b3J5IjpbMTY1MDI2OTQ2NSwxNTMwOTQ1MjQ4LC0xMj
-
-M4MjMyOTU3LDgxMjE0NDQwMV19
-
--->
