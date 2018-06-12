@@ -12,7 +12,7 @@ weight: 3
 
 ### Objective(s):
 
-After the daily meme, the students will be producing their game utilizing multiple digital mediums.
+The students will be producing their game utilizing multiple digital mediums.
 
 ### Overview:
 
@@ -71,18 +71,16 @@ HS-ETS1-4.
 -   The width and height part of the code control the size of the image on the page. If you leave them off, then it will display the image in the dimensions that the image is.
     
 -   Audio and sound effects are easy to embed to:
-    
-	-     <audio src="myDankSounds.goo.com" autoplay>
+        -   <audio src="myDankSounds.goo.com" autoplay>
     
 
 -   The autoplay attribute causes it to play as soon as the passage it is in is displayed.
     
 -   And lastly if the students need the video:
     
-	-     <video src="myDankVideo.goo.com"  width="640"  height="480">  
-    </video>
+	-   <video src="myDankVideo.goo.com"  width="640"  height="480"></video>
     
--   I would not tell them about it because the students loose the art of storytelling trying to incorporate useless video clips, but some have great ideas of how to incorporate a video.  In that case, I would share it with just those students
+-   I would not tell them about it because the students loose the art of storytelling trying to incorporate useless video clips, but some have great ideas of how to incorporate a video.  In that case, I would share it with just those students.
 
 ## Outcomes
 -   Demonstrate adequate knowledge and skills required to produce original assets such as images and sounds
@@ -123,7 +121,7 @@ HS-ETS1-4.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
  
 ## Explorations and Extensions:
@@ -139,7 +137,7 @@ Students will have successfully met the outcomes when fundamental questions abou
   
 ## Modifications/Accommodations and Access for All:
 
-A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
 ## Implementation Feedback:
 
@@ -150,9 +148,3 @@ Students can receive feedback on their resources from their peers and instructor
 ### Best Practices:
 
 Exemplary Previous student work:
-
-<!--stackedit_data:
-
-eyJoaXN0b3J5IjpbMTA1MTkwNDUyMSwtODk5NTY5NTI3XX0=
-
--->
