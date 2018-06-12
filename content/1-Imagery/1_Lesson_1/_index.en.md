@@ -60,7 +60,7 @@ There are no handouts for this lesson as it is project based.
     
 -   Emphasis is placed on the importance of writing well.
     
--   Demonstrate ability to produce quality work by working both collaboratively and individually
+-   Demonstrate ability to produce quality work by working both collaboratively and individually.
 
 ##  Content of Lesson
 
@@ -76,7 +76,7 @@ There are no handouts for this lesson as it is project based.
 
 ## Closure and Review
     
--   Reiterate the importance of storytelling in media
+-   Reiterate the importance of storytelling in media.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -85,7 +85,7 @@ There are no handouts for this lesson as it is project based.
 
 ## Higher Level Thinking Skills Noted
     
--   Developing a story from artifacts of an image of unknown origin
+-   Developing a story from artifacts of an image of unknown origin.
     
 -   Aren't we already going to have diversity?
     
@@ -113,7 +113,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
 ## Modifications/Accommodations and Access for All:
 
-A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
 
 ## Implementation Feedback: 
 Students will receive feedback from their peers and instructor while they are sharing their story with their classmates. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
