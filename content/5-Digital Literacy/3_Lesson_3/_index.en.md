@@ -8,7 +8,7 @@ weight: 3
 
 ### Objective(s):
 
-After the daily meme, the students will engage in lecture and classroom conversation about identity protection, encryption, software, networks, hardware, and ways to protect against threats on those fronts.
+Students will engage in lecture and classroom conversation about identity protection, encryption, software, networks, hardware, and ways to protect against threats on those fronts.
 
 ### Overview:
 
@@ -31,7 +31,7 @@ There are no handouts for this lesson.
 
 #### Project
 
--   After the daily meme the students will be introduced to the concept of identity protection and the ways in order to incorporate best practices to ensure the safety of their identity
+-   After the daily meme the students will be introduced to the concept of identity protection and the ways in order to incorporate best practices to ensure the safety of their identity.
     
 -   Identity, and importance of keeping it yours and secure:
     
@@ -84,7 +84,7 @@ There are no handouts for this lesson.
 	-   Phishing, Pharming, and spoofing:
     
 
-		-   "Phishing" refers to criminal activity that attempts to fraudulently obtain sensitive information
+		-   "Phishing" refers to criminal activity that attempts to fraudulently obtain sensitive information.
     
 
 		-   Sometimes someone will first send you a benign email (think of this as the bait) to lure you into a conversation and then follow that up with a phishing email. At other times, the fraudster will just send one phishing email that will direct you to a website requesting you to enter your personal information such as User ID and Password.
@@ -151,7 +151,7 @@ There are no handouts for this lesson.
 
 ## Closure and Review 
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
     
 -   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
     
@@ -168,7 +168,7 @@ There are no handouts for this lesson.
 
 ## Relevance/Rationale:
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story(deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
