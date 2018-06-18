@@ -75,10 +75,6 @@ Lesson is expected to last 2 days.
 
 ###  Preparing to Teach this Lesson:
 
-- 
-
-- 
-
 ##  Learning Activities:
 
 #### I. Introductory Activity
