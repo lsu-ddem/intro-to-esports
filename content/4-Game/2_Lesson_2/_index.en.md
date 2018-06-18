@@ -1,68 +1,130 @@
 ---
-title: Lesson 2   
-# pre: "<b>2. </b>"
+title: Beginning Storytelling via Games
 weight: 2
 ---
 
-## Unit Description:
+## Contact Information:
 
-During the Game unit of Digital Storytelling, students will put computational thinking and narrative reasoning to work in the development of games.
+<Name First Last><Email><work#>
 
-## Lesson Outcomes:
 
-**I.** Students will further develop narrative reasoning and creative skills by developing a game with the use of previously gained skills such as script writing and storyboard development.
+## Lesson:
 
-**II.** Students apply computational thinking skills to develop a logical sequence of events for a unique, dynamic story.
+### Objective(s):
 
-**III.** Students apply narrative reasoning skills to develop multiple pathways for the storyline.
+Students will be producing their own storyboard.
 
-**IV.** Students demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+### Overview:
 
-## Lesson
+This lesson puts computational thinking and narrative reasoning to work in the development in the storyboard.
 
-### I. Overview:
+### Expected Lesson Duration:
 
-Students will begin with an introductory activity in which they write a brief story from a given game related image. After the introductory activity, students will begin the development process of their new assignment which is the creation of another game. In this lesson, students will work solely on the development stages of the game, which includes writing a script, developing multiple storyboards, and designing a flowchart for their game. A flowchart is necessary because the games will have multiple pathways that a player/protagonist can take, similar to the games made in the previous lesson. The flowchart provides an organized, clear view of all of the possible pathways the student designs. The students will begin with a main storyboard that ends at a decision or path break. At the path break, a new storyboard will be generated, also known as a branch. Branches will also come to a decision or path break, ending the branch's storyboard. For each branch there must be two possible options following; therefore there must be two limbs (storyboards branching off of a branch) per one branch. In total, a minimum of four branches must be created. Therefore there will be a minimum of eight limb storyboards. This lesson requires more planning via storyboards than any lesson prior, but this is solely because most story based games have a 9000+ cell storyboard, and this is a necessary part of the creative and developmental process.
+2 days
 
-### II. Outcomes:
-
-By the end of the lesson, students will have extensive experience documenting their storyline with multiple endings, preparing the documents for a video game, organizing overall plans with tools such as flowcharts, and sharpened creativity and narrative reasoning skills.
-
-### III. Duration:
-
-Lesson is expected to last 2 days.
-
-### IV. Preparing to Teach this Lesson:
+### Preparing to Teach This Lesson:
 
 There are no resources necessary for this lesson.
 
-### V. Learning Activities:
+### Primary Subject Area and Grade Level:
 
-#### I. Introductory Activity
+Digital Storytelling 9-10
 
-* **Meme of the Day:** The class will begin with an image that is game related, and the students will write a story about what is just off the boundary of the picture. This will be known as the daily meme. These will be placed in the students journals.
+### Class Information:
 
-#### II. Core Lesson Activities
+[Next Generation Science Standard(s) Addressed:](https://drive.google.com/open?id=0B-fnzlPK8lcvM19rcTZlYThnRnc)
 
-* **Acquiring Key Concepts:** further developing narrative reasoning, creating unique storylines and narratives. Practice and experience with documentation for stories and video games. Grasping the purpose and correct use of flowcharts.
+HS-ETS1-4.
+
+[Interdisciplinary Connection(s) Common Core:](https://drive.google.com/open?id=0B-fnzlPK8lcvdEl6LTJPbG5xNm8)
+
+[CCSS.ELA-LITERACY.WHST.9-10.2.C](http://www.corestandards.org/ELA-Literacy/WHST/9-10/2/c/)
+
+[CCSS.ELA-LITERACY.WHST.9-10.1.C](http://www.corestandards.org/ELA-Literacy/WHST/9-10/)
+
+   
+### Lesson Procedure
+  
+####  Introduction/Gain Attention
+    
+-  **Video of the Day:** The class will begin with an image that is hopefully game related, and the student and have them write a story about what is just off the boundary of the picture.
+
+#### Project
+-   After the daily meme the students will begin to work on their storyboard, script, and possible pathways to complete the game.
+    
+-   Script will be accompanied by a [flow chart](https://www.draw.io/) depicting the available routes that the protagonist is able to take, or the decisions that the protagonist can make.
+    
+-   The script should accompany the flow chart and the storyboards.
+    
+-   One storyboard per path, minimum of four branch paths and eight limb paths.
+    
+-   Each student will start with a main storyboard that ends at a decision or path break. After the path break or decision at minimum four storyboards will be generated due to the minimum amount of for branches. Branches, that will come to a decision or path break thus ending those storyboards. The last storyboards will complete the limbs, concluding the eight final storyboards.
+    
+
+-   This will be a daunting task but it is a necessary part of the creative process. This is done for all story based games. Most story based games have a 9000+ cell storyboard.
+    
+## Outcomes
+-   Understand the concept of computational thinking and how it can be applied to various situations and problems
+    
+-   Implement computational thinking to develop a logical sequence of events for a unique, dynamic story
+    
+-   Implement narrative reasoning skills to develop multiple pathways for the storyline
+    
+-   Demonstrate adequate implementation of scripts, storyboards, editing software, etc.
+
+
+## Content of Lesson
+
+- **Acquiring Key Concepts:** further developing narrative reasoning, creating unique storylines and narratives. Practice and experience with documentation for stories and video games. Grasping the purpose and correct use of flowcharts.
 
 - **Engaging in Experiential Learning:** creating unique storylines with multiple endings, plots, etc., and following the unique storylines created by classmates.
 
 - **Building Proficiencies:** strengthening creative narrative skills and narrative reasoning skills, continued practice with writing scripts, developing multiple storyboards, developing flow charts, etc.
 
-* **Connecting with STEM Professionals:** view a video or listen to a professional discussing their process of creating a similar game/story, specifically speaking about storyboards and their role in the design and development process.
+- **Connecting with STEM Professionals:** view a video or listen to a professional discussing their process of creating a similar game/story, specifically speaking about storyboards and their role in the design and development process.
 
-* **Assessing Learning:** have students explain why they chose to follow the route they did in regards to their unique storyline versus possible other ideas they had; additionally, students can explain how they arrived at their multiple endings, which ending they favor, how the storyboards and flowchart helped or hindered them, etc.
+- **Assessing Learning:** have students explain why they chose to follow the route they did in regards to their unique storyline versus possible other ideas they had; additionally, students can explain how they arrived at their multiple endings, which ending they favor, how the storyboards and flowchart helped or hindered them, etc.
+    
 
-#### III. Closing Activity:
+##  Closure and Review
 
-The closing activity can include peer review of storyboards and flowcharts, class readings of storyboards and flowcharts, etc. Since the lesson expands over multiple days, closing activities should include reminders of deadlines and expected progression.
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
+    
+-   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
+    
 
-### VI. Student Handouts:
+## Higher Level Thinking Skills Noted
+    
+-   Developing a dynamic story
+    
+-   Adapting stories due to character developments
+    
+-   Perception due to appearance
+    
 
-Students will need to use [this flowchart tool](https://www.draw.io/) for the design and development process.
+## Relevance/Rationale:
 
-### VII. Implementation Feedback:
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+
+  
+
+## Explorations and Extensions:
+
+Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
+
+## Assessment Criteria for Success:
+
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
+
+  
+
+## Modifications/Accommodations and Access for All:
+
+A simpler version of Gaming through twinery is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
+
+## Implementation Feedback:
 
 Students can receive feedback on their storyboards and flowcharts from their peers and instructor. Students can then share how they feel about the project with their instructor; as well as what they gained from it so far, how it could have better benefited them, etc.
 
@@ -72,7 +134,3 @@ Students can receive feedback on their storyboards and flowcharts from their pee
 
 Exemplary Previous student work:
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODc5MTgwOCwtNTE3Njc0NDgsMTY5MD
-IyMjE1NV19
--->
