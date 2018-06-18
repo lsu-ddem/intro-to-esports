@@ -75,9 +75,9 @@ Lesson is expected to last 2 days.
 
 ###  Preparing to Teach this Lesson:
 
-- [Types of characters in fiction pdf](https://drive.google.com/file/d/1cAmjksabeZRhkuTfPcHxvpTUwPjvttQDzlLIk77Kg1X1jWA09IHorF0E7d_zZKC1xg8dniwcank-baxg/view), used for brief discussion of character types, roles, and development.
+- 
 
-- [Single Picture Assignment](https://drive.google.com/drive/folders/0B9qWAFzy0oO7a19KeVYxWkxoWW8)
+- 
 
 ##  Learning Activities:
 
