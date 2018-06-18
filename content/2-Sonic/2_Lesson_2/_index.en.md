@@ -1,35 +1,59 @@
 ---
-title:  Lesson 2
+title: Introduction to Creating and Recording Sonic Vibrations
 weight: 2
----
-## Unit Description: 
-During the Sonic unit of Digital Storytelling, students will be introduced to the important role that sound plays in storytelling. Sound will be studied in order to determine usage and appropriateness to the story that it accompanies. 
-
-
-## Lesson Outcomes:
-**I.** Students will gain knowledge of the tools and best practices for audio creation and recording, and finally implementation into storytelling after the introduction to creating and recording sonic vibrations.
-
-
-**II.** Students will be versed in software documentation, self documentation, and troubleshooting by using the audio software Audacity.
+--- 
 
 ## Lesson
- ### I. Overview:
-Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be given a brief walkthrough of Audacity that explains what it is used for, and how to navigate and use it. Students will then begin experimenting with the software by taking their selected sound file, found from a free source, and manipulating the file's loudness, pitch, quality, timbre, etc. in Audacity. After students have had practice with duplicating, replicating, and combining tracks, they will produce a small soundscape to accompany the image that they took in the last unit (the image with something of significance to them). Soundscapes must meet specific requirements set by the instructor, such as a specified minimum and maximum length, minimum number of original sounds incorporated, maximum number of non-original sounds incorporated, and minimum number of layers.
 
- ### II. Outcomes:
-By the end of the lesson, students will be familiar with Audacity and its use in creating and manipulating both pre made and original sound files. Students will have experience fitting sound to imagery in regards to storytelling as they produce a soundscape to match the image and storyline they previously produced.
-### Project:
-**Assignment:**  Soundscape Production Assignment
+### Objective(s):
 
-		
+The students will begin to manipulate and create using [audacity](http://www.audacityteam.org/). [Software documentation](http://manual.audacityteam.org/#tutorials) as well as self documentation will be encouraged when exploring and troubleshooting.
 
- **1.** Students will modify the loudness, pitch, quality, and timbre while duplicating, replicating, and combining tracks.
- 
- **2.** Following the manipulation practice, students will create a soundscape in relation to their image of importance, from the previous unit.
- 
+### Overview:
 
-**Project Outcomes:** 
--   Demonstrate adequate knowledge of Audacity, including how to use the software to manipulate qualities of individual tracks and the combining and editing of multiple tracks
+This lesson begins to incorporate Sound into storytelling. This lesson introduces the students to the tools and practices in audio creation and recording.
+
+### Expected Lesson Duration: 
+Lesson is expected to last 2-3 days.
+
+### Preparing to Teach this Lesson:
+-	[Audacity software download](http://www.audacityteam.org/) that students will use to produce and manipulate their sounds.
+- [Audacity software documentation](http://manual.audacityteam.org/#tutorials) that students and instructors should become familiar with and learn how to navigate.
+-	[Free sound resource](https://freesound.org/people/newagesoup/sounds/348251/) that students may use to find a sound to experiment with in Audacity. Note that there are other resources online.
+
+###  Student Handouts:
+- Students should be directed to Audacity's [Software Documentation](http://manual.audacityteam.org/#tutorials) for when students need to troubleshoot while using Audacity, but this does not need to be printed.
+
+### Lesson Procedure:
+
+#### Introduction/Gain Attention
+-  **Sound of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
+
+#### Project
+
+-   The students will begin with a quick walkthrough of audacity and its quarks.
+    
+-   As they begin to explore and learn audacity the students will each begin with a [sound file](https://freesound.org/people/newagesoup/sounds/348251/).
+    
+-   With the sound file each student will be manipulating its loudness, pitch, quality, timbre, etc.
+    
+-   After the students have had practice with duplicating, replicating, and combining tracks the students will produce a small [soundscape](https://cdn.tutsplus.com/audio/uploads/legacy/175_soundscape/6.mp3) to complete the image that they took in the last unit. (The image of something important to them)
+    
+-   The soundscapes should:
+
+	-   Be a minimum of 30s
+    
+	-   Maximum of 60s
+    
+	-   Incorporate a minimum of 8 organic sounds
+    
+	-   No more than 4 sounds from other sources, non-original
+    
+	-   Minimum of four layers
+	
+## Outcomes:
+
+-   Demonstrate adequate knowledge of Audacity, including how to use the software to manipulate qualities of individual tracks, and the combining and editing of multiple tracks
     
 -   Understanding of how different sound attributes alter the effect a sound has on individuals
     
@@ -39,26 +63,8 @@ By the end of the lesson, students will be familiar with Audacity and its use in
     
 -   Demonstrate combination of creativity and technical skills in soundscape production
 
-**Final Product(s):**
-	
+##  Content of Lesson
 
- - Soundscape to accompany student image of the former unit
-
-### III. Duration: 
-Lesson is expected to last 2-3 days.
-
-### IV. Preparing to Teach this Lesson:
--	[Audacity software download](http://www.audacityteam.org/) that students will use to produce and manipulate their sounds.
-- [Audacity software documentation](http://manual.audacityteam.org/#tutorials) that students and instructors should become familiar with and learn how to navigate.
--	[Free sound resource](https://freesound.org/people/newagesoup/sounds/348251/) that students may use to find a sound to experiment with in Audacity. Note that there are other resources online.
-
-
-###  Learning Activities:
-
-#### I. Introductory Activity
--  **Sound of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
-
-#### II. Core Lesson Activities
 - **Acquiring Key Concepts:** becoming familiar with Audacity software, being able to use Audacity to manipulate sound files, and using both original and pre-made resources to create a soundscape specifically for a previously created image and storyline.
 
 - **Engaging in Experiential Learning:** experimenting with sound manipulation and creation with Audacity software, navigating software documentation during troubleshooting.
@@ -69,16 +75,47 @@ Lesson is expected to last 2-3 days.
 
 - **Assessing Learning:** have students justify the different components used in their soundscapes in terms of relation to the image and/or storyline they previously created. Students can also demonstrate their understanding of Audacity software and documentation, and that they are capable of using the software and troubleshooting using documentation.
 
-#### III. Closing Activity: 
-As this lesson stretches over multiple days, the closing activity should include a discussion of the expectations and requirements of their projects and the rate that the projects should be completed at (ex: tomorrow you should accomplish x, y, and z for your soundscape).
 
+## Closure and Review
+    
+-   Expectations of projects and their due date.
+    
+-   Have students describe the importance of diversity or individuality in the storytellers and writers due to experiences and how it shapes our stories.
+    
 
-###  Student Handouts:
-- Students should be directed to Audacity's [Software Documentation](http://manual.audacityteam.org/#tutorials) for when students need to troubleshoot while using Audacity, but this does not need to be printed.
+## Higher Level Thinking Skills Noted
 
-###  Implementation Feedback: 
+-   Looping vs repetition
+    
+-   Non-linear editing vs linear editing
+    
+
+## Relevance/Rationale:
+
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+
+ 
+## Explorations and Extensions:
+
+What was meant by the question, “Why does music move us?” Can the term, move be replaced with a more scientific term? If so, what term?
+
+## Assessment Criteria for Success:
+
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
+
+  
+## Modifications/Accommodations and Access for All:
+
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
+
+##  Implementation Feedback: 
 Students can receive feedback on their soundscape from their peers and instructor. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
+## Reflections:
+
+To be completed upon the end of lesson
 
 
 ## Other Important Course Development Information

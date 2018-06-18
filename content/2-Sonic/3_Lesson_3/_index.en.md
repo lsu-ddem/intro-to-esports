@@ -1,38 +1,57 @@
 ---
-title: Lesson 3
+title: Creating a Multimodal Scripted Radio Show with Limited Tools and Time about a Subject Matter that is Pertinent to Time
 weight: 3
 ---
-## Unit Description: 
-During the Sonic unit of Digital Storytelling, students will be introduced to the important role that sound plays in storytelling. Sound will be studied in order to determine usage and appropriateness to the story that it accompanies. 
 
+## Lesson
 
-## Lesson Outcomes:
-**I.** Students will utilize their knowledge of the tools and best practices for audio creation and recording, gain experience developing sonic stories, and integrating sound with their own writing.
+### Objective(s):
 
-**II.** Students will create a multimodal scripted radio show with limited tools and time about a subject matter that is pertinent to the present time.
+Students will begin to develop sonic stories. Integrating writing with sound to produce something new.
 
-## Lesson:
- ### I. Overview:
-Students will begin with an introductory activity in which they write a brief story from a given sound. After the introductory activity, students will be informed of the subject and guidelines of their next project, in which they will be producing a radio show. Prior to working on the radio shows, students will propose their ideas for the subject of their radio show. After approval, students will write the script and time map for their radio show. Scripts must adhere to guidelines set by the instructor, such as including cues, dialogue, sounds and their descriptions, maximum number of music tracks, limitations on repetitive actions, etc. Students must read and time their scripts prior to recording their radio show, after which they will record the 3-6 minute long show and edit the recording utilizing their newfound sound editing skills with the Audacity software. Each radio show will be broadcasted (played to the class as a whole), after which classmates and the instructor can offer constructive criticism and feedback.
+### Overview:
 
- 
- ### II. Outcomes:
-By the end of the lesson, students will have experience developing sonic stories, the process of creating scripts and timemaps, and creating and applying appropriate sounds to a new type of storyline.
-### Project:
-**Assignment:**  Scripted Radio Showingle Picture Assignment
+This lesson begins to incorporate Sound into storytelling. This lesson introduces the students to the tools and practices in audio creation and recording.
 
-		
+### Expected Lesson Duration: 
+Lesson is expected to last 2-3 days.
 
- **1.** Students must develop a preposition for their show and have the idea(s) apAs a group, students wi proved by the instructor.
- 
- **.** tudent must create and time map the script for their desired show, including cues, dialogue, sounds and descriptions of sounds. 
- 
- **32.** Students must time and read their scripts before recording and 
- 
- **43.** Finally, students will edit, record, and publish each show utilizing their Audacity i.
- 
+### Preparing to Teach this Lesson:
+-	[Audacity software download](http://www.audacityteam.org/) that students will continue to use to produce and manipulate their sounds.
+- [Audacity software documentation](http://manual.audacityteam.org/#tutorials) that students and instructors should become familiar with and learn how to navigate.
 
-**Project Outcomes:** 
+### Student Handouts:
+- Students should be directed to Audacity's [Software Documentation](http://manual.audacityteam.org/#tutorials) for when students need to troubleshoot while using Audacity, but this does not need to be printed.
+
+### Lesson Procedure:
+
+#### Introduction/Gain Attention
+-  **Sound of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
+
+#### Project
+
+-   The students will be producing a radio show, much like that of the past Orson Welles, between 3-6 minutes long
+    
+-   Prior to starting the radio show the students must describe their premise and have their ideas approved first
+    
+-   After their ideas have been approved the students must write and time map their scripts
+    
+-   The scripts must include:
+    
+	-   Cues
+    
+	-   Dialogue
+    
+	-   Sounds and descriptions of sounds
+    
+	-   No more than 2 music tracks
+    
+	-   NO overly repetitive actions
+   
+-   After the students have completed their scripts the students will have to do a reading and time their scripts prior to the actual implementation/recording of their radio shows
+
+## Outcomes:
+
 -   Develop and demonstrate time management skills required to complete a quality product within a limited amount of time
     
 -   Demonstrate increased proficiency in Audacity during the recording and editing of the radio show
@@ -45,25 +64,7 @@ By the end of the lesson, students will have experience developing sonic stories
     
 -   Understanding of the importance and use of well prepared scripts
 
-**Final Product(s):**
-	
-
- - Radio show with a duration of 3-6 minutes
-
-### III. Duration: 
-Lesson is expected to last 2-3 days.
-
-### IV. Preparing to Teach this Lesson:
--	[Audacity software download](http://www.audacityteam.org/) that students will continue to use to produce and manipulate their sounds.
-- [Audacity software documentation](http://manual.audacityteam.org/#tutorials) that students and instructors should become familiar with and learn how to navigate.
-
-
-###  Learning Activities:
-
-#### I. Introductory Activity
--  **Sound of the Day:** The class will begin with an activity that will require students to write a brief story about the content or relation of a sound presented by the instructor.
-
-#### II. Core Lesson Activities
+##  Content of Lesson
 - **Acquiring Key Concepts:** becoming familiar with the process of proposing and justifying a project concept, creating a sketch and timemap, and gaining more experience with Audacity and implementing the appropriate sounds for a given storyline.
 
 - **Engaging in Experiential Learning:** creating and developing a radio show from the initial theme/focus to the polished, finished recording of a 3-6 minute show.
@@ -74,16 +75,48 @@ Lesson is expected to last 2-3 days.
 
 - **Assessing Learning:** have students justify their proposal for their radio show, and identify all of the guidelines and requirements set by the instructor within their completed radio show.
 
-#### III. Closing Activity: 
-As this lesson stretches over multiple days, the closing activity should include a discussion of the expectations and requirements of their projects and the rate that the projects should be completed at (ex: tomorrow you should accomplish x, y, and z for your soundscape). Closing activities after project completion can include showcasing radio shows and providing feedback or peer review for each show.
 
+## Closure and Review
 
-### Student Handouts:
-- Students should be directed to Audacity's [Software Documentation](http://manual.audacityteam.org/#tutorials) for when students need to troubleshoot while using Audacity, but this does not need to be printed.
+-   Expectations of projects and their due date.
+    
+-   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
+    
+## Higher Level Thinking Skills Noted
+    
 
-### Implementation Feedback: 
+-   Answer the essential questions thoroughly and discuss.
+    
+
+## Relevance/Rationale:
+
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+
+  
+
+## Explorations and Extensions:
+
+What was meant by the question, “Why does music move us?” Can the term, move, be replaced with a more scientific term? If so, what term?
+
+## Assessment Criteria for Success:
+
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
+
+  
+
+## Modifications/Accommodations and Access for All:
+
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
+
+## Implementation Feedback: 
 Students can receive feedback on their radio show from their peers and instructor. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
+  
 
+## Reflections:
+
+To be completed upon the end of lesson.
 
 
 ## Other Important Course Development Information

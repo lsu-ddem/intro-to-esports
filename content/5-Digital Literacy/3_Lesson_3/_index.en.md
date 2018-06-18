@@ -1,78 +1,82 @@
 ---
-title: Lesson 3
+title: Digital Identity and Protection of that Identity
 weight: 3
 ---
 
-## Unit Description: 
-Discovery and PBL at all levels throughout the unit, students use information and communication technologies to find, evaluate, create, and communicate information digitally, requiring both cognitive and technical skills.
 
-## Lesson Outcomes:
-**I.**  Identify different types of threats present in the cyber world and how to protect oneself and one’s information from different types threats
-    
-**II.**  Explain methods one can take to increase the protection of personal information and accounts, such as rules for password creation, 2 step verification, etc.
-    
-  **III.** Ability to define and identify different attack methods and scams, such as phishing, pharming, and spoofing
-    
- **IV.**  Thorough understanding of the importance of personally identifiable information and other confidential information, the risks of storing this information without proper protection, and the consequences of having such information leaked
-
-
-
-  
 ## Lesson:
+
+### Objective(s):
+
+Students will engage in lecture and classroom conversation about identity protection, encryption, software, networks, hardware, and ways to protect against threats on those fronts.
+
 ### Overview:
-This lesson informs students of identity protection, encryption, hardware, and methods to protect these surfaces from attack. Students will be educated on the concept of identity protection in the digital world. This includes the importance of identity and identity protection as well as methods to protect one’s identity from threats present in the digital world. In order to protect against said threats, students will learn about persistent threats and attacks such as phishing, pharming, and spoofing.
-  
-  
+
+This lesson consists of teaching students how to protect their personal and digital identity as well as becoming aware of digital jargon that students need to know in orders to stay informed.
+
+###  Expected Lesson Duration: 
+Lesson is expected to last 2 days.
+
+###  Preparing to Teach this Lesson:
+There are no resources necessary for this lesson.
+
+###  Student Handouts:
+There are no handouts for this lesson.
 
 ### Lesson Procedure:
 
--   After the daily meme the students will be introduced to the concept of identity protection and the procedures to incorporate best practices to ensure the safety of their identity
+#### Introduction/Gain Attention
     
-   -   Identity, and importance of keeping it yours and secure:
+-   The class will begin with an image, video or, sound and the student and have them write a story about what is just off the boundary of the medium.
+
+#### Project
+
+-   After the daily meme the students will be introduced to the concept of identity protection and the ways in order to incorporate best practices to ensure the safety of their identity.
+    
+-   Identity, and importance of keeping it yours and secure:
     
 
-		-   Nowadays your email account is equivalent to a secondary social security account. 
-		- It allows you to connect to a variety of different services and stores valuable data. 
-		- A very common form of verification is an email verification.
+	-   Now in days your email account is equivalent to a secondary social security account. It allows you to connect to a variety of different services and stores valuable data. A very common form of verification is an email verification.
     
 
-		-   Simple steps to ensure that your email is protected include:
+-   Simple steps to ensure that your email is protected are:
     
 
-			1.  Developing a password schema:
+	-   Developing a password schema:
     
 
-				-   Develop a strong password that is at least 10 characters and a mixture of characters, numbers, and symbols.
+		-   Develop a strong password that is at least 10 characters and a mixture of characters, numbers, and symbols.
     
-				-   Along with that develop a schema for your passwords so you can develop a pattern for your passwords from site to site because, using the same password on multiple sites is dangerous.
-    
-
-				-   Schema example: important #(not birthday) **+** word or phrase(incorporate at least one capitalization and symbol into the phrase )**+** unique identifier that changes from site to site(the unique identifier(uid) can be in any format)
-				- Ex: 44-3L3ph@nt-g@@gle
-    
-				-   #-phrase-uid
+		-   Along with that, develop a schema for your passwords so you can develop a pattern for your passwords from site to site because, using the same password on multiple sites is dangerous.
     
 
-			2.  Make sure to vary the schema’s order from site to site:
+		-   Schema example: important # (not birthday) + word or phrase (incorporate at least one capitalization and symbol into the phrase ) + unique identifier that changes from site to site (the unique identifier (uid) can be in any format)
     
 
-				-   #-phrase-uid
+			-   44-3L3ph@nt-g@@gle
     
-				-   phrase-#-uid
+			-   #-phrase-uid
     
-				-   uid-#-phrase  
+
+		-   Make sure to vary the schema’s order from site to site:
+    
+
+			-   #-phrase-uid
+    
+			-   phrase-#-uid
+    
+			-   uid-#-phrase  
       
     
 
-		-   Simple steps to protect yourself and your digital Identity:
+	-   simple steps to protect yourself and your digital Identity:
     
 
-			-   Id numbers
+		-   Id numbers
     
-			-   Passwords
+		-   Passwords
     
-			-   2 step verification 
-			- Etc.! There are many ways to protect yourself digitally
+		-   2 step verification etc.
     
 
   
@@ -80,14 +84,12 @@ This lesson informs students of identity protection, encryption, hardware, and m
 	-   Phishing, Pharming, and spoofing:
     
 
-		-   **Phishing** refers to criminal activity that attempts to fraudulently obtain sensitive information
+		-   "Phishing" refers to criminal activity that attempts to fraudulently obtain sensitive information.
     
 
-			-   Sometimes someone will first send you a benign email (think of this as the bait) to lure you into a conversation and then follow that up with a phishing email. 
-			- At other times, the fraudster will just send one phishing email that will direct you to a website requesting you to enter your personal information such as User ID and Password.
+		-   Sometimes someone will first send you a benign email (think of this as the bait) to lure you into a conversation and then follow that up with a phishing email. At other times, the fraudster will just send one phishing email that will direct you to a website requesting you to enter your personal information such as User ID and Password.
     
-		-   **Pharming** is another scam where a person installs malicious code on a personal computer. 
-			- This code then redirects any clicks you make on a website to another fake Website without your consent or knowledge.
+		-   Pharming is another scam where a person installs malicious code on a personal computer. This code then redirects any clicks you make on a website to another fake Website without your consent or knowledge.
     
 
 		-   To avoid phishing or pharming, follow the basic computer safety guidelines:
@@ -99,56 +101,91 @@ This lesson informs students of identity protection, encryption, hardware, and m
     
 			-   Use Anti-Spyware Software(Windows)
     
-			-   Be especially careful when entering financial information on a website. Look for the ‘s’ in https in the domain name to know that the website is secure.
+		-   Be especially careful when entering financial information on a website. Look for the ‘s’ in https in the domain name.
     
-			-   If the website looks different than when you last visited, be suspicious and don’t click unless you are absolutely certain the site is secure.
+		-   If the website looks different than when you last visited, be suspicious and don’t click unless you are absolutely certain the site is secure.
     
 
-		-   Now, spoofing comes in many forms, from wifi spoofing(free wifi) to site-spoofing on the receiving of the pharming scams.
-		
-			- The basic concept of spoofing is creating a "spoofed" resource, such as wifi or a website, that users visit and believe to be legitimate, so they willingly give up login credentials and other information to attackers.
-			
-			- Spoofed websites will typically look almost exactly identical to the site they are spoofing as the attackers copy the layout of a popular, trusted site to delay the realization of victims realizing the spoof site is not the actual website
-			
-			- Spoofed sites typically have web addresses that are similar to the legitimate web address, possibly utilizing foreign characters that look identical to english letters, or other methods to trick users into thinking they are visiting the legitimate, secure site.
-			
-				- Ex: A spoof of facebook might have an address such as "www.facebook.com" that users look over because the difference in the actual url www.facebook.com is not extremely noticeable
+		-   Now spoofing comes in many forms from wifi spoofing (free wifi) to site-spoofing on the receiving of the pharming scams.
+    
 
+	-   Spectre/Meltdown:
+    
+		-   What is it? How can I protect myself? Simple:
+   
+			-   To turn on Site Isolation on Windows, Mac, Linux, Chrome OS or Android:
+    
+				-   Type or copy-paste chrome://flags/#enable-site-per-process into the URL field at the top of your Chrome web browser, then hit the Enter key.
+    
+				-   Look for Strict Site Isolation, then tap or click the box labeled Enable.
+    
+				-   If your work is saved, hit Relaunch Now. Otherwise, save your work, then quit and relaunch Chrome.
+    
+	-   For Chrome on iOS (iPhone, iPad), Google says Apple will deliver any necessary fixes.
+    
 
-###  Duration: 
-Lesson is expected to last 2 days.
+	-   While you are being smart lets clean up that phone or desktop right from your browser as well :
+    
 
-###  Preparing to Teach this Lesson:
+		-   URL chrome://settings/cleanup in your browser, or by going to Settings > Reset and clean up > Clean up computer. Give it a shot, especially if your browser seems sluggish.
 
+## Outcomes:
+-   Identify different types of threats present in the cyber world and how to protect oneself and one’s information from different types threats
+    
+-   Explain methods one can take to increase the protection of personal information and accounts, such as rules for password creation, 2 step verification, etc.
+    
+-   Ability to define and identify different attack methods and scams, such as phishing, pharming, and spoofing
+    
+-   Thorough understanding of the importance of personally identifiable information and other confidential information, the risks of storing this information without proper protection, and the consequences of having such information leaked
 
+## Content of Lesson
 
-##  Learning Activities:
-
-#### I. Introductory Activity
--  **Icebreaker:** The class will begin with an icebreaker activity that will stir conversations and or questions(ex:Two lies and a truth).
-
-#### II. Core Lesson Activities
 - **Acquiring Key Concepts:** discussion of character roles, types, and development and how to identify these terms in media in any given medium.
 
 - **Engaging in Experiential Learning:** identifying the concepts discussed in examples of tv shows and videos.
 
 - **Building Proficiencies:** using skills from previous discussion and activity to work with a group in developing a unique storyline from a random image.
 
-- **Connecting with STEM Professionals:** view a video interview with a director or writer in which they discuss the concepts focused on in class.
-
-- **Assessing Learning:** have groups explain the methods they used to complete the storyline for their given image. Also allow groups to compare their storyline and steps taken to those of other groups in class. Ask if students are able to identify the concepts of character roles and development in the stories their classmates created.
-#### III. Closing Activity: 
- Students will write a short instance of what they have learned about their classmates' development of their stories, what all went into this process, how it differed from their own process, and what they have learned or gained from the individual stories created.
+- **Connecting with STEM Professionals:** view a video interview with a director or writer in which they discuss the concepts focused.
 
 
+## Closure and Review 
 
-##  Student Handouts:
-There are no handouts for this lesson as it is project based.
+-   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
+    
+-   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
+    
+
+## Higher Level Thinking Skills Noted
+    
+
+-   Developing a dynamic story
+    
+-   Adapting stories due to character developments
+    
+-   Perception due to appearance
+    
+
+## Relevance/Rationale:
+
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
+
+  
+
+## Explorations and Extensions:
+
+Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
+
+## Assessment Criteria for Success:
+
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
 ##  Implementation Feedback: 
 Students will receive feedback from their peers and instructor while they are sharing their story with their classmates. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
+## Reflections:
 
-## Other Important Course Development Information
-### Best Practices:
-Exemplary Previous student work: 
+To be completed upon the end of lesson.
+

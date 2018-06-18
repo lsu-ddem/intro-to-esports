@@ -1,38 +1,60 @@
 ---
-title: Lesson 4
+title: Imagery and Ethicacy
 weight: 4
 ---
-## Unit Description: 
-During the Imagery unit of Digital Storytelling, students will be introduced to the active role that imagery plays in storytelling. Imagery will be studied in order to determine usage and appropriateness to the story that it accompanies. 
 
 
-## Lesson Outcomes:
-**I.** Students will gain an in-depth understanding of efficacy and the importance of ethics in digital media.
+## Lesson
 
-**II.** Students will become familiar with the practice of peer review after the discussion of its importance and effectiveness, though it is a practice that production models often nullify.
+### Objective(s):
 
-## Lesson:
- ### I. Overview:
-Students will begin with an introductory activity in which they write a brief story from a given picture. After the introductory activity, students will upload their images from the prior lesson's closing activity to a class-shared folder without any discussion of the image's owner, subject, or significance. Each student will be assigned one of the uploaded images to use as the subject of a captivating essay. The students will use all of the skills they have developed thus far to write their essay, and must also incorporate a captivating headline and tagline. After completion of the essays, they will be uploaded to the class-shared folder with the same name as their respective image. A brief discussion of peer review will be held, with focus on the purpose and benefits of the practice. Peer review will then begin as two students will read the essay of an unfamiliar image (one that they did not submit and one that they were not assigned), and discuss their view on the ethics of the writing with the author of the essay, making sure to include what they thought about the headline. Students will be reminded to discuss the weights and balances between content, creation, and common respect. After peer review, students will read the essays written by their classmates about their prized possession or person/people pictured in their image.
+The students will be exploring first hand the importance of efficacy and importance of ethics in digital media. Peer review and the practice itself will also be explored due to the lack of media outlets actually taking part in the practice due to production models.
 
-### Project:
-**Assignment:**  
+### Overview:
 
-		
+This lesson introduces students the importance of empathy, efficacy, and responsibility in digital media.
 
- **1.** Students will be assigned a random image, taken from the submissions of images with subjects that are significant to individual students in the prior lesson.
- 
- **2.** Students will use the images as the subject of a captivating essay, without any information of the context, owner, subject, etc. of the original picture.
- 
- **3.** The students will use all of the skills they have developed thus far to write their essay, and must also incorporate a captivating headline and tagline. 
- 
- **4.** After completion of the essays, they will be peer reviewed by at least two students.
- 
- **5.** During peer review, students will read the essay of an unfamiliar image (one that they did not submit and one that they were not assigned), and discuss their view on the ethics of the writing with the author of the essay, making sure to include what they thought about the headline.
- 
- **6.** After peer review, students will read the essays written by their classmates about their prized possession or person/people pictured in their image.
+### Expected Lesson Duration: 
+Lesson is expected to last 2 days.
 
-**Project Outcomes:** 
+### Preparing to Teach this Lesson:
+
+- No resources needed for this lesson.
+
+### Student Handouts:
+If desired, students may be given handouts for feedback during peer review, or they may be instructed to leave notes in the files in the class-shared folder.
+
+### Lesson Procedure:
+
+#### Introduction/Gain Attention
+-  **Daily Meme:** The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
+
+#### Project
+-   After the daily meme the students will upload their image to a shared folder without discussion or reveal of the owner of the particular image.
+    
+-   Each student will be assigned a photograph and be given directions to write a captivating essay using that image as a basis making sure to include a catchy headline and tagline.
+    
+-   Upon completion of the essay the students will place their essays in the folders and name them the same as their respective photo.
+    
+-   After the files have been uploaded, at least two peers that the image does not belong to, must read the article, and discuss with the author their view on the ethics of the writing. Especially making sure to include what they thought about the headline. Remind the students to discuss the weights and balances between content creation and common respect.
+    
+-   The students will then read the essays that have been written about their prized possessions or people.
+    
+-   After completion, students should begin to express their feelings about what they thought about the writings, the good, bad, happy, and sad should all be expressed. This can lead into the subject matter at hand: ethics, efficacy, and responsibility.
+    
+-   Make sure guided conversations include:
+    
+
+	-   **Content Creation**--- At what cost?
+    
+	-   24/7 news cycle
+    
+	-   **Responsibilty** to: truth, consumers, money…
+    
+	-   Peer Review
+
+## Outcomes:
+
  -   Able to define empathy and efficacy in general and in the context of storytelling/digital media
     
 -   Able to identify and explain the importance of empathy, efficacy, and responsibility in digital media
@@ -43,33 +65,8 @@ Students will begin with an introductory activity in which they write a brief st
     
 -   Demonstrating the ability to give and receive constructive criticism
    
+##  Content of Lesson
 
-**Final Product(s):**
-	
-
- - Written Essay 
- - Peer revision, feedback from peers on essay, image
-
-
-
- ### II. Outcomes:
-By the end of the lesson, students will have gained experience in the practice of peer review and both taking and forming constructive criticism. Students will sharpen their creative and technical skills during the creation of a storyline from an image by using the techniques and strategies of analyzing and deciphering the subject, context, origin, etc. of an image.
-
-
-### Duration: 
-Lesson is expected to last 2 days.
-
-### Preparing to Teach this Lesson:
-
-- No resources needed for this lesson.
-
-
-### Learning Activities:
-
-#### I. Introductory Activity
--  **Daily Meme:** The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
-
-#### II. Core Lesson Activities
 - **Acquiring Key Concepts:** discussion of the practice of peer review and first hand experience peer reviewing classmates' essays.
 - **Engaging in Experiential Learning:** creating captivating essays about classmates' images, peer reviewing classmates' essays, providing constructive criticism on essays based on their own image.
 
@@ -78,16 +75,49 @@ Lesson is expected to last 2 days.
 - **Connecting with STEM Professionals:** view a video interview with a professional in the film, photography, art, or other industry discussing the use and importance of peer review
 
 - **Assessing Learning:** have students explain the purpose and benefit of peer review, and identify what they have specifically gained from peer review on their essays and images.
-#### III. Closing Activity: 
-After reading the essays, students should begin to express their opinions about the writings;  the good, bad, happy, and sad should be expressed. This can lead into the subject matter at hand: ethics, efficacy, and responsibility.
+
+## Closure and Review
+    
+
+-   Reiterate the importance of storytelling in media.
+    
+-   Explain the importance of diversity or individuality in the storytellers and writers due to experiences and how it shapes our stories.
+    
+
+## Higher Level Thinking Skills Noted
+    
+
+-   Empathy
+    
+-   Creativity vs catharsis “be soft on the people hard on the problem”
+    
+-   “Operating on not enough information” Digital Media, Social Media and the always operating on two cents worth of information
+    
+## Relevance/Rationale:
+
+The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
 
+## Explorations and Extensions:
 
-### Student Handouts:
-If desired, students may be given handouts for feedback during peer review, or they may be instructed to leave notes in the files in the class-shared folder.
+Ask the owner of the image about the subject and try to write a passage that honestly represents the subject.
 
-### Implementation Feedback: 
+## Assessment Criteria for Success:
+
+Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
+
+Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
+
+## Modifications/Accommodations and Access for All:
+
+A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, Alterations will be easily made.
+
+## Implementation Feedback: 
 Students will receive feedback from their peers and instructor during peer review. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
+
+## Reflections:
+
+To be completed upon the end of lesson.
 
 
 ## Other Important Course Development Information
