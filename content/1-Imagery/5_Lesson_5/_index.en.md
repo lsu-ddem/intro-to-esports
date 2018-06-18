@@ -1,55 +1,38 @@
 ---
-title: Imagery Assessment
+title: Lesson 5
 weight: 5
 ---
+## Unit Description: 
+During the Imagery unit of Digital Storytelling, students will be introduced to the active role that imagery plays in storytelling. Imagery will be studied in order to determine usage and appropriateness to the story that it accompanies. 
+
+
+## Lesson Outcomes:
+**I.** Students will culminate their imagery unit with a comic strip.
+
+**II.** Students will demonstrate their ability to utilize all of the skills they have developed thus far to create an imagery heavy story about an important subject.
 
 ## Lesson
-
-### Objective(s):
-
-The students will culminate their imagery unit with a [comic strip](https://chromebooks.pixton.com/schools/login). Utilizing all the skills they have honed to demonstrate an imagery heavy story about an important subject.
-
-### Overview:
-
-Creativity replicating an image through shapes and composition.
-
-### Expected Lesson Duration: 
-Lesson is expected to last 2 days.
-
-### Preparing to Teach this Lesson:
-
-- [Comic strip creator app](https://chromebooks.pixton.com/schools/login) that students will download and use to create comic strips.
-
-###  Student Handouts:
-If desired, students may be given handouts for feedback during peer review.
-
-### Lesson Procedure:
-
-#### Introduction/Gain Attention
--  **Daily Meme:** The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
-
-#### Project
--   After the daily meme the students will add the [comic strip creator app](https://chromebooks.pixton.com/schools/login) to their laptops
-    
--   Each student will be assigned a topic to illustrate their opinion about making sure to include a catchy headline and tagline
-    
--   Upon completion of the comic the students will submit their illustrations in for peer review
-    
--   After the files have been reviewed all comic strips will be entered into a comic book for that class and will be archived for later use
-    
--   Make sure peer review has been signed off by more than two peers:
-    
-	-   Diversity
-    
-	-   POV
-    
-	-   Composition
-    
-	-   **Responsibility**
+ ### I. Overview:
+Students will begin with an introductory activity in which they write a brief story from a given picture. After the introductory activity, students will add the comic strip creator app to their laptops (the app can be found in teacher resources). Each student will be assigned a topic which they will illustrate their opinion on. Upon completion of the comic, students will submit their illustrations for peer review in which two peers must sign off on the comic strips. During peer review, students will be instructed to look for diversity, POV, composition, and responsibility in terms of efficacy and ethics in the comic strips.  After peer review, the comics will be combined into a class comic book, which will be archived for later use. 
 
 
-## Outcomes:
+### Project:
+**Assignment:**  
 
+		
+
+ **1.** Each student will be assigned a topic by the instructor that will be used as the subject of the project. 
+ 
+ **2.** Students will use the comic strip creator app to illustrate their opinion of their assigned topic via a comic strip.
+ 
+ **3.** Upon completion of the comic, students will submit their illustrations for peer review in which two peers must sign off on the comic strips. 
+ 
+ **4.** During peer review, students will be instructed to look for diversity, POV, composition, and responsibility in terms of efficacy and ethics in the comic strips. 
+ 
+ **5.** After peer review, the comics will be combined into a class comic book, which will be archived for later use. 
+ 
+
+**Project Outcomes:** 
  -   Combining all of the skills honed in the imagery unit into a polished final project which effectively displays the required components/skills, such as diversity, composition, etc.
     
 -   Development of peer review skills
@@ -57,9 +40,34 @@ If desired, students may be given handouts for feedback during peer review.
 -   Identifying the major concepts present in multiple works (peer reviewing 2 peer’s comic strips and identifying necessary concepts)
     
 -   Demonstrating the ability to give and receive constructive criticism
+    
 
-##  Content of Lesson
+**Final Product(s):**
+	
+ - Individual Comic Strips 
+ - Class Comic-book 
 
+
+
+
+ ### II. Outcomes:
+By the end of the lesson, students will have an in depth understanding of imagery composition styles and rules by both viewing extensive examples of the different types and creating their own examples of the different types. Students will have experience combining and displaying imagery in a way and order that tells a specific story, and deciphering the story a specific combination of images is attempting to convey.
+
+
+### III. Duration: 
+Lesson is expected to last 2 days.
+
+### IV. Preparing to Teach this Lesson:
+
+- [Comic strip creator app](https://chromebooks.pixton.com/schools/login) that students will download and use to create comic strips.
+
+
+###  Learning Activities:
+
+#### I. Introductory Activity
+-  **Daily Meme:** The class will begin with an activity that will require students to write a brief story using an image displayed by the instructor.
+
+#### II. Core Lesson Activities
 - **Acquiring Key Concepts:** incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
 - **Engaging in Experiential Learning:** peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
 
@@ -68,48 +76,16 @@ If desired, students may be given handouts for feedback during peer review.
 - **Connecting with STEM Professionals:** view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
 
 - **Assessing Learning:** have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.
+#### III. Closing Activity: 
+Students can view the class comic book and identify what worked well and what worked poorly in terms of design, application of skill sets, narrative, etc.
 
 
-## Closure and Review
-    
--   Reiterate the importance of storytelling in media
-    
--   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
-    
 
-## Higher Level Thinking Skills Noted
-   
--   Empathy
-    
--   Creativity vs Catharsis “be soft on the people hard on the problem”
-    
-## Relevance/Rationale:
+###  Student Handouts:
+If desired, students may be given handouts for feedback during peer review.
 
-The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
-
-
-## Explorations and Extensions:
-
-Ask the owner of the image about the subject and try to write a passage that honestly represents the subject.
-
-## Assessment Criteria for Success:
-
-Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. Student learning will be assessed throughout the lesson via question responses and correlation to the project.
-
-Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
-
-
-## Modifications/Accommodations and Access for All:
-
-A simpler version of Imagery and storytelling is already prepared if there are students that need to re-review the information. Also, if students need an alternate assignment due to their personal disposition to the material, alterations will be easily made.
-
-##  Implementation Feedback: 
+###  Implementation Feedback: 
 Students will receive feedback from their peers and instructor during peer review. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
-  
-
-## Reflections:
-
-To be completed upon the end of lesson.
 
 
 ## Other Important Course Development Information
