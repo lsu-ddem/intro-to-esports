@@ -1,5 +1,5 @@
 ---
-title: 100 Iconic Photos of New Orleans Through the Ages
+title: The Black Box System for Organizing a Story
 weight: 9
 ---
 
