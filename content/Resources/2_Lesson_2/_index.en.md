@@ -1,6 +1,6 @@
 ---
 title: Professional Storyboarding Template
-weight: 2
+weight: 3
 ---
 
 ![](Video Lesson 1 _ professionalStoryboardTemplate.png)
