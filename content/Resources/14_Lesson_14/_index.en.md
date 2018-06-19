@@ -2,6 +2,4 @@
 title: Sonic Sound
 weight: 14
 ---
-<audio controls>
-  <source src="sonic1.mp3" type="audio/mp3">
-  </audio>
+<iframe src="https://drive.google.com/file/d/0B-fnzlPK8lcvSmN0OVV3ZW84a28/preview" width="640" height="480"></iframe>
