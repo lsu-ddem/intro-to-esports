@@ -1,5 +1,5 @@
 ---
-title: Digital Identity and protection of that Identity
+title: Digital Identity and Protection of That Identity
 share: https://docs.google.com/open?id=11BSBfcUoOTJz599dW7lLguhusxDJzHVNGxF8s4osz9E
 layout: post
 permalink: /digital-identity-and-protection-of-that-identity/
