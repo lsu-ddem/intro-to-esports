@@ -1,8 +1,9 @@
 ---
-title: Digital Litercy Intro (1)
+title: Introduction to Digital Literacy 
 share: https://docs.google.com/open?id=1kHQB93ORHGCpF5KBQmvz5ULvOeMKCfGxwWfaehWGbUY
 layout: post
 permalink: /digital-litercy-intro-(1)/
+weight: 1
 source-id: 1kHQB93ORHGCpF5KBQmvz5ULvOeMKCfGxwWfaehWGbUY
 published: true
 ---
