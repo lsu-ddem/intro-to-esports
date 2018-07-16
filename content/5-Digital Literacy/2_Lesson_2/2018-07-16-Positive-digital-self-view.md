@@ -3,6 +3,7 @@ title: Positive Digital Self View
 share: https://docs.google.com/open?id=1mD84QZLnl1vQzzHQJmOCAldky2pTukiYyqaeZJsVwb8
 layout: post
 permalink: /positive-digital-self-view/
+weight: 2
 source-id: 1mD84QZLnl1vQzzHQJmOCAldky2pTukiYyqaeZJsVwb8
 published: true
 ---
