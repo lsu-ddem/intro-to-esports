@@ -1,12 +1,12 @@
 ---
 title: Hello this is just a test
 share: https://docs.google.com/open?id=1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
-layout: post
+layout: https://intro-to-engineering-design.lsupathways.org
 permalink: /hello-this-is-just-a-test/
 source-id: 1LolN48u35wwXa8yyhEcUg02EXBLvwvBmuZXX4tIspfQ
 published: true
 ---
-![image alt text](https://intro-to-engineering-design.lsupathways.org/images/xEO98HQn5y0xczXg64UTw_img_0.jpg)
+![image alt text](https://digital-storytelling.lsupathways.org/images/xEO98HQn5y0xczXg64UTw_img_0.jpg)
 
 Unit 2
 
