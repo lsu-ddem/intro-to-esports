@@ -1,8 +1,9 @@
 ---
 title: Videographic Journalism
 share: https://docs.google.com/open?id=1xrHupydGtk88Quuk7lncQHTAnvyeYRNI7M-mLFGcNbk
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /videographic-journalism/
+weight: 3
 source-id: 1xrHupydGtk88Quuk7lncQHTAnvyeYRNI7M-mLFGcNbk
 published: true
 ---
