@@ -1,5 +1,5 @@
 ---
-title: 3 : Media Adaptation
+title: Media Adaptation
 share: https://docs.google.com/open?id=1lG5BaahV6UATiwWZZuCvJTRhb039T-9Ta-Fx6t4Qvl0
 layout: post
 permalink: /3-:-media-adaptation/
