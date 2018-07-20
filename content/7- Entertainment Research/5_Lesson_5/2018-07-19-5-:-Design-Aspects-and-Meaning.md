@@ -1,7 +1,7 @@
 ---
 title: Design Aspects and Meaning
 share: https://docs.google.com/open?id=1tt_Y5Z1G9pkznjN14_jL2J51JbMUiA9VPt5Fhim1sBQ
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /5-:-design-aspects-and-meaning/
 weight: 5
 source-id: 1tt_Y5Z1G9pkznjN14_jL2J51JbMUiA9VPt5Fhim1sBQ
