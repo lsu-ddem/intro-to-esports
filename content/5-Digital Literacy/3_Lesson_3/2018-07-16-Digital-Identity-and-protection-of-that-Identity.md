@@ -5,6 +5,7 @@ layout: post
 permalink: /digital-identity-and-protection-of-that-identity/
 source-id: 11BSBfcUoOTJz599dW7lLguhusxDJzHVNGxF8s4osz9E
 published: true
+weight: 3
 ---
 # Lesson
 
