@@ -1,7 +1,7 @@
 ---
 title: Origins of Media
 share: https://docs.google.com/open?id=1eR9MNT3NnD1xmkxbkwcuwTiBZVN3AZzU2NxXJOqHe5M
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /4-:-origins-of-media/
 weight: 4
 source-id: 1eR9MNT3NnD1xmkxbkwcuwTiBZVN3AZzU2NxXJOqHe5M
