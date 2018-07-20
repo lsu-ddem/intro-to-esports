@@ -1,5 +1,5 @@
 ---
-title: Portfolio/Final Project
+title: Portfolio / Final Project
 share: https://docs.google.com/open?id=1In9WcPGyDuLl3QWvGbRRdmdOK3n5nzG52LEwpHdDiZY
 layout: post
 permalink: /portfolio/final-project/
