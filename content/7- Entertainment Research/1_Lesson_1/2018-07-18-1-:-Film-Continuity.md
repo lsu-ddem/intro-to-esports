@@ -1,49 +1,47 @@
 ---
 title: Film Continuity
 share: https://docs.google.com/open?id=1qoWu9Zo6BAE2mAfw3DKZpd0gqIzH0t4yoVajoeDp-AY
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /1-:-film-continuity/
 weight: 1
 source-id: 1qoWu9Zo6BAE2mAfw3DKZpd0gqIzH0t4yoVajoeDp-AY
 published: true
 ---
-#  Lesson
+# Lesson
 
-##  Objective(s):
+## Objective(s):
 
-- Define the forms and ways that a story can become disjointed or discontinuous
+* Define the forms and ways that a story can become disjointed or discontinuous
 
--    Identify the individual responsible for film continuity, and what actions this person takes to maintain continuity
-
-    
-
--   Define the forms and ways a story can become disjointed or discontinuous and therefore lose continuity
+* Identify the individual responsible for film continuity, and what actions this person takes to maintain continuity
 
     
 
--   List the types of continuity that should be present in a film
+* Define the forms and ways a story can become disjointed or discontinuous and therefore lose continuity
 
     
 
--   Ability to identify instances in which continuity is broken, and how it could have been maintained
+*  List the types of continuity that should be present in a film
 
-##  Overview:
+    
+
+* Ability to identify instances in which continuity is broken, and how it could have been maintained
+
+## Overview:
 
 This lesson is the introduction to the entertainment research unit, focusing on the concept and successful implementation of story continuity. Stories in film, audio, written, gaming, or in photographs are supposed to be immersive. In order to keep the audience immersed, the medium must be free of breaks, mistakes, or glaring disconnections from scene to scene. In order to accomplish this, continuity must be integral to the creative process and from the characters (behavior), environment (time/period), and transitions.  
 
-###  Expected Lesson Duration:
+### Expected Lesson Duration:
 
 2-3 days
 
-###  Lesson Procedure:
+### Lesson Procedure:
 
-####   Introduction/Gain Attention
-
-    
+#### Introduction/Gain Attention    
 
 -   The class will begin with an image, video or, sound and the student and have them write a story about what is just off the boundary of the medium.
 
-####  Project
+#### Project
 
 -   After the daily meme, the students will be introduced to the concept of film continuity.
 
@@ -55,33 +53,25 @@ This lesson is the introduction to the entertainment research unit, focusing on 
 
 	-   The students will also research continuity errors found in their favorite movies that they may not have noticed before. 
 
-		- There are many sites that keep records of these errors, such as [MovieMistakes for example](https://www.moviemistakes.com/best/continuity).
+		- There are many sites that keep records of these errors, such as [MovieMistakes for example](https://www.moviemistakes.com/best/continuity)
 
     
 
 -   As a class, the students will generate:
 
-    
-
 	-   A working definition of continuity in regards to film.
 
     
 
-	-   A list of the types of continuity that should be present in film ([types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity)).
+	-   A list of the types of continuity that should be present in film : [types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity))
 
 		1. Continuity of Information
 
-		
-
 		   - Breaks in the continuity of information often occur when shots are spaced out between one another, and directors and actors have forgotten small details that an audience member may quickly notice.
 
-				 
+	               - Ex: Recall a scene you have recently watched in which two actors were having a conversation, and the camera alternated back and forth between the two actors. If in the first shot an actor is wearing a necklace, and the camera cuts to the other actor to record their response, then back to the first actor to record *their* response and they **aren't** wearing a necklace, an error in the continuity of look has occurred. 
 
-		     - Ex: Recall a scene you have recently watched in which two actors were having a conversation, and the camera alternated back and forth between the two actors. If in the first shot an actor is wearing a necklace, and the camera cuts to the other actor to record their response, then back to the first actor to record *their* response and they **aren't** wearing a necklace, an error in the continuity of look has occurred. 
-
-					 
-
-			 - This mistake wouldn't have such a great effect if if the change occurred over two different scenes, but the necklace disappeared in the middle of the actors' conversation, making it highly noticeable.
+		 - This mistake wouldn't have such a great effect if if the change occurred over two different scenes, but the necklace disappeared in the middle of the actors' conversation, making it highly noticeable.
 
 		   - Continuity of look is important because any break or error made reminds the audience that they are watching a staged, fake interaction rather than being fully immersed in the scene.  
 
@@ -91,21 +81,23 @@ This lesson is the introduction to the entertainment research unit, focusing on 
 
 			
 
-			- The concept of continuity of action is similar to the concept of the continuity of look, but in this case the focus is placed on matching actions from shot to shot rather than matching physical features from shot to shot. 
+		- The concept of continuity of action is similar to the concept of the continuity of look, but in this case the focus is placed on matching actions from shot to shot rather than matching physical features from shot to shot. 
 
 				
 
-			- If in one shot a man is sitting on the couch watching TV and talking to his roommate who is located in the kitchen, the camera cuts to the roommate and then back to the man who is now standing next to the roommate in an unreasonable amount of time, continuity of action is broken. 
+		- If in one shot a man is sitting on the couch watching TV and talking to his roommate who is located in the kitchen, the camera cuts to the roommate and then back to the man who is now standing next to the roommate in an unreasonable amount of time, continuity of action is broken. 
 
 					
 
-			- This break in continuity could have been prevented by showing the man walking to the kitchen to stand next to and converse with his roommate, by keeping the man on the couch, or by allowing a more reasonable time for the man to have walked to his roommate. 
+		- This break in continuity could have been prevented by showing the man walking to the kitchen to stand next to and converse with his roommate, by keeping the man on the couch, or by allowing a more reasonable time for the man to have walked to his roommate. 
 
 			
 
-			- Review the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity) for a more detailed example of a break in continuity of action.
+		- Review the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity) for a more detailed example of a break in continuity of action.
 
-		3. Continuity of  Look
+		
+
+3. Continuity of  Look
 
 		
 
@@ -137,7 +129,7 @@ This lesson is the introduction to the entertainment research unit, focusing on 
 
 			
 
-			- For a more in depth explanation of breaks in continuity of movement in a scene with a car, revisit the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity). 
+			- For a more in depth explanation of breaks in continuity of movement in a scene with a car, revisit the [5 types of continuity resource](https://www.videomaker.com/article/7468-edit-suite-five-types-of-continuity)
 
 			
 
@@ -175,83 +167,79 @@ This lesson is the introduction to the entertainment research unit, focusing on 
 
 	
 
-###  Outcomes
+### Outcomes
 
--   Define film continuity
-
-    
-
--   Identify the individual responsible for film continuity, and what actions this person takes to maintain continuity
+* Define film continuity
 
     
 
--   Define the forms and ways a story can become disjointed or discontinuous and therefore lose continuity
+* Identify the individual responsible for film continuity, and what actions this person takes to maintain continuity
 
     
 
--   List the types of continuity that should be present in a film
+* Define the forms and ways a story can become disjointed or discontinuous and therefore lose continuity
 
     
 
--   Ability to identify instances in which continuity is broken, and how it could have been maintained
-
-###  Content of Lesson
-
-- **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
-
-- **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
-
-- **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
-
-- **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
-
-- **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.    
+* List the types of continuity that should be present in a film
 
     
 
-###  Closure and Review
+* Ability to identify instances in which continuity is broken, and how it could have been maintained
+
+### Content of Lesson
+
+* **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
+
+* **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
+
+* **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
+
+* **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
+
+* **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.    
 
     
 
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
+### Closure and Review
+
+* Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
 
     
 
--   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
+* Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
 
     
 
-##  Higher Level Thinking Skills Noted
+## Higher Level Thinking Skills Noted
+
+* Developing a dynamic story
 
     
 
--   Developing a dynamic story
+* Adapting stories due to character developments
 
     
 
--   Adapting stories due to character developments
+* Perception due to appearance
 
     
 
--   Perception due to appearance
-
-    
-
-##  Relevance/Rationale:
+## Relevance/Rationale:
 
 The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
-##  Explorations and Extensions:
+## Explorations and Extensions:
 
 Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
 
-##  Assessment Criteria for Success:
+## Assessment Criteria for Success:
 
 Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
-##  Reflections:
+## Reflections:
 
 To be completed upon the end of lesson.
 
