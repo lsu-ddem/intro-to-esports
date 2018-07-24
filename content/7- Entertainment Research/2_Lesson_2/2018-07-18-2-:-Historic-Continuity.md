@@ -1,39 +1,37 @@
 ---
 title: Historic Continuity
 share: https://docs.google.com/open?id=197SBivD-HKP6HpayIM6N9GsZYeG71cHSnSYXISMZErg
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /2-:-historic-continuity/
 weight: 2
 source-id: 197SBivD-HKP6HpayIM6N9GsZYeG71cHSnSYXISMZErg
 published: true
 ---
-#  Lesson 
+# Lesson 
 
-##  Objective(s):
+## Objective(s):
 
 This lesson expands upon the concept of film continuity and allows students to implement their knowledge of continuity in film via a group project consisting of:
 
-- assigning different decades to different groups of students
+* Assigning different decades to different groups of students
 
-- maintaining historical continuity while the groups implement the same scene/plot
+* Maintaining historical continuity while the groups implement the same scene/plot
 
-##  Overview:
+## Overview:
 
 This will be a project based final that will utilize all formats of storytelling previously learned in order to produce a new product Interactive Story.
 
-###  Expected Lesson Duration:
+### Expected Lesson Duration:
 
 2-3 days
 
-###  Lesson Procedure:
+### Lesson Procedure:
 
-####  Introduction/Gain Attention
-
-   
+#### Introduction/Gain Attention   
 
 -   The class will begin with an image, video, or sound and the student and have them write a story about what is just off the boundary of the medium.
 
-####  Project 
+#### Project 
 
 -   After the daily meme the students will utilize their knowledge and implementation of continuity to create a work with respect to historical continuity.
 
@@ -91,45 +89,43 @@ This will be a project based final that will utilize all formats of storytelling
 
 		- It is how the students decide to portray this scene according to their assigned time period that challenges their newfound historical continuity skills.
 
-###  Outcomes
+### Outcomes
 
--   Define and list the different types of film continuity
-
-    
-
--   Expand upon historical continuity in film
+* Define and list the different types of film continuity
 
     
 
--   Ability to thoroughly research a time period and/or subject and use findings to support historical continuity and prevent breaks in continuity
+* Expand upon historical continuity in film
 
     
 
--   Ability to successfully maintain historical continuity in regards to a given time period
+* Ability to thoroughly research a time period and/or subject and use findings to support historical continuity and prevent breaks in continuity
 
     
 
--   Ability to identify instances in which continuity is broken, and how it could have been maintained
+* Ability to successfully maintain historical continuity in regards to a given time period
 
-###  Content of Lesson
+    
 
-- **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
+* Ability to identify instances in which continuity is broken, and how it could have been maintained
 
-- **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
+### Content of Lesson
 
-- **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
+* **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
 
-- **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
+* **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
 
-- **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.    
+* **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
+
+* **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
+
+* **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.    
 
 			
 
 	
 
-###  Closure and Review
-
-    
+### Closure and Review
 
 -   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
 
@@ -139,33 +135,31 @@ This will be a project based final that will utilize all formats of storytelling
 
     
 
-##   Higher Level Thinking Skills Noted
+## Higher Level Thinking Skills Noted    
+
+* Developing a dynamic story
 
     
 
--   Developing a dynamic story
+* Adapting stories due to character developments
 
     
 
--   Adapting stories due to character developments
+* Perception due to appearance
 
     
 
--   Perception due to appearance
-
-    
-
-##  Relevance/Rationale:
+## Relevance/Rationale:
 
 The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
   
 
-##  Explorations and Extensions:
+## Explorations and Extensions:
 
 Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
 
-##  Assessment Criteria for Success:
+## Assessment Criteria for Success:
 
 Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
@@ -173,7 +167,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
   
 
-##  Reflections:
+## Reflections:
 
 To be completed upon the end of lesson.
 
