@@ -7,47 +7,45 @@ weight: 1
 source-id: 10Vo11_WlTlTm1zpfc7JodqkTn66XJkQrkWjtGIHqJBg
 published: true
 ---
-#  Lesson
+# Lesson
 
-##  Objective(s):
+## Objective(s):
 
-- Define the elements of Journalism
+* Define the elements of Journalism
 
-- Define the role of bias and objectivity in Journalism
+* Define the role of bias and objectivity in Journalism
 
-- Define the role of Verification and accuracy in Journalism
+* Define the role of Verification and accuracy in Journalism
 
-- Describe what elements make a good story
+* Describe what elements make a good story
 
-##  Overview:
+## Overview:
 
 "The purpose of journalism, is not defined by technology, nor by journalists or the techniques they employ." Rather, “the principles and purpose of journalism are defined by something more basic: the function news plays in the lives of people.” - Bill Kovach and Tom Rosenstiel
 
-###   Expected Lesson Duration: 
+### Expected Lesson Duration: 
 
 Lesson is expected to last 2 days.
 
-###   Preparing to Teach this Lesson:
+### Preparing to Teach this Lesson:
 
 There are no resources necessary for this lesson.
 
-###   Student Handouts:
+### Student Handouts:
 
 There are no handouts for this lesson as it is project based.
 
-###  Lesson Procedure:
+### Lesson Procedure:
 
-####  Introduction/Gain Attention
+#### Introduction/Gain Attention
 
 -  Icebreaker: The class will begin with an icebreaker activity that will stir conversations and or questions (ex: Two lies and a truth).
 
 	-   A lot of what follows as far as the informative partition comes from the American Press Institute. I find the information to be really well documented and informed.
 
-####  Project 
+#### Project 
 
--   Discussion guide
-
-    
+-   Discussion guide:
 
 	-   What is journalism? Journalism is the activity of gathering, assessing, creating, and presenting news and information. It is also the product of these activities.
 
@@ -65,7 +63,7 @@ There are no handouts for this lesson as it is project based.
 
     
 
-		-   Ex. ![](https://lh6.googleusercontent.com/M7zFShGHT6E6rJpeGpewhRpsETbRbmAGIqSutzK7Tt416Woh84sxTDc3k4kF9KhzorM7jzi-FAvxCAMU_6RBk5fJzaOm-pvbClB2Nj1cpLgEkknuu_NsUd4GYuE2bbbkaoNIMcoU)
+* Example:  ![](https://lh6.googleusercontent.com/M7zFShGHT6E6rJpeGpewhRpsETbRbmAGIqSutzK7Tt416Woh84sxTDc3k4kF9KhzorM7jzi-FAvxCAMU_6RBk5fJzaOm-pvbClB2Nj1cpLgEkknuu_NsUd4GYuE2bbbkaoNIMcoU)
 
     
 
@@ -83,35 +81,25 @@ There are no handouts for this lesson as it is project based.
 
 	-   a belief in representative government
 
-    
+   	-   open government
 
-	-   open government
-
-    
-
-	-   social equality
+    	-   social equality
 
     
 
 -   Yet an unquestioning adherence to policies based on these principles might not always be the best thing:
 
-    
-
 	-   Is democracy, for example, the best form of government for all people in all places at all times?
 
-    
+   	-   Should government not be allowed to have any secrets?
 
-	-   Should government not be allowed to have any secrets?
-
-    
-
-	-   How far should government go to promote social equality?
+   	-   How far should government go to promote social equality?
 
     
 
 -   There are also biases that cut both ways:
 
-    
+   
 
 	-   Being a crusader against social ills is generally good, but you can lose perspective.
 
@@ -165,43 +153,23 @@ There are no handouts for this lesson as it is project based.
 
 	- Good stories:
 
-    
-
-		-   are important and interesting
-
-    
+   		-   are important and interesting
 
 		-    prove their relevance to the audience
 
-    
-
 		-   have strong central characters
-
-    
 
 		-  use detail
 
-    
-
 		-  connect to deeper themes
-
-    
 
 		-  explore tensions
 
-    
-
 		-  capture emotions
-
-    
 
 		-  provide context
 
-    
-
 		-  surprise the reader
-
-    
 
 		-  empower the reader
 
@@ -213,91 +181,87 @@ There are no handouts for this lesson as it is project based.
 
 -   Armed with the knowledge from the discussion the students will write a one page article about _______________ (insert school, topic, something that is obtainable the students need to be able to interview someone about it) Ex. student wants to write about gaming interview someone that is affiliated or plays games ask real questions such as, does video gaming affect your sleep? Could you be doing something more useful with your time? Use the good story guideline (from students notes) and the black box guide (attached) to guide the questioning and story development process.
 
-###  Outcomes:
+### Outcomes:
 
--   Define and explain the elements of journalism
-
-    
-
--   Define the roles and importance of bias and objectivity in journalism
+* Define and explain the elements of journalism
 
     
 
--   Define the roles and importance of verification and accuracy in journalism
+* Define the roles and importance of bias and objectivity in journalism
 
     
 
--   Describe elements present in a good story
+* Define the roles and importance of verification and accuracy in journalism
 
     
 
--   Explain aspects comprising the organization of a story
+* Describe elements present in a good story
 
-###   Content of Lesson
+    
 
-- **Acquiring Key Concepts**: discussion of character roles, types, and development and how to identify these terms in media in any given medium.
+* Explain aspects comprising the organization of a story
 
-- **Engaging in Experiential Learning**: identifying the concepts discussed in examples of tv shows and videos.
+### Content of Lesson
 
-- **Building Proficiencies**: using skills from previous discussion and activity to work with a group in developing a unique storyline from a random image.
+* **Acquiring Key Concepts**: discussion of character roles, types, and development and how to identify these terms in media in any given medium.
 
-- **Connecting with STEM Professionals**: view a video interview with a director or writer in which they discuss the concepts focused on in class.
+* **Engaging in Experiential Learning**: identifying the concepts discussed in examples of tv shows and videos.
 
-- **Assessing Learning**: have groups explain the methods they used to complete the storyline for their given image. Also allow groups to compare their storyline and steps taken to those of other groups in class. Ask if students are able to identify the concepts of character roles and development in the stories their classmates created.
+* **Building Proficiencies**: using skills from previous discussion and activity to work with a group in developing a unique storyline from a random image.
+
+* **Connecting with STEM Professionals**: view a video interview with a director or writer in which they discuss the concepts focused on in class.
+
+* **Assessing Learning**: have groups explain the methods they used to complete the storyline for their given image. Also allow groups to compare their storyline and steps taken to those of other groups in class. Ask if students are able to identify the concepts of character roles and development in the stories their classmates created.
 
 ###  Closure and Review
 
-    
-
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
+* Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
 
     
 
--   Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
+* Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.
 
     
 
-##  Higher Level Thinking Skills Noted
+## Higher Level Thinking Skills Noted    
+
+* Developing a dynamic story
 
     
 
--   Developing a dynamic story
+* Adapting stories due to character developments
 
     
 
--   Adapting stories due to character developments
+* Perception due to appearance
 
     
 
--   Perception due to appearance
-
-    
-
-##  Relevance/Rationale:
+## Relevance/Rationale:
 
 The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
-##  Explorations and Extensions:
+## Explorations and Extensions:
 
 Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
 
-##  Assessment Criteria for Success:
+## Assessment Criteria for Success:
 
 Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
 Students will have successfully met the outcomes when fundamental questions about the importance of storytelling and its role in imagery can be observed through their writing and reflections of their peers work. Also questions about their current disposition are taken into consideration when they see media should begin to arise. Also a fluid and respectful use of time, along with an essay that is fluid, easy to follow, and retains its essentials as an ELA.
 
-##   Implementation Feedback: 
+## Implementation Feedback: 
 
 Students will receive feedback from their peers and instructor while they are sharing their story with their classmates. Students can then share what they felt about the project with their instructor; as well as what they gained from it, how it could have better benefited them, etc.
 
-##  Reflections:
+## Reflections:
 
 To be completed upon the end of lesson.
 
-##  Other Important Course Development Information
+## Other Important Course Development Information
 
-###  Best Practices:
+### Best Practices:
 
 #### Exemplary Previous student work: 
 
