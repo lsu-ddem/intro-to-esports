@@ -1,37 +1,35 @@
 ---
 title: Media Adaptation
 share: https://docs.google.com/open?id=1lG5BaahV6UATiwWZZuCvJTRhb039T-9Ta-Fx6t4Qvl0
-layout: post
+layout: http://digital-storytelling.lsupathways.org
 permalink: /3-:-media-adaptation/
 weight: 3
 source-id: 1lG5BaahV6UATiwWZZuCvJTRhb039T-9Ta-Fx6t4Qvl0
 published: true
 ---
-#  Lesson 
+# Lesson 
 
-##  Objective(s):
+## Objective(s):
 
 The students will be introduced to the concept of media adaptation by viewing examples of adaptations of media and gaining hands-on experience adapting media to another medium. 
 
-##  Overview:
+## Overview:
 
 This will be a project based final that will utilize all formats of storytelling previously learned in order to produce a new product Interactive Story.
 
-###  Expected Lesson Duration:
+### Expected Lesson Duration:
 
 2-3 days
 
   
 
-###  Lesson Procedure:
+### Lesson Procedure:
 
-####  Introduction/Gain Attention
-
-    
+#### Introduction/Gain Attention   
 
 -   The class will begin with an image, video or, sound and the student and have them write a story about what is just off the boundary of the medium.
 
-####  Project
+#### Project
 
 -   After the daily meme, the students will be introduced to the concept of media adaptation.
 
@@ -57,7 +55,7 @@ This will be a project based final that will utilize all formats of storytelling
 
 	- During class discussion of media adaptation, students may offer examples of media they know has been adapted to another medium.
 
-		- Sometimes cult followings of books or movies are not satisfied with the adaptations of the media; students can identify personal instances of this or adaptations they know of that received poor feedback.
+	- Sometimes cult followings of books or movies are not satisfied with the adaptations of the media; students can identify personal instances of this or adaptations they know of that received poor feedback.
 
 		
 
@@ -69,13 +67,13 @@ This will be a project based final that will utilize all formats of storytelling
 
 			- This means that stories were passed down through generations by simply remembering and retelling the stories.
 
-				- This practice is still present today. Do you have any family stories that your grandparents or great-grandparents passed down to your parents or yourself?
+			- This practice is still present today. Do you have any family stories that your grandparents or great-grandparents passed down to your parents or yourself?
 
-			- Unfortunately, this limited means of storytelling often resulted in changes to the original stories because of the ways different people choose to retell them, accidentally forgetting details, etc. Essentially, details were inevitably "lost (or changed) in translation" from generation to generation.
+		- Unfortunately, this limited means of storytelling often resulted in changes to the original stories because of the ways different people choose to retell them, accidentally forgetting details, etc. Essentially, details were inevitably "lost (or changed) in translation" from generation to generation.
 
-			- From oral storytelling, legends and stories were passed down from ancient times until they were able to be recorded (written down) in a developed language.
+		- From oral storytelling, legends and stories were passed down from ancient times until they were able to be recorded (written down) in a developed language.
 
-			- When civilization had the means to produce content in other mediums, these spoken legends and historical events influenced paintings, sculptures, written stories and tales, plays, etc.
+		- When civilization had the means to produce content in other mediums, these spoken legends and historical events influenced paintings, sculptures, written stories and tales, plays, etc.
 
 			- The cinematic adaptation of literary and theatrical text has been practiced since Shakespearean times (15th century), but the practice of theater itself predates Shakespeare by over 1000 years.
 
@@ -103,21 +101,21 @@ This will be a project based final that will utilize all formats of storytelling
 
 		- **Star Trek**
 
-			- Star Trek began as a televised science fiction series in 1966.
+- Star Trek began as a televised science fiction series in 1966.
 
 			- Now dubbed *The Original Series*, Star Trek aired for three seasons on NBC before it was cancelled due to poor ratings.
 
 			- Paramount Studios bought the series and began playing reruns of the show in in 1969. By the late 70's, Star Trek aired on hundreds of domestic and international markets. 
 
-			- The first media adaptation Star Trek experienced was  an adaptation to a series utilizing an animated medium, *Star Trek: The Animated Series*.
+			- The first media adaptation Star Trek experienced was  an adaptation to a series utilizing an animated medium,* Star Trek: The Animated Series*.
 
 			- The next adaptation for Star Trek was planned to be another series titled *Star Trek: Phase II*, but the series was not produced because of Paramount Studios voiding their television service.
 
 			- The actual next adaptation for Star Trek was then the adaptation of the pilot episode, originally planned for the new *Star Trek: Phase II* series, to a full length feature film, *Star Trek: The Motion Picture*.
 
-			- The adaptation was so successful that it grossed $139 million worldwide, resulting in the critically acclaimed sequel *Star Trek II: The Wrath of Khan* and 4 further sequels.
+			- The adaptation was so successful that it grossed $139 million worldwide, resulting in the critically acclaimed sequel *Star Trek II: The Wrath of Khan *and 4 further sequels.
 
-			- The popularity of the Star Trek films influenced the next adaptation from films back to a televised series, *Star Trek: The Next Generation*.
+			- The popularity of the Star Trek films influenced the next adaptation from films back to a televised series,* Star Trek: The Next Generation*.
 
 			- The *Star Trek* story has since been adapted countless times, back and forth between animated television, feature films, comic books, novels, etc., with the most recent adaptation being a prequel to the *Star Trek: The Original Series* titled *Star Trek: Discovery*, which premiered in September 2017 (Star Trek was created in 1964!).
 
@@ -133,53 +131,49 @@ This will be a project based final that will utilize all formats of storytelling
 
 			- Staying true to the subject is a practice students have been familiar with since the video journalism lesson and possibly prior.
 
-###  Outcomes
+### Outcomes
 
--   Define the concept of media adaptation
-
-    
-
--   Identify the causes of unsuccessful implementations of pre-existing stories/works when adapted to media
+* Define the concept of media adaptation
 
     
 
--   Understand and explain how the effects that media adaptations of works altering the original storyline impact viewers and the story itself
+* Identify the causes of unsuccessful implementations of pre-existing stories/works when adapted to media
+
+    
+
+* Understand and explain how the effects that media adaptations of works altering the original storyline impact viewers and the story itself
 
   
 
-###  Content of Lesson
+### Content of Lesson    
+
+* **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
+
+* **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
+
+* **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
+
+* **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
+
+* **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.  
+
+### Closure and Review    
+
+* Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
 
     
 
-- **Acquiring Key Concepts**: incorporating and utilizing all skills acquired during the imagery unit to produce an imagery heavy story.
+* Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.  
 
-- **Engaging in Experiential Learning**: peer reviewing comic strips created by classmates, providing constructive criticism, and identifying concepts that were emphasized in class discussion within the work being peer reviewed.
-
-- **Building Proficiencies**: using skills developed thus far to create a unique imagery heavy story and reviewing classmates' work while paying special attention to emphasized concepts such as diversity, POV, composition, and responsibility.
-
-- **Connecting with STEM Professionals**: view a video of a professional artist, filmer, producer, etc. working with comic strips or comics and discussing their work.
-
-- **Assessing Learning**: have students explain how they utilized individual skills gained throughout the unit in the creation of their comic strip. Students can also identify these skills being implemented or the presence of important concepts such as diversity, POV, composition, etc. in their classmates' work.  
-
-###  Closure and Review
-
-    
-
--   Reiterate the importance of storytelling in media, describe the amount of written work that is consumed by media outlets and the amount of recycled material that continues to be recirculated due to the lack of new material.
-
-    
-
-- Explain the importance of diversity in the storytellers and writers due to experiences and how it shapes our stories.  
-
-##  Relevance/Rationale:
+## Relevance/Rationale:
 
 The art and skill of storytelling that will be practiced in this class will help the students reasoning skills, cognitive constructive capabilities, and develop character. The creation of a narrative requires the student to develop a logical order from a sequence of events. In order for the student to develop a meaningful arrangement of events the student must begin to grow their narrative reasoning skills. These skills can evolve through the consumption and dissection of narrative literature, of a mixed medium. While developing of their narrative reasoning skills the students should/ will become more empathetic to others, wise to deciphering the true purpose of the story, and become comprehensive thinkers of their own circumstances. The students are finally at the age in which they are beginning to construct their own narratives. We, as educators, want them to be exposed to a great diversity of narratives in order mature those narrative reasoning skills. The more developed their narrative reasoning skills are the more they get from a story (deeper perspective). The more advanced their skills, the more likely they are to rationalize why this character chose a particular path, place themselves in the characters shoes, and develop their own character.
 
-##  Explorations and Extensions:
+## Explorations and Extensions:
 
 Does the dynamic aspect of storytelling take anything away from the message that the author may be trying to deliver?
 
-##  Assessment Criteria for Success:
+## Assessment Criteria for Success:
 
 Content knowledge, student knowledge, and appropriate resources are aligned to instructional outcomes. student learning will be assessed throughout the lesson via question responses and correlation to the project.
 
@@ -187,7 +181,7 @@ Students will have successfully met the outcomes when fundamental questions abou
 
   
 
-##  Reflections:
+## Reflections:
 
 To be completed upon the end of lesson.
 
