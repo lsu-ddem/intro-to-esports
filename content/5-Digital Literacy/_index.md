@@ -1,6 +1,6 @@
 ---
 title: "Digital Literacy"
-weight: 5
+weight: 7
 ---
 
 ## Unit Description: 

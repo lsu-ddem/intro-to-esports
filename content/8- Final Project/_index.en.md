@@ -1,6 +1,6 @@
 ---
 title: "Portfolio/Final Project"
-weight: 8
+weight: 10
 ---
 
 ## Unit Description: 

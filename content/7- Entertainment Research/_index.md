@@ -1,6 +1,6 @@
 ---
 title: "Entertainment Research"
-weight: 7
+weight: 9
 ---
 
 ## Unit Description: 

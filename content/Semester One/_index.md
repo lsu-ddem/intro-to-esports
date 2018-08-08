@@ -1,5 +1,5 @@
 ---
-title: "Semester One"
+title: "Semester One:"
 weight: 1
 ---
 
