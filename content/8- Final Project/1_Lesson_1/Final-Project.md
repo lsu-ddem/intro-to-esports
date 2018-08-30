@@ -21,6 +21,11 @@ Students will produce a game, utilizing multiple digital mediums and techniques 
 
 Lesson is expected to last 3-4 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/c/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.C</a>
+
+
 ### Preparing to Teach this Lesson:
 
 There are no resources necessary for this lesson. All resources, such as Twinery, have been issued in previous lessons.
