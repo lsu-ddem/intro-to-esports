@@ -21,6 +21,10 @@ This lesson consists of introducing students to the concept of digital literacy 
 
 Lesson is expected to last 2 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/WHST/9-10/2/c/" target="_blank">CCSS.ELA-LITERACY.WHST.9-10.2.C</a>
+
 ###   Preparing to Teach this Lesson:
 
 - [Types of characters in fiction pdf](https://drive.google.com/file/d/1cAmjksabeZRhkuTfPcHxvpTUwPjvttQDzlLIk77Kg1X1jWA09IHorF0E7d_zZKC1xg8dniwcank-baxg/view), used for brief discussion of character types, roles, and development.
