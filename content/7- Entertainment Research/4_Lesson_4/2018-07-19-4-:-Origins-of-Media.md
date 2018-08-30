@@ -21,6 +21,10 @@ This will be a project based final that will utilize all formats of storytelling
 
 2-3 days
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/c/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.C</a>
+
 ### Lesson Procedure:
 
 #### Introduction/Gain Attention  

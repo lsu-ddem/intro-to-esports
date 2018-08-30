@@ -21,6 +21,10 @@ Design aspects and meaning (patterns a designs in [costumes](https://www.npr.org
 
 8 days
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/9/" target="_blank">CCSS.ELA-LITERACY.W.9-10.9</a>
+
 ### Lesson Procedure:
 
 #### Introduction/Gain Attention
