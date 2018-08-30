@@ -35,6 +35,10 @@ We will be reframing the use of photography for the journalist and explore the p
 
 Lesson is expected to last 2 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/9/" target="_blank">CCSS.ELA-LITERACY.W.9-10.9</a>
+
 ### Preparing to Teach this Lesson:
 
 - No resources needed for this lesson.

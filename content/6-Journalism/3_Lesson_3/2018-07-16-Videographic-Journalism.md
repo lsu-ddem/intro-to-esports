@@ -27,6 +27,11 @@ This will be a project based on video journalism and the research and developmen
 
 1-2 days
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3</a>
+
+
 ### Lesson Procedure:
 
 #### Introduction/Gain Attention    

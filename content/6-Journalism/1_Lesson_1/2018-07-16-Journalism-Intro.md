@@ -27,6 +27,10 @@ published: true
 
 Lesson is expected to last 2 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/3/c/" target="_blank">CCSS.ELA-LITERACY.W.9-10.3.C</a>
+
 ### Preparing to Teach this Lesson:
 
 There are no resources necessary for this lesson.

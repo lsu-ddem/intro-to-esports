@@ -37,6 +37,10 @@ Exploring the role of citizen and social journalism in our local and global soci
 
 2-4 days
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/W/9-10/9/" target="_blank">CCSS.ELA-LITERACY.W.9-10.9</a>
+
 ### Lesson Procedure:
 
 #### Introduction/Gain Attention
