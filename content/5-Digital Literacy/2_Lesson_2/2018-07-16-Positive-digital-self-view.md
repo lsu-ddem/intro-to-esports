@@ -21,6 +21,10 @@ This lesson will describe what digital literacy through demonstration and encour
 
 Lesson is expected to last 2 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/SL/9-10/5/">CCSS.ELA-LITERACY.SL.9-10.5</a>
+
 ### Preparing to Teach this Lesson:
 
 There are no resources necessary for this lesson.

@@ -20,6 +20,10 @@ This lesson consists of teaching students how to protect their personal and digi
 
 Lesson is expected to last 2 days.
 
+#### Interdisciplinary Connection(s) to Common Core
+
+-  <a href = "http://www.corestandards.org/ELA-Literacy/SL/9-10/5/">CCSS.ELA-LITERACY.SL.9-10.5</a>
+
 ### Preparing to Teach this Lesson:
 
 There are no resources necessary for this lesson.
