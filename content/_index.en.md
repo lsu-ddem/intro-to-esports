@@ -9,6 +9,4 @@ title: "Digital Storytelling"
 {{% link "digital-storytelling.pdf" %}}
 
 <br>
-
-
 {{% link "group-contract.pdf" %}}
