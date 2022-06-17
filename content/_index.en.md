@@ -7,3 +7,5 @@ title: "Digital Storytelling"
 ## Course Description and Objectives
 
 {{% link "digital-storytelling.pdf" %}}
+
+{{% link "group-contract.pdf" %}}
