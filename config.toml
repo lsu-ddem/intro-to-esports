@@ -7,12 +7,12 @@ theme = "hugo-pathways-theme"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
-publishURL = "http://digital-storytelling.lsupathways.org"
+publishURL = "http://intro-to-esports.lsupathways.org"
 
 [params]
-  editURL = "https://github.com/lsu-ddem/pathways-site"
+  editURL = "https://github.com/lsu-ddem/intro-to-esports"
   description = "Educational material for Pre-Engineering"
-  author = "Tate Carson"
+  author = "Erin Demastes"
   showVisitedLinks = true
   themeVariant = "blue"
 
