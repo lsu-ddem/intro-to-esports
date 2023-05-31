@@ -6,9 +6,3 @@
   HUGO_VERSION = "0.37.1"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
-
-
-  [build.environment]
-    YARN_FLAGS = "--frozen-lockfile"
-    YARN_VERSION = "1.22.4"
-    NODE_VERSION = "12"
