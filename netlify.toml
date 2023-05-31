@@ -1,7 +1,6 @@
 [build]
   publish = "public"
   command = "hugo"
-  command = "yarn run build && cp build/* releases/"
   publish = "releases"
 
 [context.production.environment]
