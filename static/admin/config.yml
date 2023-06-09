@@ -1,4 +1,4 @@
-local_backend: true
+
 backend:
   name: git-gateway
 
@@ -7,8 +7,8 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   # Unit 1
-  - name: "Esports Test Index"
-    label: "Test"
+  - name: "Esports Test"
+    label: "Unit 1 - Test"
     folder: "content/1_Unit_1/1_Lesson_1"
     create: true
     fields:
