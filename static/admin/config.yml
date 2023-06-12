@@ -7,14 +7,14 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   # Unit 1
-  - name: "Intro to Esports"
-    label: "Intro to Esports"
-    folder: "content"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Intro to Esports"
+  #   label: "Intro to Esports"
+  #   folder: "content"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
   - name: "Semester One"
     label: "Semester One"
     folder: "content/Semester One"
