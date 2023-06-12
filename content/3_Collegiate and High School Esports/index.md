@@ -1,6 +1,6 @@
 ---
 title: "Collegiate and High School Esports"
-weight: 4
+weight: 3
 ---
 
 <!-- ## Unit Description: 

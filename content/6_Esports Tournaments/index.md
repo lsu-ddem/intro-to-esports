@@ -1,6 +1,6 @@
 ---
 title: "Esports Tournaments"
-weight: 8
+weight: 6
 ---
 
 <!-- ## Unit Description: 

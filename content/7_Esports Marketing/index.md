@@ -1,6 +1,6 @@
 ---
 title: "Esports Marketing"
-weight: 9
+weight: 7
 ---
 
 <!-- ## Unit Description: 

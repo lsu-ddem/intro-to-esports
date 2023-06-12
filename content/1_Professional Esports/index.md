@@ -1,6 +1,6 @@
 ---
-title: Professional Esports
-weight: 2
+title: "Professional Esports"
+weight: 1
 ---
 ## Unit Description: 
 lorem ipsum test test
