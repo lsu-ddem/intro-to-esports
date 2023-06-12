@@ -97,14 +97,14 @@ collections:
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "Esports Production"
-    label: "Esports Production"
-    folder: "content/8_Esports Production"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Esports Production"
+  #   label: "Esports Production"
+  #   folder: "content/8_Esports Production"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
 
     - name: "Esports Content Creation"
     label: "Esports Content Creation"
