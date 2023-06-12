@@ -1,10 +1,16 @@
 ---
-title: "Intro to Esports"
+title: Intro to Esports
+weight: 1
 ---
 
 # Intro to Esports
 
 ## Course Description and Objectives
+
+Add text here!
+
+
+
 
 <!-- New CMS Script Do Not Delete -->
 
