@@ -83,27 +83,27 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Esports Marketing"
-  #   label: "Esports Marketing"
-  #   folder: "content/7_Esports Marketing"
-  #   create: true
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Order", name: "weight", widget: "number" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  # - name: "Esports Production"
-  #   label: "Esports Production"
-  #   folder: "content/8_Esports Production"
-  #   create: true
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Order", name: "weight", widget: "number" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-  #   - name: "Esports Content Creation"
-  #   label: "Esports Content Creation"
-  #   folder: "content/9_Esports Content Creation"
-  #   create: true
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Order", name: "weight", widget: "number" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Esports Marketing"
+    label: "Esports Marketing"
+    folder: "content/7_Esports Marketing"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Esports Production"
+    label: "Esports Production"
+    folder: "content/8_Esports Production"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Esports Content Creation"
+    label: "Esports Content Creation"
+    folder: "content/9_Esports Content Creation"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
