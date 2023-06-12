@@ -59,8 +59,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-
-  
   - name: "Project"
     label: "Project"
     folder: "content/4_Project"
@@ -69,7 +67,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  
   - name: "Esports and Sports"
     label: "Esports and Sports"
     folder: "content/5_Esports and Sports"
@@ -78,7 +75,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "Esports Tournaments"
     label: "Esports Tournaments"
     folder: "content/6_Esports Tournaments"
@@ -87,7 +83,6 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-
   - name: "Esports Marketing"
     label: "Esports Marketing"
     folder: "content/7_Esports Marketing"
@@ -96,16 +91,14 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-
-  # - name: "Esports Production"
-  #   label: "Esports Production"
-  #   folder: "content/8_Esports Production"
-  #   create: true
-  #   fields:
-  #     - { label: "Title", name: "title", widget: "string" }
-  #     - { label: "Order", name: "weight", widget: "number" }
-  #     - { label: "Body", name: "body", widget: "markdown" }
-
+  - name: "Esports Production"
+    label: "Esports Production"
+    folder: "content/8_Esports Production"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
     - name: "Esports Content Creation"
     label: "Esports Content Creation"
     folder: "content/9_Esports Content Creation"
