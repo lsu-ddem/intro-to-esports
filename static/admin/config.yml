@@ -7,6 +7,22 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   # Unit 1
+  - name: "Intro to Esports"
+    label: "Intro to Esports"
+    folder: "content"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "Semester One"
+    label: "Semester One"
+    folder: "content/Semester One"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "Professional Esports"
     label: "Professional Esports"
     folder: "content/1_Professional Esports"
@@ -62,6 +78,14 @@ collections:
   - name: "Project"
     label: "Project"
     folder: "content/4_Project"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Order", name: "weight", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }
+   - name: "Semester Two"
+    label: "Semester Two"
+    folder: "content/Semester Two"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
