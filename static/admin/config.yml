@@ -9,7 +9,7 @@ collections:
   # Unit 1
   - name: "Professional Esports"
     label: "Professional Esports"
-    folder: "content/Professional Esports/1_Lesson_1"
+    folder: "content/1_Professional Esports/1_Lesson_1"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
