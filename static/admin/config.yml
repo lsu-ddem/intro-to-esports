@@ -15,45 +15,45 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2"
-    label: "Unit 1 - Lesson 2"
-    folder: "content/1_Unit_1/2_Lesson_2"
+  - name: "Amateur Esports"
+    label: "Amateur Esports"
+    folder: "content/2_Amateur Esports"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Order", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  #Projects
-  - name: "Unit 1 - Lesson 2 - Project 1"
-    label: "Unit 1 - Lesson 2 - Project 1"
-    folder: "content/1_Unit_1/2_Lesson_2/1_Project_1"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2 - Project 2"
-    label: "Unit 1 - Lesson 2 - Project 2"
-    folder: "content/1_Unit_1/2_Lesson_2/2_Project_2"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-  - name: "Unit 1 - Lesson 2 - Project 3"
-    label: "Unit 1 - Lesson 2 - Project 3"
-    folder: "content/1_Unit_1/2_Lesson_2/3_Project_3"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Order", name: "weight", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
+  # #Projects
+  # - name: "Unit 1 - Lesson 2 - Project 1"
+  #   label: "Unit 1 - Lesson 2 - Project 1"
+  #   folder: "content/1_Unit_1/2_Lesson_2/1_Project_1"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Unit 1 - Lesson 2 - Project 2"
+  #   label: "Unit 1 - Lesson 2 - Project 2"
+  #   folder: "content/1_Unit_1/2_Lesson_2/2_Project_2"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
+  # - name: "Unit 1 - Lesson 2 - Project 3"
+  #   label: "Unit 1 - Lesson 2 - Project 3"
+  #   folder: "content/1_Unit_1/2_Lesson_2/3_Project_3"
+  #   create: true
+  #   fields:
+  #     - { label: "Title", name: "title", widget: "string" }
+  #     - { label: "Order", name: "weight", widget: "number" }
+  #     - { label: "Body", name: "body", widget: "markdown" }
 
   #Back to lessons
-  - name: "Unit 1 - Lesson 3"
-    label: "Unit 1 - Lesson 3"
-    folder: "content/1_Unit_1/3_Lesson_3"
+  - name: "Collegiate and High School Esports"
+    label: "Collegiate and High School Esports"
+    folder: "content/3_Collegiate and High School Esports"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
