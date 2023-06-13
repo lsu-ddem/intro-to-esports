@@ -4,7 +4,7 @@ weight: 2
 ---
 <!--StartFragment-->
 
-### Sports Assignment 2 
+### Sport Assignment 2 
 
 Utilizing Esports Insider’s “Esports Around The World” series, and at least ONE extra source, choose ONE of the following countries and briefly write about how esports has developed in that country, noting any significant government interventions. Use the questions below as guidelines for talking points.
 
