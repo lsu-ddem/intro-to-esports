@@ -1,7 +1,7 @@
 ---
-title: "Esports Tournaments"
+title: Esports Tournaments
 weight: 8
 ---
+### U﻿nit Description:
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+S﻿tudents will understand how the professional ecosystem operates across various game titles and how that shapes competition. This unit will give an overview of different tournament structures and help students understand why organizers choose certain structures.
