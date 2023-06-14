@@ -1,7 +1,7 @@
 ---
-title: "Amateur Esports"
+title: Amateur Esports
 weight: 3
 ---
+### U﻿nit Description:
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+Amateur esports will dive into how various titles handle the path to pro element of esports, or the talent pipeline.
