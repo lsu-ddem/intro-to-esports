@@ -13,8 +13,9 @@ S﻿tudents are encouraged to keep an eye out for any and all esports news and s
 * S﻿ponsor Announcement
 * N﻿ew Game Titles
 
-#### E﻿xampls of some good sources to use:
+#### E﻿xamples of some good sources to use:
 
-* ﻿Dexerto﻿﻿
-* H﻿LTV
-*
+* ﻿[Dexerto﻿﻿](dexerto.com/esports)
+* [H﻿LTV](hltv.org)
+* [Dot Esports](dotesports.com)
+* [E﻿sports Insider](esportsinsider.com)
