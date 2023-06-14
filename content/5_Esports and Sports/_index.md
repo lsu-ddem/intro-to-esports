@@ -1,7 +1,9 @@
 ---
-title: "Esports and Sports"
+title: Esports and Sports
 weight: 7
 ---
+### U﻿nit Description:
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+S﻿tudents will learn about how esports evolved over the past few decades and how the traditional sporting world intersects with esports. 
+
+Assignments will include students arguing if they consider esports a sport, researching how various countries treat esports from a governmental standpoint, and discussing how the IOC are adopting esports.
