@@ -1,6 +1,6 @@
 ---
 title: Professional Esports
-weight: 1
+weight: 2
 ---
 ## Unit Description:
 
