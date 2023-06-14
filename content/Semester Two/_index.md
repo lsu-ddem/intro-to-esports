@@ -2,6 +2,14 @@
 title: "Semester Two:"
 weight: 6
 ---
+### S﻿emester 2
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+I﻿n semester two, students will take a deeper dive into the esports industry. Topics of study will include how sports and esports intertwine, esports tournaments, marketing, production and content creation. Each topic will have assignments for students to complete which will either involve writing an argument, researching a topic or creating something tangible. 
+
+
+
+#### G﻿rading
+
+* Assignments - 70%
+* Quizzes - 15%
+* Student Involvement/Dicusstions - 15%
