@@ -1,7 +1,7 @@
 ---
-title: "Collegiate and High School Esports"
+title: Collegiate and High School Esports
 weight: 4
 ---
+### U﻿nit Description:
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+S﻿tudents will understand how academic adjacent esports functions across the United States and set them up to be involved in their esports clubs on campus, no matter where they may be/go.
