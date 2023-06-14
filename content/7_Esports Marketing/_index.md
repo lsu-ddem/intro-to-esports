@@ -1,7 +1,9 @@
 ---
-title: "Esports Marketing"
+title: Esports Marketing
 weight: 9
 ---
+### U﻿nit Description:
 
-<!-- ## Unit Description: 
-Discovery and PBL through the research of photography, video, and sound in order to determine their origins and disaggregating information in the research in order to define and classify the constitution of an article -->
+S﻿tudents will understand how marketing is used within the esports industry to market products and brands through esports as well as promoting esports itself. 
+
+Assignments will include students to research an esports team and identify corporate partners and get creative with a real world social media scenario.
