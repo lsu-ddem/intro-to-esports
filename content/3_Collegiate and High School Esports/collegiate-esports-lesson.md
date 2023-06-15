@@ -36,3 +36,5 @@ S﻿port Club - Intramural/Recreation
 V﻿arsity - Where is Varsity held?
 
 C﻿hris Postell research.
+
+C﻿ollegiate tournaments - CRL, CLOL, Heroes of the Dorm
