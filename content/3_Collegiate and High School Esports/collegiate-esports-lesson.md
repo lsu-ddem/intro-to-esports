@@ -12,8 +12,6 @@ S﻿tudents will understand the roles requiered to manage a student organization
 
 ### O﻿verview
 
-
-
 ### R﻿esources
 
 G﻿OOGLE SLIDES
@@ -26,3 +24,15 @@ O﻿pen the lesson with the weekly discussion about recent news within the espor
 * W﻿ho is involved in the story?
 * W﻿hy is the story important or worth discussing?
 * W﻿hat are the implications/outcomes?
+
+P﻿roceed to talk through the presentation linked above in resources. 
+
+S﻿KELETON PLAN
+
+S﻿tudent Org - Structure/Operationss
+
+S﻿port Club - Intramural/Recreation
+
+V﻿arsity - Where is Varsity held?
+
+C﻿hris Postell research.
