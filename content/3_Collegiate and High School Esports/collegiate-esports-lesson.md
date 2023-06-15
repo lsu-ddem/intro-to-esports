@@ -35,6 +35,8 @@ S﻿port Club - Intramural/Recreation
 
 V﻿arsity - Where is Varsity held?
 
+O﻿utliers - University of Kentucky
+
 C﻿hris Postell research.
 
-C﻿ollegiate tournaments - CRL, CLOL, Heroes of the Dorm
+C﻿ollegiate tournaments - CCA into CRL, CLoL/VALORANT, Heroes of the Dorm, Collegiate Dungeon Race
