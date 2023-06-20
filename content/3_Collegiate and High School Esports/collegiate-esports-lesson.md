@@ -8,7 +8,7 @@ S﻿tudents will gain an understanding of how esports operates when housed in ac
 
 S﻿tudents will be able to identify the differences between student organizations, sport clubs and varsity esports programs. 
 
-S﻿tudents will understand the roles requiered to manage a student organization for esports.
+Students will understand the roles required to manage a student organization for esports.
 
 ### O﻿verview
 
@@ -25,7 +25,7 @@ O﻿pen the lesson with the weekly discussion about recent news within the espor
 * W﻿hy is the story important or worth discussing?
 * W﻿hat are the implications/outcomes?
 
-P﻿roceed to talk through the presentation linked above in resources. 
+Proceed to talk through the presentation linked above in resources. 
 
 S﻿KELETON PLAN
 
