@@ -26,3 +26,7 @@ O﻿pen the lesson with the weekly discussion about recent news within the espor
 * W﻿hat are the implications/outcomes?
 
 Proceed to talk through the presentation linked above in resources.
+
+T﻿his section contains one assignment which allows student to independantly research a collegiate esports program and relate findings to the material covered in class Feel free to have students complete this in class or outside of class time but ensure that something tangible is submitted for grading. If completed outside of class time, have students discuss their responses in class with other students.
+
+There is also a long documentary included for students to watch which covers the journey of four collegiate teams compete in the early days of collegiate esports, followed by a discussion. There are a number of other dicussion points throughout the material where students should be encouraged to share their opinions. 
