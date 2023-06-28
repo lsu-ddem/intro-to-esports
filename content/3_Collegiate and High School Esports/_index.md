@@ -1,5 +1,5 @@
 ---
-title: Collegiate and High School Esports
+title: Collegiate Esports
 weight: 4
 ---
 ### U﻿nit Description:
