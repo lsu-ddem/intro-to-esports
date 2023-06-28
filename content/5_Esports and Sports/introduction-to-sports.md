@@ -12,7 +12,7 @@ Students will have researched how esports functions in different countries on a 
 
 ### R﻿esources
 
-G﻿OOGLE SLIDES LINK
+PDF: [Here](https://drive.google.com/file/d/1M3Y_2doKtSd-f6pGcGmwtzf_72xCbCyy/view?usp=drive_link)
 
 ### L﻿esson Procedure
 
