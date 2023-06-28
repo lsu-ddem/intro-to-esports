@@ -12,7 +12,7 @@ Students will be able to define what esports is.
 
 ### R﻿esources
 
-
+P﻿DF: [Here](https://drive.google.com/file/d/1M3Y_2doKtSd-f6pGcGmwtzf_72xCbCyy/view?usp=drive_link)
 
 ### L﻿esson Procedure
 
