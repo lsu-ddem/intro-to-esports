@@ -14,7 +14,7 @@ Students will understand the roles required to manage a student organization for
 
 ### R﻿esources
 
-P﻿DF: \[Here](https://drive.google.com/file/d/163WimOVkn6gfYS-icqAKScB4IHViYCAa/view?usp=drive_link)
+P﻿DF: [Here](https://drive.google.com/file/d/163WimOVkn6gfYS-icqAKScB4IHViYCAa/view?usp=drive_link)
 
 ### L﻿esson Procedure
 
