@@ -12,7 +12,7 @@ Students will
 
 ### Resources
 
-G﻿OOGLE SLIDES LINK
+P﻿DF: [Here](https://drive.google.com/file/d/1ucKLLUXGZBHHOMOzMC-UK4M6eM2Htnh6/view?usp=sharing)
 
 ### L﻿esson Procedure
 
