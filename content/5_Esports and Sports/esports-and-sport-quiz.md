@@ -1,6 +1,6 @@
 ---
 title: Esports and Sport Quiz
-weight: 8
+weight: 9
 ---
 O﻿nce assignments and material is complete, give the students the following quiz which will count towards their grade:
 
