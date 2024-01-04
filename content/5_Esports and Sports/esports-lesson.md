@@ -1,5 +1,5 @@
 ---
-title: Introduction to Esports
+title: Introduction to Esports and Sports
 weight: 1
 ---
 ### O﻿bjectives
@@ -9,6 +9,20 @@ S﻿tudents will learn about how esports has grown over decades and be able to d
 S﻿tudents will be able to identify various genres of esports titles and how they have evolved over time. 
 
 Students will be able to define what esports is. 
+
+S﻿tudents will understand what an academic definition of a sport may be and if it can be applied to esports.
+
+
+
+S﻿tudents will be able to discuss where esports and sports crossover and intersect.
+
+
+
+Students will have researched how esports functions in different countries on a governmental level.
+
+
+
+R﻿ESOURCES
 
 ### R﻿esources
 
